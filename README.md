@@ -1,0 +1,1 @@
+# BatchGetSymbols-Shiny
