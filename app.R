@@ -12,6 +12,7 @@ library(ggplot2)
 library(BatchGetSymbols)
 library(stringr)
 library(shinyWidgets)
+library(shinydashboard)
 
 year_back <- 5
 available_indices <- c('SP500', 'FTSE', 
@@ -22,24 +23,55 @@ df_ibov <- GetIbovStocks(cache.folder = cache_folder_indices)
 df_sp500 <- GetSP500Stocks(cache.folder = cache_folder_indices)
 
 # Define UI for application that draws a histogram
-ui <- fluidPage(
-    titlePanel('BatchGetSymbols-Shiny'),
-    
-    sidebarLayout(
-        sidebarPanel(width = 3,
-                     selectInput('index', 'Choose your Index', 
-                                 choices = available_indices, 
-                                 selected = sample(available_indices, 1)),
-                     tags$hr(),
-                     uiOutput('ticker_ui')
-        ),
-        mainPanel(width = 6,
-                  textOutput('company_name', tags$h2),
-                  tags$hr(),
-                  #h4('Ajusted Prices'),
-                  plotOutput("price_plot"),
-                  verbatimTextOutput('text'))
+ui <- dashboardPage(
+    dashboardHeader(title = "BatchGetSymbols Dashboard"),
+    ## Sidebar content
+    dashboardSidebar(
+        sidebarMenu(
+            menuItem("Single Stocks", tabName = "single_stocks", icon = icon("dashboard")),
+            menuItem("Multiple Stocks", tabName = "multiple_stocks", icon = icon("th")),
+            menuItem("Indices", tabName = "indices", icon = icon("chart-line"))
+        )
+    ),
+    dashboardBody(
+        tabItems(
+            # Single stocks tab ----
+            tabItem(tabName = "single_stocks",
+                    fluidRow(
+                        column(3,
+                               infoBox('my info box', value = 13, subtitle = 'subtitle')),
+                        column(3,
+                               infoBox('my info box', value = 13, subtitle = 'subtitle'))
+                        ),
+                    fluidRow(
+                        box(selectInput('index', 'Choose your Index', 
+                                        choices = available_indices, 
+                                        selected = sample(available_indices, 1)),
+                            tags$hr(),
+                            uiOutput('ticker_ui'))),
+                    fluidRow(
+                        box(
+                            htmlOutput('company_name'),
+                            tags$hr(),
+                            #h4('Ajusted Prices'),
+                            plotOutput("price_plot"),
+                            verbatimTextOutput('text')
+                        )
+                        
+                    )
+            ),
+            
+            # Multiple stocks tab ----
+            tabItem(tabName = 'multiple_stocks',
+                    h3('Multiple stocks')
+            ),
+            # Indices stocks tab ----
+            tabItem(tabName = 'indices',
+                    h3('Indices')
+            )
+        )
     )
+    
 )
 
 
@@ -105,8 +137,8 @@ server <- function(input, output, session) {
     
     output$company_name <- renderText({
         l_out <- get_company_info()
-
-        str_glue('{l_out$company_name} ({l_out$company_sector})')
+        
+        str_glue('<h3>{l_out$company_name}</h3> <p>{l_out$company_sector}</p>')
     })
     
     
