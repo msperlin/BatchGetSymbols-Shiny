@@ -18,62 +18,10 @@ library(purrr)
 library(scales)
 library(PerformanceAnalytics)
 
-years_back <- 5
-available_indices <- c('SP500', 'FTSE', 
-                       'Ibovespa')
-cache_folder_indices <- 'cache-indices'
-
 # load data
-df_ftse <- GetFTSE100Stocks(cache.folder = cache_folder_indices)
-df_ibov <- GetIbovStocks(cache.folder = cache_folder_indices)
-df_sp500 <- GetSP500Stocks(cache.folder = cache_folder_indices)
+source('globals.R', local = TRUE)
 
-stock_indices <- readr::read_csv('data/stock_indices.csv',
-                                 col_types = readr::cols())
 
-n_available_stocks <- n_distinct(c(df_ftse$tickers,
-                                   df_ibov$tickers,
-                                   df_sp500$Tickers))
-
-# define global options
-options(digits = 4,
-        accuracy = 0.01)
-
-calc_performance <- function(df_in) {
-    
-    tab <- df_in %>%
-        group_by(ticker) %>%
-        summarise(
-            n_years = (max(ref.date) -
-                           min(ref.date))[[1]]/365,
-            total_ret = last(price.adjusted)/
-                first(price.adjusted) - 1,
-            ret_per_year = (1 + total_ret)^(1/n_years) - 1,
-            max_drawdown = maxDrawdown(ret.adjusted.prices)
-        ) %>%
-        mutate(total_ret = percent(total_ret, accuracy = 0.01),
-               ret_per_year = percent(ret_per_year, accuracy = 0.01),
-               max_drawdown = percent(max_drawdown, accuracy = 0.01)) %>%
-        rename(`Ticker` = ticker,
-               `Number of Years` = n_years,
-               `Total Return` = total_ret,
-               `Return per Year` = ret_per_year,
-               `Max. Drawdown` = max_drawdown)
-    
-    tab
-}
-
-calc_cumret <- function(df_prices, ticker_in) {
-    df_prices_temp <- df_prices %>%
-        select(ref.date, ticker, ret.adjusted.prices) %>%
-        filter(ticker == ticker_in) %>%
-        na.omit()
-    
-    df_prices_temp$ret.adjusted.prices[1] <- 0 
-    df_prices_temp$cum_ret <- cumprod(1+df_prices_temp$ret.adjusted.prices)
-    
-    return(df_prices_temp)
-}
 
 # Define UI for application that draws a histogram
 ui <- dashboardPage(
@@ -90,143 +38,15 @@ ui <- dashboardPage(
     dashboardBody(
         tabItems(
             # Single stocks tab ----
-            tabItem(tabName = "single_stocks",
-                    fluidRow(
-                        infoBox('Market Indices', 
-                                color =  'light-blue',
-                                value = n_distinct(available_indices),
-                                icon = icon('landmark'), 
-                                width = 3),
-                        uiOutput('infobox_nstocks'),
-                        uiOutput('infobox_nprices')
-                        
-                    ),
-                    fluidRow(
-                        box(width = 3,
-                            selectInput('index', 'Choose your Index', 
-                                        choices = available_indices, 
-                                        selected = sample(available_indices, 1))),
-                        box(width = 3,
-                            uiOutput('ticker_ui')
-                        ),
-                        box(width = 3,
-                            dateRangeInput('date_range', 
-                                           label = 'Time period',
-                                           start = Sys.Date() - years_back*365,
-                                           end = Sys.Date())
-                        )
-                    ),
-                    fluidRow(
-                        tabBox(width = 9,
-                               tabPanel(title = 'Price Plot',
-                                        htmlOutput('company_name'),
-                                        tags$hr(),
-                                        plotOutput("price_plot")
-                               ),
-                               tabPanel(title = 'Performance',
-                                        tableOutput('perf_table1')
-                               ),
-                               tabPanel(title = 'Download Data',
-                                        downloadBttn(
-                                            outputId = "dl_single_csv",
-                                            label = 'Download CSV File',
-                                            style = "simple",
-                                            color = "primary"),
-                                        downloadBttn(
-                                            outputId = 'dl_single_xlsx',
-                                            label =  'Download Excel File',
-                                            style = "simple",
-                                            color = "primary")
-                               )
-                        )
-                    ),
-                    
-            ),
+            ui_single_stocks(),
             
             # Multiple stocks tab ----
-            tabItem(tabName = 'multiple_stocks',
-                    fluidRow(
-                        box(width = 3,
-                            selectInput('index_multiple', 'Choose your Index', 
-                                        choices = available_indices, 
-                                        selected = sample(available_indices, 1))),
-                        box(width = 3,
-                            uiOutput('multiple_ticker_ui')
-                        ),
-                        box(width = 3,
-                            dateRangeInput('date_range_multiple', 
-                                           label = 'Select Time Period',
-                                           start = Sys.Date() - years_back*365,
-                                           end = Sys.Date())
-                        )
-                    ),
-                    
-                    fluidRow(
-                        tabBox(width = 9,
-                               tabPanel(title = 'Price Plot',
-                                        tags$hr(),
-                                        plotOutput("multiple_price_plot")
-                               ),
-                               tabPanel(title = 'Performance',
-                                        tableOutput('perf_table2')
-                               ),
-                               tabPanel(title = 'Download Data',
-                                        downloadBttn(
-                                            outputId = "dl_multiple_csv",
-                                            label = 'Download CSV File',
-                                            style = "simple",
-                                            color = "primary"),
-                                        downloadBttn(
-                                            outputId = 'dl_multiple_xlsx',
-                                            label =  'Download Excel File',
-                                            style = "simple",
-                                            color = "primary")
-                               )
-                        )
-                    )
-            ),
+            ui_multiple_stocks(),
+            
             # Indices stocks tab ----
-            tabItem(tabName = 'indices',
-                    fluidRow(
-                        box(width = 4,
-                            selectInput('index_to_pick', 'Choose your Indices', 
-                                        choices = stock_indices$Symbol, 
-                                        multiple = TRUE,
-                                        selected = sample(stock_indices$Symbol, 2))
-                            ),
-                        box(width = 4,
-                            dateRangeInput('date_range_index', 
-                                           label = 'Select Time Period',
-                                           start = Sys.Date() - (years_back+5)*365,
-                                           end = Sys.Date())
-                        )
-                    ),
-                    
-                    fluidRow(
-                        tabBox(width = 8,
-                               tabPanel(title = 'Price Plot',
-                                        tags$hr(),
-                                        plotOutput("index_price_plot")
-                               ),
-                               tabPanel(title = 'Performance',
-                                        tableOutput('perf_table3')
-                               ),
-                               tabPanel(title = 'Download Data',
-                                        downloadBttn(
-                                            outputId = "dl_index_csv",
-                                            label = 'Download CSV File',
-                                            style = "simple",
-                                            color = "primary"),
-                                        downloadBttn(
-                                            outputId = 'dl_index_xlsx',
-                                            label =  'Download Excel File',
-                                            style = "simple",
-                                            color = "primary")
-                               )
-                        )
-                    )
-            ),
-            # avoub pannel ----
+            ui_index_tab(),
+            
+            # about pannel ----
             tabItem(tabName = 'about',
                     box(width = 6,
                     h3('About'),
