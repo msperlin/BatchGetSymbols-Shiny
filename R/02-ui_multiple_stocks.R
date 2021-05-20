@@ -2,7 +2,7 @@ ui_multiple_stocks <- function(){
   tabItem(tabName = 'multiple_stocks',
           fluidRow(
             box(width = 3,
-                selectInput('index_multiple', 'Choose your Collection', 
+                selectInput('collection_multiple', 'Choose your Collection', 
                             choices = available_collections, 
                             selected = sample(available_collections, 1))),
             box(width = 3,

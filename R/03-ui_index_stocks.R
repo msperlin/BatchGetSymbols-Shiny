@@ -2,7 +2,7 @@ ui_index_tab <- function(){
   tabItem(tabName = 'indices',
           fluidRow(
             box(width = 4,
-                selectInput('index_to_pick', 'Choose your Collection', 
+                selectInput('index_to_pick', 'Choose your Indices', 
                             choices = stock_indices$Symbol, 
                             multiple = TRUE,
                             selected = sample(stock_indices$Symbol, 2))

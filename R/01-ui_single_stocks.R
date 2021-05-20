@@ -12,7 +12,7 @@ ui_single_stocks <- function(){
           ),
           fluidRow(
             box(width = 3,
-                selectInput('index', 'Choose your Collection', 
+                selectInput('collection_single', 'Choose your Collection', 
                             choices = available_collections, 
                             selected = sample(available_collections, 1))),
             box(width = 3,

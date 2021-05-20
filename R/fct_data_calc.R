@@ -10,6 +10,7 @@ calc_performance <- function(df_in) {
       ret_per_year = (1 + total_ret)^(1/n_years) - 1,
       max_drawdown = maxDrawdown(ret.adjusted.prices)
     ) %>%
+    arrange(desc(total_ret)) %>%
     mutate(total_ret = percent(total_ret, accuracy = 0.01),
            ret_per_year = percent(ret_per_year, accuracy = 0.01),
            max_drawdown = percent(max_drawdown, accuracy = 0.01)) %>%

@@ -19,12 +19,10 @@ library(scales)
 library(PerformanceAnalytics)
 
 # load data
-source('globals.R', local = TRUE)
-
-
+#source('global.R', local = TRUE)
 
 # Define UI for application that draws a histogram
-ui <- dashboardPage(
+ui <- dashboardPage(skin = 'blue',
     dashboardHeader(title = "BatchGetSymbols"),
     ## Sidebar content
     dashboardSidebar(
@@ -47,18 +45,8 @@ ui <- dashboardPage(
             ui_index_tab(),
             
             # about pannel ----
-            tabItem(tabName = 'about',
-                    box(width = 6,
-                    h3('About'),
-                    p('BatchGetSymbols is a R package for downloading financial data from Yahoo Finance. ',
-                      'You can find more details about the package in its ', a('Github page', href = 'https://github.com/msperlin/BatchGetSymbols'),
-                      '. In this web app you can use the same code, but with a pretty and conveniene graphical interface.'),
-                    hr(),
-                    h3('Author'),
-                    p(a('Marcelo S. Perlin',
-                        href = 'https://www.msperlin.com/blog/'), '<marceloperlin@gmail.com>')
-            )
-            )
+            ui_about()
+            
             
         )
     )
@@ -147,31 +135,14 @@ server <- function(input, output, session) {
         req(input$ticker)
         
         ticker <- input$ticker
-        index <- input$index
-        if (index == 'SP500') {
-            
-            idx <- df_sp500$Tickers == ticker
-            company_name <- df_sp500$Company[idx]
-            company_sector <- df_sp500$GICS.Sector[idx]
-            
-        } else if (index == 'FTSE') {
-            
-            idx <- df_ftse$tickers == ticker
-            company_name <- df_ftse$company[idx]
-            company_sector <- df_ftse$ICB.sector[idx]
-            
-        } else if (index == 'Ibovespa') {
-            
-            idx <- df_ibov$tickers == str_remove(ticker, '.SA')
-            company_name <- df_ibov$ticker.desc[idx]
-            company_sector <- 'Sector not available'
-            
-        }
+        collection <- input$collection_single
         
-        l_out <- list(company_name = company_name,
-                      company_sector = company_sector)
+        description <- df_collections %>%
+            filter(ticker == input$ticker,
+                   collection == input$collection_single) %>%
+            pull(description)
         
-        return(l_out)
+        return(description)
         
     })
     
@@ -223,26 +194,20 @@ server <- function(input, output, session) {
     })
     
     get_available_tickers <- reactive({
+
+        available_tickers <- df_collections %>%
+            filter(collection == input$collection_single) %>%
+            pull(ticker)
         
-        if (input$index == 'SP500') {
-            available_tickers <- df_sp500$Tickers
-        } else if (input$index == 'FTSE') {
-            available_tickers <- df_ftse$tickers
-        } else if (input$index == 'Ibovespa') {
-            available_tickers <- paste0(df_ibov$tickers, '.SA')
-        }
         return(available_tickers)
     })
     
     get_available_tickers_multiple <- reactive({
         
-        if (input$index_multiple == 'SP500') {
-            available_tickers <- df_sp500$Tickers
-        } else if (input$index_multiple == 'FTSE') {
-            available_tickers <- df_ftse$tickers
-        } else if (input$index_multiple == 'Ibovespa') {
-            available_tickers <- paste0(df_ibov$tickers, '.SA')
-        }
+        available_tickers <- df_collections %>%
+            filter(collection == input$collection_multiple) %>%
+            pull(ticker)
+        
         return(available_tickers)
     })
     
@@ -250,7 +215,7 @@ server <- function(input, output, session) {
         
         available_tickers <- get_available_tickers()
         
-        infoBox(str_glue('Available Stocks for {input$index}'), 
+        infoBox(str_glue('Available Stocks for {input$collection_single}'), 
                 value = n_distinct(available_tickers),
                 color =  'light-blue',
                 icon = icon('balance-scale'),
@@ -295,9 +260,9 @@ server <- function(input, output, session) {
     })
     
     output$company_name <- renderText({
-        l_out <- get_company_info()
+        description <- get_company_info()
         
-        str_glue('<h3>{l_out$company_name}</h3> <p>{l_out$company_sector}</p>')
+        str_glue('<h3>{description}</h3>')
     })
     
     
@@ -323,7 +288,9 @@ server <- function(input, output, session) {
             output$text <- renderText(str_glue('Data Ok, got {nrow(df_prices)} rows'))
             p <- ggplot(df_prices, aes(x = ref.date, y = price.adjusted)) + 
                 geom_line() + 
-                labs(title = str_glue('Plot for {isolate(input$ticker)}')) + 
+                labs(title = str_glue('Plot for {isolate(input$ticker)}'),
+                     x = '',
+                     y = 'Ajusted Price') + 
                 theme_minimal()
             
             print(p)
@@ -420,7 +387,7 @@ server <- function(input, output, session) {
     output$index_price_plot <- renderPlot({
         
         shiny::validate(
-            need(input$index, 'Waiting for index..')
+            need(input$index_to_pick, 'Waiting for index..')
         )
         
         df_prices <- get_index_price()

@@ -1,1817 +1,3334 @@
-collection,ticker,sector
-B3/Bovespa,A1BB34.SA,NA
-B3/Bovespa,A1BM34.SA,NA
-B3/Bovespa,A1CR34.SA,NA
-B3/Bovespa,A1DI34.SA,NA
-B3/Bovespa,A1DM34.SA,NA
-B3/Bovespa,A1EE34.SA,NA
-B3/Bovespa,A1EG34.SA,NA
-B3/Bovespa,A1EN34.SA,NA
-B3/Bovespa,A1EP34.SA,NA
-B3/Bovespa,A1ES34.SA,NA
-B3/Bovespa,A1FL34.SA,NA
-B3/Bovespa,A1GI34.SA,NA
-B3/Bovespa,A1GN34.SA,NA
-B3/Bovespa,A1IV34.SA,NA
-B3/Bovespa,A1JG34.SA,NA
-B3/Bovespa,A1KA34.SA,NA
-B3/Bovespa,A1LB34.SA,NA
-B3/Bovespa,A1LG34.SA,NA
-B3/Bovespa,A1LK34.SA,NA
-B3/Bovespa,A1LL34.SA,NA
-B3/Bovespa,A1LN34.SA,NA
-B3/Bovespa,A1LX34.SA,NA
-B3/Bovespa,A1MB34.SA,NA
-B3/Bovespa,A1MD34.SA,NA
-B3/Bovespa,A1ME34.SA,NA
-B3/Bovespa,A1MP34.SA,NA
-B3/Bovespa,A1MT34.SA,NA
-B3/Bovespa,A1MX34.SA,NA
-B3/Bovespa,A1NE34.SA,NA
-B3/Bovespa,A1NS34.SA,NA
-B3/Bovespa,A1NT34.SA,NA
-B3/Bovespa,A1ON34.SA,NA
-B3/Bovespa,A1OS34.SA,NA
-B3/Bovespa,A1PA34.SA,NA
-B3/Bovespa,A1PD34.SA,NA
-B3/Bovespa,A1PH34.SA,NA
-B3/Bovespa,A1RE34.SA,NA
-B3/Bovespa,A1RG34.SA,NA
-B3/Bovespa,A1SN34.SA,NA
-B3/Bovespa,A1SU34.SA,NA
-B3/Bovespa,A1TH34.SA,NA
-B3/Bovespa,A1TM34.SA,NA
-B3/Bovespa,A1TT34.SA,NA
-B3/Bovespa,A1UA34.SA,NA
-B3/Bovespa,A1UT34.SA,NA
-B3/Bovespa,A1VB34.SA,NA
-B3/Bovespa,A1VY34.SA,NA
-B3/Bovespa,A1WK34.SA,NA
-B3/Bovespa,A1YX34.SA,NA
-B3/Bovespa,A1ZN34.SA,NA
-B3/Bovespa,AALL34.SA,NA
-B3/Bovespa,AALR3.SA,NA
-B3/Bovespa,AAPL34.SA,NA
-B3/Bovespa,ABBV34.SA,NA
-B3/Bovespa,ABCB4.SA,NA
-B3/Bovespa,ABEV3.SA,NA
-B3/Bovespa,ABTT34.SA,NA
-B3/Bovespa,ABUD34.SA,NA
-B3/Bovespa,ACNB34.SA,NA
-B3/Bovespa,ADBE34.SA,NA
-B3/Bovespa,ADPR34.SA,NA
-B3/Bovespa,AERI3.SA,NA
-B3/Bovespa,AESB3.SA,NA
-B3/Bovespa,AFLT3.SA,NA
-B3/Bovespa,AGRO3.SA,NA
-B3/Bovespa,AHEB3.SA,NA
-B3/Bovespa,AHEB5.SA,NA
-B3/Bovespa,AHEB6.SA,NA
-B3/Bovespa,AIGB34.SA,NA
-B3/Bovespa,AIRB34.SA,NA
-B3/Bovespa,ALEF3B.SA,NA
-B3/Bovespa,ALLD3.SA,NA
-B3/Bovespa,ALPA3.SA,NA
-B3/Bovespa,ALPA4.SA,NA
-B3/Bovespa,ALPK3.SA,NA
-B3/Bovespa,ALSO3.SA,NA
-B3/Bovespa,ALUP3.SA,NA
-B3/Bovespa,ALUP4.SA,NA
-B3/Bovespa,ALUP11.SA,NA
-B3/Bovespa,AMAR3.SA,NA
-B3/Bovespa,AMBP3.SA,NA
-B3/Bovespa,AMGN34.SA,NA
-B3/Bovespa,AMZO34.SA,NA
-B3/Bovespa,ANIM3.SA,NA
-B3/Bovespa,APER3.SA,NA
-B3/Bovespa,APTI3.SA,NA
-B3/Bovespa,APTI4.SA,NA
-B3/Bovespa,APTV34.SA,NA
-B3/Bovespa,ARMT34.SA,NA
-B3/Bovespa,ARNC34.SA,NA
-B3/Bovespa,ARZZ3.SA,NA
-B3/Bovespa,ASAI3.SA,NA
-B3/Bovespa,ASML34.SA,NA
-B3/Bovespa,ATOM3.SA,NA
-B3/Bovespa,ATTB34.SA,NA
-B3/Bovespa,ATVI34.SA,NA
-B3/Bovespa,AURA33.SA,NA
-B3/Bovespa,AVGO34.SA,NA
-B3/Bovespa,AVLL3.SA,NA
-B3/Bovespa,AWII34.SA,NA
-B3/Bovespa,AXPB34.SA,NA
-B3/Bovespa,AZEV3.SA,NA
-B3/Bovespa,AZEV4.SA,NA
-B3/Bovespa,AZOI34.SA,NA
-B3/Bovespa,AZUL4.SA,NA
-B3/Bovespa,B1AM34.SA,NA
-B3/Bovespa,B1AX34.SA,NA
-B3/Bovespa,B1BL34.SA,NA
-B3/Bovespa,B1BT34.SA,NA
-B3/Bovespa,B1CS34.SA,NA
-B3/Bovespa,B1DX34.SA,NA
-B3/Bovespa,B1FC34.SA,NA
-B3/Bovespa,B1GN34.SA,NA
-B3/Bovespa,B1IL34.SA,NA
-B3/Bovespa,B1KR34.SA,NA
-B3/Bovespa,B1LL34.SA,NA
-B3/Bovespa,B1MR34.SA,NA
-B3/Bovespa,B1NT34.SA,NA
-B3/Bovespa,B1PP34.SA,NA
-B3/Bovespa,B1RF34.SA,NA
-B3/Bovespa,B1SA34.SA,NA
-B3/Bovespa,B1SX34.SA,NA
-B3/Bovespa,B1TI34.SA,NA
-B3/Bovespa,B1WA34.SA,NA
-B3/Bovespa,B2YN34.SA,NA
-B3/Bovespa,B3SA3.SA,NA
-B3/Bovespa,BAAX39.SA,NA
-B3/Bovespa,BABA34.SA,NA
-B3/Bovespa,BACW39.SA,NA
-B3/Bovespa,BAER39.SA,NA
-B3/Bovespa,BAHI3.SA,NA
-B3/Bovespa,BALM3.SA,NA
-B3/Bovespa,BALM4.SA,NA
-B3/Bovespa,BAUH3.SA,NA
-B3/Bovespa,BAUH4.SA,NA
-B3/Bovespa,BAZA3.SA,NA
-B3/Bovespa,BBAS11.SA,NA
-B3/Bovespa,BBAS12.SA,NA
-B3/Bovespa,BBAS3.SA,NA
-B3/Bovespa,BBDC3.SA,NA
-B3/Bovespa,BBDC4.SA,NA
-B3/Bovespa,BBML3.SA,NA
-B3/Bovespa,BBRK3.SA,NA
-B3/Bovespa,BBSE3.SA,NA
-B3/Bovespa,BBYY34.SA,NA
-B3/Bovespa,BCHI39.SA,NA
-B3/Bovespa,BCSA34.SA,NA
-B3/Bovespa,BCWV39.SA,NA
-B3/Bovespa,BDRU11.SA,NA
-B3/Bovespa,BDRX11.SA,NA
-B3/Bovespa,BDVY39.SA,NA
-B3/Bovespa,BEEF3.SA,NA
-B3/Bovespa,BEEM39.SA,NA
-B3/Bovespa,BEES3.SA,NA
-B3/Bovespa,BEES4.SA,NA
-B3/Bovespa,BEFA39.SA,NA
-B3/Bovespa,BEFG39.SA,NA
-B3/Bovespa,BEFV39.SA,NA
-B3/Bovespa,BEGD39.SA,NA
-B3/Bovespa,BEGE39.SA,NA
-B3/Bovespa,BEGU39.SA,NA
-B3/Bovespa,BEMV39.SA,NA
-B3/Bovespa,BERK34.SA,NA
-B3/Bovespa,BETP3B.SA,NA
-B3/Bovespa,BEWA39.SA,NA
-B3/Bovespa,BEWC39.SA,NA
-B3/Bovespa,BEWG39.SA,NA
-B3/Bovespa,BEWH39.SA,NA
-B3/Bovespa,BEWJ39.SA,NA
-B3/Bovespa,BEWL39.SA,NA
-B3/Bovespa,BEWP39.SA,NA
-B3/Bovespa,BEWQ39.SA,NA
-B3/Bovespa,BEWT39.SA,NA
-B3/Bovespa,BEWU39.SA,NA
-B3/Bovespa,BEWW39.SA,NA
-B3/Bovespa,BEWY39.SA,NA
-B3/Bovespa,BEWZ39.SA,NA
-B3/Bovespa,BEZU39.SA,NA
-B3/Bovespa,BFAV39.SA,NA
-B3/Bovespa,BFXI39.SA,NA
-B3/Bovespa,BGIP3.SA,NA
-B3/Bovespa,BGIP4.SA,NA
-B3/Bovespa,BGRT39.SA,NA
-B3/Bovespa,BGWH39.SA,NA
-B3/Bovespa,BHEF39.SA,NA
-B3/Bovespa,BHPG34.SA,NA
-B3/Bovespa,BIAU39.SA,NA
-B3/Bovespa,BIBB39.SA,NA
-B3/Bovespa,BIDI3.SA,NA
-B3/Bovespa,BIDI4.SA,NA
-B3/Bovespa,BIDI11.SA,NA
-B3/Bovespa,BIDU34.SA,NA
-B3/Bovespa,BIEF39.SA,NA
-B3/Bovespa,BIEM39.SA,NA
-B3/Bovespa,BIEU39.SA,NA
-B3/Bovespa,BIEV39.SA,NA
-B3/Bovespa,BIGF39.SA,NA
-B3/Bovespa,BIHI39.SA,NA
-B3/Bovespa,BIIB34.SA,NA
-B3/Bovespa,BIJH39.SA,NA
-B3/Bovespa,BIJR39.SA,NA
-B3/Bovespa,BILB34.SA,NA
-B3/Bovespa,BILF39.SA,NA
-B3/Bovespa,BIOM3.SA,NA
-B3/Bovespa,BITO39.SA,NA
-B3/Bovespa,BIVB39.SA,NA
-B3/Bovespa,BIVE39.SA,NA
-B3/Bovespa,BIVW39.SA,NA
-B3/Bovespa,BIWF39.SA,NA
-B3/Bovespa,BIWM39.SA,NA
-B3/Bovespa,BIXJ39.SA,NA
-B3/Bovespa,BIXN39.SA,NA
-B3/Bovespa,BIYF39.SA,NA
-B3/Bovespa,BIYG39.SA,NA
-B3/Bovespa,BIYW39.SA,NA
-B3/Bovespa,BKBR3.SA,NA
-B3/Bovespa,BKNG34.SA,NA
-B3/Bovespa,BLAK34.SA,NA
-B3/Bovespa,BLAU3.SA,NA
-B3/Bovespa,BMEB3.SA,NA
-B3/Bovespa,BMEB4.SA,NA
-B3/Bovespa,BMGB4.SA,NA
-B3/Bovespa,BMIN3.SA,NA
-B3/Bovespa,BMIN4.SA,NA
-B3/Bovespa,BMKS3.SA,NA
-B3/Bovespa,BMOB3.SA,NA
-B3/Bovespa,BMTU39.SA,NA
-B3/Bovespa,BMYB34.SA,NA
-B3/Bovespa,BNBR3.SA,NA
-B3/Bovespa,BNDA39.SA,NA
-B3/Bovespa,BOAC34.SA,NA
-B3/Bovespa,BOAS3.SA,NA
-B3/Bovespa,BOBR3.SA,NA
-B3/Bovespa,BOBR4.SA,NA
-B3/Bovespa,BOEI34.SA,NA
-B3/Bovespa,BONY34.SA,NA
-B3/Bovespa,BOXP34.SA,NA
-B3/Bovespa,BPAC3.SA,NA
-B3/Bovespa,BPAC5.SA,NA
-B3/Bovespa,BPAC11.SA,NA
-B3/Bovespa,BPAN4.SA,NA
-B3/Bovespa,BPAR3.SA,NA
-B3/Bovespa,BQUA39.SA,NA
-B3/Bovespa,BRAP3.SA,NA
-B3/Bovespa,BRAP4.SA,NA
-B3/Bovespa,BRDT3.SA,NA
-B3/Bovespa,BRFS3.SA,NA
-B3/Bovespa,BRGE3.SA,NA
-B3/Bovespa,BRGE5.SA,NA
-B3/Bovespa,BRGE6.SA,NA
-B3/Bovespa,BRGE7.SA,NA
-B3/Bovespa,BRGE8.SA,NA
-B3/Bovespa,BRGE11.SA,NA
-B3/Bovespa,BRGE12.SA,NA
-B3/Bovespa,BRIV3.SA,NA
-B3/Bovespa,BRIV4.SA,NA
-B3/Bovespa,BRKM3.SA,NA
-B3/Bovespa,BRKM5.SA,NA
-B3/Bovespa,BRKM6.SA,NA
-B3/Bovespa,BRML3.SA,NA
-B3/Bovespa,BRPR3.SA,NA
-B3/Bovespa,BRQB3.SA,NA
-B3/Bovespa,BRSR3.SA,NA
-B3/Bovespa,BRSR5.SA,NA
-B3/Bovespa,BRSR6.SA,NA
-B3/Bovespa,BSIZ39.SA,NA
-B3/Bovespa,BSLI3.SA,NA
-B3/Bovespa,BSLI4.SA,NA
-B3/Bovespa,BSLV39.SA,NA
-B3/Bovespa,BSUS39.SA,NA
-B3/Bovespa,BTOW3.SA,NA
-B3/Bovespa,BTTL3.SA,NA
-B3/Bovespa,BUSM39.SA,NA
-B3/Bovespa,BUSR39.SA,NA
-B3/Bovespa,BVLU39.SA,NA
-B3/Bovespa,BXTC39.SA,NA
-B3/Bovespa,C1AB34.SA,NA
-B3/Bovespa,C1AG34.SA,NA
-B3/Bovespa,C1AH34.SA,NA
-B3/Bovespa,C1BL34.SA,NA
-B3/Bovespa,C1BO34.SA,NA
-B3/Bovespa,C1BR34.SA,NA
-B3/Bovespa,C1BS34.SA,NA
-B3/Bovespa,C1CI34.SA,NA
-B3/Bovespa,C1CL34.SA,NA
-B3/Bovespa,C1DN34.SA,NA
-B3/Bovespa,C1DW34.SA,NA
-B3/Bovespa,C1ER34.SA,NA
-B3/Bovespa,C1FG34.SA,NA
-B3/Bovespa,C1FI34.SA,NA
-B3/Bovespa,C1GP34.SA,NA
-B3/Bovespa,C1HI34.SA,NA
-B3/Bovespa,C1HK34.SA,NA
-B3/Bovespa,C1HL34.SA,NA
-B3/Bovespa,C1HR34.SA,NA
-B3/Bovespa,C1HT34.SA,NA
-B3/Bovespa,C1IC34.SA,NA
-B3/Bovespa,C1MA34.SA,NA
-B3/Bovespa,C1MG34.SA,NA
-B3/Bovespa,C1MI34.SA,NA
-B3/Bovespa,C1MS34.SA,NA
-B3/Bovespa,C1NC34.SA,NA
-B3/Bovespa,C1NP34.SA,NA
-B3/Bovespa,C1NS34.SA,NA
-B3/Bovespa,C1OG34.SA,NA
-B3/Bovespa,C1OO34.SA,NA
-B3/Bovespa,C1OU34.SA,NA
-B3/Bovespa,C1PB34.SA,NA
-B3/Bovespa,C1PR34.SA,NA
-B3/Bovespa,C1RR34.SA,NA
-B3/Bovespa,C1SU34.SA,NA
-B3/Bovespa,C1TA34.SA,NA
-B3/Bovespa,C1TV34.SA,NA
-B3/Bovespa,C1TX34.SA,NA
-B3/Bovespa,C2HD34.SA,NA
-B3/Bovespa,C2ON34.SA,NA
-B3/Bovespa,C2ZR34.SA,NA
-B3/Bovespa,CABI3B.SA,NA
-B3/Bovespa,CACO3B.SA,NA
-B3/Bovespa,CAJI34.SA,NA
-B3/Bovespa,CALI3.SA,NA
-B3/Bovespa,CALI4.SA,NA
-B3/Bovespa,CAMB3.SA,NA
-B3/Bovespa,CAML3.SA,NA
-B3/Bovespa,CAON34.SA,NA
-B3/Bovespa,CAPH34.SA,NA
-B3/Bovespa,CARD3.SA,NA
-B3/Bovespa,CASH3.SA,NA
-B3/Bovespa,CASN3.SA,NA
-B3/Bovespa,CASN4.SA,NA
-B3/Bovespa,CATA3.SA,NA
-B3/Bovespa,CATA4.SA,NA
-B3/Bovespa,CATP34.SA,NA
-B3/Bovespa,CBEE3.SA,NA
-B3/Bovespa,CCPR3.SA,NA
-B3/Bovespa,CCRO3.SA,NA
-B3/Bovespa,CEAB3.SA,NA
-B3/Bovespa,CEBR3.SA,NA
-B3/Bovespa,CEBR5.SA,NA
-B3/Bovespa,CEBR6.SA,NA
-B3/Bovespa,CEDO3.SA,NA
-B3/Bovespa,CEDO4.SA,NA
-B3/Bovespa,CEEB3.SA,NA
-B3/Bovespa,CEEB5.SA,NA
-B3/Bovespa,CEEB6.SA,NA
-B3/Bovespa,CEED3.SA,NA
-B3/Bovespa,CEED4.SA,NA
-B3/Bovespa,CEGR3.SA,NA
-B3/Bovespa,CEPE3.SA,NA
-B3/Bovespa,CEPE5.SA,NA
-B3/Bovespa,CEPE6.SA,NA
-B3/Bovespa,CESP3.SA,NA
-B3/Bovespa,CESP5.SA,NA
-B3/Bovespa,CESP6.SA,NA
-B3/Bovespa,CGAS3.SA,NA
-B3/Bovespa,CGAS5.SA,NA
-B3/Bovespa,CGRA3.SA,NA
-B3/Bovespa,CGRA4.SA,NA
-B3/Bovespa,CHCM34.SA,NA
-B3/Bovespa,CHDC34.SA,NA
-B3/Bovespa,CHME34.SA,NA
-B3/Bovespa,CHVX34.SA,NA
-B3/Bovespa,CIEL3.SA,NA
-B3/Bovespa,CINF34.SA,NA
-B3/Bovespa,CLSC3.SA,NA
-B3/Bovespa,CLSC4.SA,NA
-B3/Bovespa,CLXC34.SA,NA
-B3/Bovespa,CMCS34.SA,NA
-B3/Bovespa,CMIG3.SA,NA
-B3/Bovespa,CMIG4.SA,NA
-B3/Bovespa,CMIN3.SA,NA
-B3/Bovespa,CMSA3.SA,NA
-B3/Bovespa,CMSA4.SA,NA
-B3/Bovespa,CNIC34.SA,NA
-B3/Bovespa,CNSY3.SA,NA
-B3/Bovespa,COCA34.SA,NA
-B3/Bovespa,COCE3.SA,NA
-B3/Bovespa,COCE5.SA,NA
-B3/Bovespa,COCE6.SA,NA
-B3/Bovespa,COGN3.SA,NA
-B3/Bovespa,COLG34.SA,NA
-B3/Bovespa,COPH34.SA,NA
-B3/Bovespa,CORR3.SA,NA
-B3/Bovespa,CORR4.SA,NA
-B3/Bovespa,COTY34.SA,NA
-B3/Bovespa,COWC34.SA,NA
-B3/Bovespa,CPFE3.SA,NA
-B3/Bovespa,CPLE3.SA,NA
-B3/Bovespa,CPLE5.SA,NA
-B3/Bovespa,CPLE6.SA,NA
-B3/Bovespa,CPLE11.SA,NA
-B3/Bovespa,CPRL34.SA,NA
-B3/Bovespa,CRDA34.SA,NA
-B3/Bovespa,CRDE3.SA,NA
-B3/Bovespa,CRFB3.SA,NA
-B3/Bovespa,CRHP34.SA,NA
-B3/Bovespa,CRIN34.SA,NA
-B3/Bovespa,CRIP34.SA,NA
-B3/Bovespa,CRIV3.SA,NA
-B3/Bovespa,CRIV4.SA,NA
-B3/Bovespa,CRPG3.SA,NA
-B3/Bovespa,CRPG5.SA,NA
-B3/Bovespa,CRPG6.SA,NA
-B3/Bovespa,CRTE3B.SA,NA
-B3/Bovespa,CRTE5B.SA,NA
-B3/Bovespa,CSAB3.SA,NA
-B3/Bovespa,CSAB4.SA,NA
-B3/Bovespa,CSAN3.SA,NA
-B3/Bovespa,CSCO34.SA,NA
-B3/Bovespa,CSED3.SA,NA
-B3/Bovespa,CSMG3.SA,NA
-B3/Bovespa,CSNA3.SA,NA
-B3/Bovespa,CSRN3.SA,NA
-B3/Bovespa,CSRN5.SA,NA
-B3/Bovespa,CSRN6.SA,NA
-B3/Bovespa,CSXC34.SA,NA
-B3/Bovespa,CTCA3.SA,NA
-B3/Bovespa,CTGP34.SA,NA
-B3/Bovespa,CTKA3.SA,NA
-B3/Bovespa,CTKA4.SA,NA
-B3/Bovespa,CTNM3.SA,NA
-B3/Bovespa,CTNM4.SA,NA
-B3/Bovespa,CTSA3.SA,NA
-B3/Bovespa,CTSA4.SA,NA
-B3/Bovespa,CTSH34.SA,NA
-B3/Bovespa,CURY3.SA,NA
-B3/Bovespa,CVCB3.SA,NA
-B3/Bovespa,CVSH34.SA,NA
-B3/Bovespa,CXSE3.SA,NA
-B3/Bovespa,CYRE3.SA,NA
-B3/Bovespa,D1DG34.SA,NA
-B3/Bovespa,D1EL34.SA,NA
-B3/Bovespa,D1EX34.SA,NA
-B3/Bovespa,D1FS34.SA,NA
-B3/Bovespa,D1HI34.SA,NA
-B3/Bovespa,D1IS34.SA,NA
-B3/Bovespa,D1LR34.SA,NA
-B3/Bovespa,D1OC34.SA,NA
-B3/Bovespa,D1OM34.SA,NA
-B3/Bovespa,D1OV34.SA,NA
-B3/Bovespa,D1OW34.SA,NA
-B3/Bovespa,D1RE34.SA,NA
-B3/Bovespa,D1RI34.SA,NA
-B3/Bovespa,D1TE34.SA,NA
-B3/Bovespa,D1VN34.SA,NA
-B3/Bovespa,D1XC34.SA,NA
-B3/Bovespa,D2KN34.SA,NA
-B3/Bovespa,DASA3.SA,NA
-B3/Bovespa,DBAG34.SA,NA
-B3/Bovespa,DCVY34.SA,NA
-B3/Bovespa,DCVY35.SA,NA
-B3/Bovespa,DDNB34.SA,NA
-B3/Bovespa,DEAI34.SA,NA
-B3/Bovespa,DEEC34.SA,NA
-B3/Bovespa,DEOP34.SA,NA
-B3/Bovespa,DGCO34.SA,NA
-B3/Bovespa,DHER34.SA,NA
-B3/Bovespa,DIRR3.SA,NA
-B3/Bovespa,DISB34.SA,NA
-B3/Bovespa,DLTR34.SA,NA
-B3/Bovespa,DMMO3.SA,NA
-B3/Bovespa,DMVF3.SA,NA
-B3/Bovespa,DOHL3.SA,NA
-B3/Bovespa,DOHL4.SA,NA
-B3/Bovespa,DTCY3.SA,NA
-B3/Bovespa,DTCY4.SA,NA
-B3/Bovespa,DTEX3.SA,NA
-B3/Bovespa,DUKB34.SA,NA
-B3/Bovespa,DVAI34.SA,NA
-B3/Bovespa,E1CL34.SA,NA
-B3/Bovespa,E1CO34.SA,NA
-B3/Bovespa,E1DI34.SA,NA
-B3/Bovespa,E1DU34.SA,NA
-B3/Bovespa,E1FX34.SA,NA
-B3/Bovespa,E1IX34.SA,NA
-B3/Bovespa,E1MN34.SA,NA
-B3/Bovespa,E1MR34.SA,NA
-B3/Bovespa,E1NI34.SA,NA
-B3/Bovespa,E1OG34.SA,NA
-B3/Bovespa,E1QN34.SA,NA
-B3/Bovespa,E1QR34.SA,NA
-B3/Bovespa,E1RI34.SA,NA
-B3/Bovespa,E1SE34.SA,NA
-B3/Bovespa,E1SS34.SA,NA
-B3/Bovespa,E1TN34.SA,NA
-B3/Bovespa,E1TR34.SA,NA
-B3/Bovespa,E1VE34.SA,NA
-B3/Bovespa,E1VR34.SA,NA
-B3/Bovespa,E1WL34.SA,NA
-B3/Bovespa,E1XC34.SA,NA
-B3/Bovespa,E1XP34.SA,NA
-B3/Bovespa,E1XR34.SA,NA
-B3/Bovespa,EAIN34.SA,NA
-B3/Bovespa,EALT3.SA,NA
-B3/Bovespa,EALT4.SA,NA
-B3/Bovespa,EBAY34.SA,NA
-B3/Bovespa,ECOR3.SA,NA
-B3/Bovespa,ECPR3.SA,NA
-B3/Bovespa,ECPR4.SA,NA
-B3/Bovespa,EEEL3.SA,NA
-B3/Bovespa,EEEL4.SA,NA
-B3/Bovespa,EGIE3.SA,NA
-B3/Bovespa,EKTR3.SA,NA
-B3/Bovespa,EKTR4.SA,NA
-B3/Bovespa,ELCI34.SA,NA
-B3/Bovespa,ELET3.SA,NA
-B3/Bovespa,ELET5.SA,NA
-B3/Bovespa,ELET6.SA,NA
-B3/Bovespa,ELMD3.SA,NA
-B3/Bovespa,EMAE3.SA,NA
-B3/Bovespa,EMAE4.SA,NA
-B3/Bovespa,EMBR3.SA,NA
-B3/Bovespa,ENAT3.SA,NA
-B3/Bovespa,ENBR3.SA,NA
-B3/Bovespa,ENEV3.SA,NA
-B3/Bovespa,ENGI3.SA,NA
-B3/Bovespa,ENGI4.SA,NA
-B3/Bovespa,ENGI11.SA,NA
-B3/Bovespa,ENJU3.SA,NA
-B3/Bovespa,ENMT3.SA,NA
-B3/Bovespa,ENMT4.SA,NA
-B3/Bovespa,EQIX34.SA,NA
-B3/Bovespa,EQMA3B.SA,NA
-B3/Bovespa,EQMA5B.SA,NA
-B3/Bovespa,EQMA6B.SA,NA
-B3/Bovespa,EQPA3.SA,NA
-B3/Bovespa,EQPA5.SA,NA
-B3/Bovespa,EQPA6.SA,NA
-B3/Bovespa,EQPA7.SA,NA
-B3/Bovespa,EQTL3.SA,NA
-B3/Bovespa,ESPA3.SA,NA
-B3/Bovespa,ESTR3.SA,NA
-B3/Bovespa,ESTR4.SA,NA
-B3/Bovespa,EUCA3.SA,NA
-B3/Bovespa,EUCA4.SA,NA
-B3/Bovespa,EVEN3.SA,NA
-B3/Bovespa,EXGR34.SA,NA
-B3/Bovespa,EXXO34.SA,NA
-B3/Bovespa,EZTC3.SA,NA
-B3/Bovespa,F1AN34.SA,NA
-B3/Bovespa,F1BH34.SA,NA
-B3/Bovespa,F1EC34.SA,NA
-B3/Bovespa,F1FI34.SA,NA
-B3/Bovespa,F1IS34.SA,NA
-B3/Bovespa,F1LS34.SA,NA
-B3/Bovespa,F1MC34.SA,NA
-B3/Bovespa,F1NI34.SA,NA
-B3/Bovespa,F1RA34.SA,NA
-B3/Bovespa,F1RC34.SA,NA
-B3/Bovespa,F1RI34.SA,NA
-B3/Bovespa,F1SL34.SA,NA
-B3/Bovespa,F1TN34.SA,NA
-B3/Bovespa,F1TV34.SA,NA
-B3/Bovespa,FASL34.SA,NA
-B3/Bovespa,FBOK34.SA,NA
-B3/Bovespa,FCXO34.SA,NA
-B3/Bovespa,FDMO34.SA,NA
-B3/Bovespa,FDXB34.SA,NA
-B3/Bovespa,FESA3.SA,NA
-B3/Bovespa,FESA4.SA,NA
-B3/Bovespa,FFTD34.SA,NA
-B3/Bovespa,FIGE3.SA,NA
-B3/Bovespa,FIGE4.SA,NA
-B3/Bovespa,FLEX3.SA,NA
-B3/Bovespa,FLRY3.SA,NA
-B3/Bovespa,FLTC34.SA,NA
-B3/Bovespa,FMSC34.SA,NA
-B3/Bovespa,FMXB34.SA,NA
-B3/Bovespa,FNCN3.SA,NA
-B3/Bovespa,FOXC34.SA,NA
-B3/Bovespa,FRAS3.SA,NA
-B3/Bovespa,FRIO3.SA,NA
-B3/Bovespa,FRRN3B.SA,NA
-B3/Bovespa,FRRN5B.SA,NA
-B3/Bovespa,FRRN6B.SA,NA
-B3/Bovespa,FSLR34.SA,NA
-B3/Bovespa,G1AR34.SA,NA
-B3/Bovespa,G1DS34.SA,NA
-B3/Bovespa,G1FI34.SA,NA
-B3/Bovespa,G1LL34.SA,NA
-B3/Bovespa,G1LP34.SA,NA
-B3/Bovespa,G1LW34.SA,NA
-B3/Bovespa,G1MI34.SA,NA
-B3/Bovespa,G1PC34.SA,NA
-B3/Bovespa,G1PI34.SA,NA
-B3/Bovespa,G1RM34.SA,NA
-B3/Bovespa,G1SK34.SA,NA
-B3/Bovespa,G1WW34.SA,NA
-B3/Bovespa,G2DI33.SA,NA
-B3/Bovespa,GDBR34.SA,NA
-B3/Bovespa,GEOO34.SA,NA
-B3/Bovespa,GEPA3.SA,NA
-B3/Bovespa,GEPA4.SA,NA
-B3/Bovespa,GFSA3.SA,NA
-B3/Bovespa,GGBR3.SA,NA
-B3/Bovespa,GGBR4.SA,NA
-B3/Bovespa,GGPS3.SA,NA
-B3/Bovespa,GILD34.SA,NA
-B3/Bovespa,GMAT3.SA,NA
-B3/Bovespa,GMCO34.SA,NA
-B3/Bovespa,GNDI3.SA,NA
-B3/Bovespa,GOAU3.SA,NA
-B3/Bovespa,GOAU4.SA,NA
-B3/Bovespa,GOGL34.SA,NA
-B3/Bovespa,GOGL35.SA,NA
-B3/Bovespa,GOLL4.SA,NA
-B3/Bovespa,GPAR3.SA,NA
-B3/Bovespa,GPCP3.SA,NA
-B3/Bovespa,GPCP4.SA,NA
-B3/Bovespa,GPIV33.SA,NA
-B3/Bovespa,GPRK34.SA,NA
-B3/Bovespa,GPRO34.SA,NA
-B3/Bovespa,GPSI34.SA,NA
-B3/Bovespa,GRND3.SA,NA
-B3/Bovespa,GSGI34.SA,NA
-B3/Bovespa,GSHP3.SA,NA
-B3/Bovespa,GUAR3.SA,NA
-B3/Bovespa,H1AS34.SA,NA
-B3/Bovespa,H1BA34.SA,NA
-B3/Bovespa,H1BI34.SA,NA
-B3/Bovespa,H1CA34.SA,NA
-B3/Bovespa,H1DB34.SA,NA
-B3/Bovespa,H1EI34.SA,NA
-B3/Bovespa,H1ES34.SA,NA
-B3/Bovespa,H1FC34.SA,NA
-B3/Bovespa,H1IG34.SA,NA
-B3/Bovespa,H1II34.SA,NA
-B3/Bovespa,H1LT34.SA,NA
-B3/Bovespa,H1OG34.SA,NA
-B3/Bovespa,H1OL34.SA,NA
-B3/Bovespa,H1PE34.SA,NA
-B3/Bovespa,H1RB34.SA,NA
-B3/Bovespa,H1RL34.SA,NA
-B3/Bovespa,H1SB34.SA,NA
-B3/Bovespa,H1SI34.SA,NA
-B3/Bovespa,H1ST34.SA,NA
-B3/Bovespa,H1TH34.SA,NA
-B3/Bovespa,H1UM34.SA,NA
-B3/Bovespa,H1ZN34.SA,NA
-B3/Bovespa,HAGA3.SA,NA
-B3/Bovespa,HAGA4.SA,NA
-B3/Bovespa,HALI34.SA,NA
-B3/Bovespa,HAPV3.SA,NA
-B3/Bovespa,HBOR3.SA,NA
-B3/Bovespa,HBRE3.SA,NA
-B3/Bovespa,HBSA3.SA,NA
-B3/Bovespa,HBTS3.SA,NA
-B3/Bovespa,HBTS5.SA,NA
-B3/Bovespa,HBTS6.SA,NA
-B3/Bovespa,HETA3.SA,NA
-B3/Bovespa,HETA4.SA,NA
-B3/Bovespa,HGTX3.SA,NA
-B3/Bovespa,HOME34.SA,NA
-B3/Bovespa,HONB34.SA,NA
-B3/Bovespa,HOND34.SA,NA
-B3/Bovespa,HPQB34.SA,NA
-B3/Bovespa,HSHY34.SA,NA
-B3/Bovespa,HYPE3.SA,NA
-B3/Bovespa,I1AC34.SA,NA
-B3/Bovespa,I1BN34.SA,NA
-B3/Bovespa,I1CE34.SA,NA
-B3/Bovespa,I1DX34.SA,NA
-B3/Bovespa,I1EX34.SA,NA
-B3/Bovespa,I1FF34.SA,NA
-B3/Bovespa,I1FO34.SA,NA
-B3/Bovespa,I1HG34.SA,NA
-B3/Bovespa,I1LM34.SA,NA
-B3/Bovespa,I1NC34.SA,NA
-B3/Bovespa,I1NF34.SA,NA
-B3/Bovespa,I1PC34.SA,NA
-B3/Bovespa,I1PG34.SA,NA
-B3/Bovespa,I1PH34.SA,NA
-B3/Bovespa,I1QV34.SA,NA
-B3/Bovespa,I1QY34.SA,NA
-B3/Bovespa,I1RM34.SA,NA
-B3/Bovespa,I1RP34.SA,NA
-B3/Bovespa,I1SR34.SA,NA
-B3/Bovespa,I1TW34.SA,NA
-B3/Bovespa,I1VZ34.SA,NA
-B3/Bovespa,I1XC34.SA,NA
-B3/Bovespa,IBMB34.SA,NA
-B3/Bovespa,IBOV11.SA,NA
-B3/Bovespa,IBRA11.SA,NA
-B3/Bovespa,IBXL11.SA,NA
-B3/Bovespa,IBXX11.SA,NA
-B3/Bovespa,ICO211.SA,NA
-B3/Bovespa,ICON11.SA,NA
-B3/Bovespa,IDIV11.SA,NA
-B3/Bovespa,IEEX11.SA,NA
-B3/Bovespa,IFCM3.SA,NA
-B3/Bovespa,IFIL11.SA,NA
-B3/Bovespa,IFIX11.SA,NA
-B3/Bovespa,IFNC11.SA,NA
-B3/Bovespa,IGCT11.SA,NA
-B3/Bovespa,IGCX11.SA,NA
-B3/Bovespa,IGNM11.SA,NA
-B3/Bovespa,IGSN3.SA,NA
-B3/Bovespa,IGTA3.SA,NA
-B3/Bovespa,IMAT11.SA,NA
-B3/Bovespa,IMOB11.SA,NA
-B3/Bovespa,INDX11.SA,NA
-B3/Bovespa,INGG34.SA,NA
-B3/Bovespa,INNT3.SA,NA
-B3/Bovespa,INTB3.SA,NA
-B3/Bovespa,INTU34.SA,NA
-B3/Bovespa,IRBR3.SA,NA
-B3/Bovespa,ISBC34.SA,NA
-B3/Bovespa,ISEE11.SA,NA
-B3/Bovespa,ITAG11.SA,NA
-B3/Bovespa,ITLC34.SA,NA
-B3/Bovespa,ITSA3.SA,NA
-B3/Bovespa,ITSA4.SA,NA
-B3/Bovespa,ITUB3.SA,NA
-B3/Bovespa,ITUB4.SA,NA
-B3/Bovespa,IVBX11.SA,NA
-B3/Bovespa,IVPR3B.SA,NA
-B3/Bovespa,IVPR4B.SA,NA
-B3/Bovespa,J1BH34.SA,NA
-B3/Bovespa,J1CI34.SA,NA
-B3/Bovespa,J1EF34.SA,NA
-B3/Bovespa,J1EG34.SA,NA
-B3/Bovespa,J1KH34.SA,NA
-B3/Bovespa,J1NP34.SA,NA
-B3/Bovespa,J1WN34.SA,NA
-B3/Bovespa,JALL3.SA,NA
-B3/Bovespa,JBDU3.SA,NA
-B3/Bovespa,JBDU4.SA,NA
-B3/Bovespa,JBSS3.SA,NA
-B3/Bovespa,JDCO34.SA,NA
-B3/Bovespa,JHSF3.SA,NA
-B3/Bovespa,JNJB34.SA,NA
-B3/Bovespa,JOPA3.SA,NA
-B3/Bovespa,JOPA4.SA,NA
-B3/Bovespa,JPMC34.SA,NA
-B3/Bovespa,JPSA3.SA,NA
-B3/Bovespa,JSLG3.SA,NA
-B3/Bovespa,K1BF34.SA,NA
-B3/Bovespa,K1CS34.SA,NA
-B3/Bovespa,K1EL34.SA,NA
-B3/Bovespa,K1EY34.SA,NA
-B3/Bovespa,K1IM34.SA,NA
-B3/Bovespa,K1LA34.SA,NA
-B3/Bovespa,K1MX34.SA,NA
-B3/Bovespa,K1RC34.SA,NA
-B3/Bovespa,K1SG34.SA,NA
-B3/Bovespa,K1SS34.SA,NA
-B3/Bovespa,K1TC34.SA,NA
-B3/Bovespa,K2CG34.SA,NA
-B3/Bovespa,KEPL3.SA,NA
-B3/Bovespa,KHCB34.SA,NA
-B3/Bovespa,KLBN3.SA,NA
-B3/Bovespa,KLBN4.SA,NA
-B3/Bovespa,KLBN11.SA,NA
-B3/Bovespa,KMBB34.SA,NA
-B3/Bovespa,KMIC34.SA,NA
-B3/Bovespa,KMPR34.SA,NA
-B3/Bovespa,L1BT34.SA,NA
-B3/Bovespa,L1BT35.SA,NA
-B3/Bovespa,L1CA34.SA,NA
-B3/Bovespa,L1DO34.SA,NA
-B3/Bovespa,L1EG34.SA,NA
-B3/Bovespa,L1EN34.SA,NA
-B3/Bovespa,L1FC34.SA,NA
-B3/Bovespa,L1HX34.SA,NA
-B3/Bovespa,L1IN34.SA,NA
-B3/Bovespa,L1KQ34.SA,NA
-B3/Bovespa,L1MN34.SA,NA
-B3/Bovespa,L1NC34.SA,NA
-B3/Bovespa,L1OE34.SA,NA
-B3/Bovespa,L1RC34.SA,NA
-B3/Bovespa,L1UL34.SA,NA
-B3/Bovespa,L1VS34.SA,NA
-B3/Bovespa,L1WH34.SA,NA
-B3/Bovespa,L1YB34.SA,NA
-B3/Bovespa,L1YG34.SA,NA
-B3/Bovespa,L1YV34.SA,NA
-B3/Bovespa,LAME3.SA,NA
-B3/Bovespa,LAME4.SA,NA
-B3/Bovespa,LAVV3.SA,NA
-B3/Bovespa,LBRD34.SA,NA
-B3/Bovespa,LBRN34.SA,NA
-B3/Bovespa,LCAM3.SA,NA
-B3/Bovespa,LEVE3.SA,NA
-B3/Bovespa,LIGT3.SA,NA
-B3/Bovespa,LILY34.SA,NA
-B3/Bovespa,LINX3.SA,NA
-B3/Bovespa,LIPR3.SA,NA
-B3/Bovespa,LJQQ3.SA,NA
-B3/Bovespa,LMED3.SA,NA
-B3/Bovespa,LMTB34.SA,NA
-B3/Bovespa,LOGG3.SA,NA
-B3/Bovespa,LOGN3.SA,NA
-B3/Bovespa,LOWC34.SA,NA
-B3/Bovespa,LPSB3.SA,NA
-B3/Bovespa,LREN3.SA,NA
-B3/Bovespa,LSXM34.SA,NA
-B3/Bovespa,LSXM35.SA,NA
-B3/Bovespa,LTEL3B.SA,NA
-B3/Bovespa,LTLA3B.SA,NA
-B3/Bovespa,LUXM3.SA,NA
-B3/Bovespa,LUXM4.SA,NA
-B3/Bovespa,LWSA3.SA,NA
-B3/Bovespa,M1AA34.SA,NA
-B3/Bovespa,M1AS34.SA,NA
-B3/Bovespa,M1BT34.SA,NA
-B3/Bovespa,M1CB34.SA,NA
-B3/Bovespa,M1CH34.SA,NA
-B3/Bovespa,M1CK34.SA,NA
-B3/Bovespa,M1DB34.SA,NA
-B3/Bovespa,M1GM34.SA,NA
-B3/Bovespa,M1HK34.SA,NA
-B3/Bovespa,M1KC34.SA,NA
-B3/Bovespa,M1KT34.SA,NA
-B3/Bovespa,M1LC34.SA,NA
-B3/Bovespa,M1LM34.SA,NA
-B3/Bovespa,M1MC34.SA,NA
-B3/Bovespa,M1NS34.SA,NA
-B3/Bovespa,M1PC34.SA,NA
-B3/Bovespa,M1RN34.SA,NA
-B3/Bovespa,M1RO34.SA,NA
-B3/Bovespa,M1SC34.SA,NA
-B3/Bovespa,M1SI34.SA,NA
-B3/Bovespa,M1TB34.SA,NA
-B3/Bovespa,M1TC34.SA,NA
-B3/Bovespa,M1TD34.SA,NA
-B3/Bovespa,M1TT34.SA,NA
-B3/Bovespa,M1UF34.SA,NA
-B3/Bovespa,M1XI34.SA,NA
-B3/Bovespa,M2PW34.SA,NA
-B3/Bovespa,MACY34.SA,NA
-B3/Bovespa,MAPT3.SA,NA
-B3/Bovespa,MAPT4.SA,NA
-B3/Bovespa,MATD3.SA,NA
-B3/Bovespa,MBLY3.SA,NA
-B3/Bovespa,MCDC34.SA,NA
-B3/Bovespa,MCOR34.SA,NA
-B3/Bovespa,MDIA3.SA,NA
-B3/Bovespa,MDLZ34.SA,NA
-B3/Bovespa,MDNE3.SA,NA
-B3/Bovespa,MDTC34.SA,NA
-B3/Bovespa,MEAL3.SA,NA
-B3/Bovespa,MELI34.SA,NA
-B3/Bovespa,MELK3.SA,NA
-B3/Bovespa,MERC3.SA,NA
-B3/Bovespa,MERC4.SA,NA
-B3/Bovespa,METB34.SA,NA
-B3/Bovespa,MGEL3.SA,NA
-B3/Bovespa,MGEL4.SA,NA
-B3/Bovespa,MGLU3.SA,NA
-B3/Bovespa,MILS3.SA,NA
-B3/Bovespa,MKLC34.SA,NA
-B3/Bovespa,MLCX11.SA,NA
-B3/Bovespa,MMAQ3.SA,NA
-B3/Bovespa,MMAQ4.SA,NA
-B3/Bovespa,MMMC34.SA,NA
-B3/Bovespa,MNDL3.SA,NA
-B3/Bovespa,MNPR3.SA,NA
-B3/Bovespa,MNZC3B.SA,NA
-B3/Bovespa,MOAR3.SA,NA
-B3/Bovespa,MODL3.SA,NA
-B3/Bovespa,MODL4.SA,NA
-B3/Bovespa,MODL11.SA,NA
-B3/Bovespa,MOOO34.SA,NA
-B3/Bovespa,MOSC34.SA,NA
-B3/Bovespa,MOSI3.SA,NA
-B3/Bovespa,MOVI3.SA,NA
-B3/Bovespa,MRCK34.SA,NA
-B3/Bovespa,MRFG3.SA,NA
-B3/Bovespa,MRSA3B.SA,NA
-B3/Bovespa,MRSA5B.SA,NA
-B3/Bovespa,MRSA6B.SA,NA
-B3/Bovespa,MRVE3.SA,NA
-B3/Bovespa,MSBR34.SA,NA
-B3/Bovespa,MSCD34.SA,NA
-B3/Bovespa,MSFT34.SA,NA
-B3/Bovespa,MSPA3.SA,NA
-B3/Bovespa,MSPA4.SA,NA
-B3/Bovespa,MSRO3.SA,NA
-B3/Bovespa,MTIG3.SA,NA
-B3/Bovespa,MTIG4.SA,NA
-B3/Bovespa,MTRE3.SA,NA
-B3/Bovespa,MTSA3.SA,NA
-B3/Bovespa,MTSA4.SA,NA
-B3/Bovespa,MULT3.SA,NA
-B3/Bovespa,MUTC34.SA,NA
-B3/Bovespa,MYPK3.SA,NA
-B3/Bovespa,N1BI34.SA,NA
-B3/Bovespa,N1CL34.SA,NA
-B3/Bovespa,N1DA34.SA,NA
-B3/Bovespa,N1EM34.SA,NA
-B3/Bovespa,N1GG34.SA,NA
-B3/Bovespa,N1IC34.SA,NA
-B3/Bovespa,N1IS34.SA,NA
-B3/Bovespa,N1LS34.SA,NA
-B3/Bovespa,N1OV34.SA,NA
-B3/Bovespa,N1OW34.SA,NA
-B3/Bovespa,N1RG34.SA,NA
-B3/Bovespa,N1SC34.SA,NA
-B3/Bovespa,N1TA34.SA,NA
-B3/Bovespa,N1TR34.SA,NA
-B3/Bovespa,N1UE34.SA,NA
-B3/Bovespa,N1VO34.SA,NA
-B3/Bovespa,N1VR34.SA,NA
-B3/Bovespa,N1VS34.SA,NA
-B3/Bovespa,N1WG34.SA,NA
-B3/Bovespa,N1WL34.SA,NA
-B3/Bovespa,N1WS34.SA,NA
-B3/Bovespa,N1WS35.SA,NA
-B3/Bovespa,N1XP34.SA,NA
-B3/Bovespa,NEMO3.SA,NA
-B3/Bovespa,NEMO5.SA,NA
-B3/Bovespa,NEMO6.SA,NA
-B3/Bovespa,NEOE3.SA,NA
-B3/Bovespa,NETE34.SA,NA
-B3/Bovespa,NEXT34.SA,NA
-B3/Bovespa,NFLX34.SA,NA
-B3/Bovespa,NGRD3.SA,NA
-B3/Bovespa,NIKE34.SA,NA
-B3/Bovespa,NINJ3.SA,NA
-B3/Bovespa,NMRH34.SA,NA
-B3/Bovespa,NOCG34.SA,NA
-B3/Bovespa,NOKI34.SA,NA
-B3/Bovespa,NORD3.SA,NA
-B3/Bovespa,NRTQ3.SA,NA
-B3/Bovespa,NTCO3.SA,NA
-B3/Bovespa,NVDC34.SA,NA
-B3/Bovespa,O1DF34.SA,NA
-B3/Bovespa,O1KE34.SA,NA
-B3/Bovespa,O1KT34.SA,NA
-B3/Bovespa,O1MC34.SA,NA
-B3/Bovespa,O1TI34.SA,NA
-B3/Bovespa,ODER3.SA,NA
-B3/Bovespa,ODER4.SA,NA
-B3/Bovespa,ODPV3.SA,NA
-B3/Bovespa,OFSA3.SA,NA
-B3/Bovespa,OMGE3.SA,NA
-B3/Bovespa,OPCT3.SA,NA
-B3/Bovespa,OPGM3B.SA,NA
-B3/Bovespa,OPHE3B.SA,NA
-B3/Bovespa,OPSE3B.SA,NA
-B3/Bovespa,OPTS3B.SA,NA
-B3/Bovespa,ORCL34.SA,NA
-B3/Bovespa,ORLY34.SA,NA
-B3/Bovespa,ORVR3.SA,NA
-B3/Bovespa,OSXB3.SA,NA
-B3/Bovespa,OXYP34.SA,NA
-B3/Bovespa,P1AC34.SA,NA
-B3/Bovespa,P1AY34.SA,NA
-B3/Bovespa,P1BC34.SA,NA
-B3/Bovespa,P1DD34.SA,NA
-B3/Bovespa,P1DT34.SA,NA
-B3/Bovespa,P1EA34.SA,NA
-B3/Bovespa,P1EG34.SA,NA
-B3/Bovespa,P1FG34.SA,NA
-B3/Bovespa,P1GR34.SA,NA
-B3/Bovespa,P1HC34.SA,NA
-B3/Bovespa,P1HM34.SA,NA
-B3/Bovespa,P1IO34.SA,NA
-B3/Bovespa,P1KG34.SA,NA
-B3/Bovespa,P1KI34.SA,NA
-B3/Bovespa,P1KX34.SA,NA
-B3/Bovespa,P1LD34.SA,NA
-B3/Bovespa,P1NR34.SA,NA
-B3/Bovespa,P1NW34.SA,NA
-B3/Bovespa,P1PG34.SA,NA
-B3/Bovespa,P1PL34.SA,NA
-B3/Bovespa,P1RG34.SA,NA
-B3/Bovespa,P1SA34.SA,NA
-B3/Bovespa,P1SX34.SA,NA
-B3/Bovespa,P1UK34.SA,NA
-B3/Bovespa,P1VH34.SA,NA
-B3/Bovespa,P1YC34.SA,NA
-B3/Bovespa,P2EN34.SA,NA
-B3/Bovespa,PAGS34.SA,NA
-B3/Bovespa,PARD3.SA,NA
-B3/Bovespa,PATI3.SA,NA
-B3/Bovespa,PATI4.SA,NA
-B3/Bovespa,PCAR3.SA,NA
-B3/Bovespa,PCAR99.SA,NA
-B3/Bovespa,PDTC3.SA,NA
-B3/Bovespa,PEAB3.SA,NA
-B3/Bovespa,PEAB4.SA,NA
-B3/Bovespa,PEPB34.SA,NA
-B3/Bovespa,PETR3.SA,NA
-B3/Bovespa,PETR4.SA,NA
-B3/Bovespa,PETZ3.SA,NA
-B3/Bovespa,PFIZ34.SA,NA
-B3/Bovespa,PFRM3.SA,NA
-B3/Bovespa,PGCO34.SA,NA
-B3/Bovespa,PGMN3.SA,NA
-B3/Bovespa,PHGN34.SA,NA
-B3/Bovespa,PHMO34.SA,NA
-B3/Bovespa,PINE3.SA,NA
-B3/Bovespa,PINE4.SA,NA
-B3/Bovespa,PLAS3.SA,NA
-B3/Bovespa,PLPL3.SA,NA
-B3/Bovespa,PMAM3.SA,NA
-B3/Bovespa,PNCS34.SA,NA
-B3/Bovespa,PNVL3.SA,NA
-B3/Bovespa,PNVL4.SA,NA
-B3/Bovespa,POMO3.SA,NA
-B3/Bovespa,POMO4.SA,NA
-B3/Bovespa,POSI3.SA,NA
-B3/Bovespa,POWE3.SA,NA
-B3/Bovespa,PPAR3.SA,NA
-B3/Bovespa,PPLA11.SA,NA
-B3/Bovespa,PRIO3.SA,NA
-B3/Bovespa,PRMN3B.SA,NA
-B3/Bovespa,PRNR3.SA,NA
-B3/Bovespa,PRPT3B.SA,NA
-B3/Bovespa,PSSA3.SA,NA
-B3/Bovespa,PTBL3.SA,NA
-B3/Bovespa,PTCA3.SA,NA
-B3/Bovespa,PTCA11.SA,NA
-B3/Bovespa,PTCH34.SA,NA
-B3/Bovespa,PTNT3.SA,NA
-B3/Bovespa,PTNT4.SA,NA
-B3/Bovespa,PYPL34.SA,NA
-B3/Bovespa,Q1RV34.SA,NA
-B3/Bovespa,Q1UA34.SA,NA
-B3/Bovespa,Q1UE34.SA,NA
-B3/Bovespa,QCOM34.SA,NA
-B3/Bovespa,QUAL3.SA,NA
-B3/Bovespa,QUSW3.SA,NA
-B3/Bovespa,QVQP3B.SA,NA
-B3/Bovespa,R1CL34.SA,NA
-B3/Bovespa,R1DY34.SA,NA
-B3/Bovespa,R1EG34.SA,NA
-B3/Bovespa,R1EL34.SA,NA
-B3/Bovespa,R1FC34.SA,NA
-B3/Bovespa,R1HI34.SA,NA
-B3/Bovespa,R1IN34.SA,NA
-B3/Bovespa,R1JF34.SA,NA
-B3/Bovespa,R1KU34.SA,NA
-B3/Bovespa,R1LC34.SA,NA
-B3/Bovespa,R1MD34.SA,NA
-B3/Bovespa,R1OK34.SA,NA
-B3/Bovespa,R1OL34.SA,NA
-B3/Bovespa,R1OP34.SA,NA
-B3/Bovespa,R1SG34.SA,NA
-B3/Bovespa,R1YA34.SA,NA
-B3/Bovespa,RADL3.SA,NA
-B3/Bovespa,RAIL3.SA,NA
-B3/Bovespa,RANI3.SA,NA
-B3/Bovespa,RAPT3.SA,NA
-B3/Bovespa,RAPT4.SA,NA
-B3/Bovespa,RCSL3.SA,NA
-B3/Bovespa,RCSL4.SA,NA
-B3/Bovespa,RDNI3.SA,NA
-B3/Bovespa,RDOR3.SA,NA
-B3/Bovespa,RDSA34.SA,NA
-B3/Bovespa,RDSA35.SA,NA
-B3/Bovespa,RECV3.SA,NA
-B3/Bovespa,REDE3.SA,NA
-B3/Bovespa,REGN34.SA,NA
-B3/Bovespa,RENT3.SA,NA
-B3/Bovespa,RIGG34.SA,NA
-B3/Bovespa,RIOT34.SA,NA
-B3/Bovespa,ROMI3.SA,NA
-B3/Bovespa,ROST34.SA,NA
-B3/Bovespa,RPAD3.SA,NA
-B3/Bovespa,RPAD5.SA,NA
-B3/Bovespa,RPAD6.SA,NA
-B3/Bovespa,RRRP3.SA,NA
-B3/Bovespa,RSID3.SA,NA
-B3/Bovespa,RSUL3.SA,NA
-B3/Bovespa,RSUL4.SA,NA
-B3/Bovespa,RYTT34.SA,NA
-B3/Bovespa,S1BA34.SA,NA
-B3/Bovespa,S1BS34.SA,NA
-B3/Bovespa,S1EA34.SA,NA
-B3/Bovespa,S1GE34.SA,NA
-B3/Bovespa,S1HW34.SA,NA
-B3/Bovespa,S1IV34.SA,NA
-B3/Bovespa,S1JM34.SA,NA
-B3/Bovespa,S1KM34.SA,NA
-B3/Bovespa,S1LG34.SA,NA
-B3/Bovespa,S1MF34.SA,NA
-B3/Bovespa,S1NA34.SA,NA
-B3/Bovespa,S1NN34.SA,NA
-B3/Bovespa,S1NP34.SA,NA
-B3/Bovespa,S1OU34.SA,NA
-B3/Bovespa,S1PL34.SA,NA
-B3/Bovespa,S1PO34.SA,NA
-B3/Bovespa,S1RE34.SA,NA
-B3/Bovespa,S1RP34.SA,NA
-B3/Bovespa,S1SL34.SA,NA
-B3/Bovespa,S1SN34.SA,NA
-B3/Bovespa,S1TE34.SA,NA
-B3/Bovespa,S1TT34.SA,NA
-B3/Bovespa,S1TX34.SA,NA
-B3/Bovespa,S1WK34.SA,NA
-B3/Bovespa,S1YF34.SA,NA
-B3/Bovespa,S1YK34.SA,NA
-B3/Bovespa,S1YM34.SA,NA
-B3/Bovespa,S1YY34.SA,NA
-B3/Bovespa,S2EA34.SA,NA
-B3/Bovespa,S2HO34.SA,NA
-B3/Bovespa,S2NW34.SA,NA
-B3/Bovespa,S2QU34.SA,NA
-B3/Bovespa,S2UI34.SA,NA
-B3/Bovespa,SANB3.SA,NA
-B3/Bovespa,SANB4.SA,NA
-B3/Bovespa,SANB11.SA,NA
-B3/Bovespa,SAPP34.SA,NA
-B3/Bovespa,SAPR3.SA,NA
-B3/Bovespa,SAPR4.SA,NA
-B3/Bovespa,SAPR11.SA,NA
-B3/Bovespa,SBFG3.SA,NA
-B3/Bovespa,SBNY34.SA,NA
-B3/Bovespa,SBSP3.SA,NA
-B3/Bovespa,SBUB34.SA,NA
-B3/Bovespa,SCAR3.SA,NA
-B3/Bovespa,SCHW34.SA,NA
-B3/Bovespa,SEER3.SA,NA
-B3/Bovespa,SEQL3.SA,NA
-B3/Bovespa,SGPS3.SA,NA
-B3/Bovespa,SHOW3.SA,NA
-B3/Bovespa,SHUL3.SA,NA
-B3/Bovespa,SHUL4.SA,NA
-B3/Bovespa,SIMH3.SA,NA
-B3/Bovespa,SIMN34.SA,NA
-B3/Bovespa,SLBC34.SA,NA
-B3/Bovespa,SLBG34.SA,NA
-B3/Bovespa,SLCE3.SA,NA
-B3/Bovespa,SMFT3.SA,NA
-B3/Bovespa,SMLL11.SA,NA
-B3/Bovespa,SMLS3.SA,NA
-B3/Bovespa,SMTO3.SA,NA
-B3/Bovespa,SNEC34.SA,NA
-B3/Bovespa,SNSY3.SA,NA
-B3/Bovespa,SNSY5.SA,NA
-B3/Bovespa,SNSY6.SA,NA
-B3/Bovespa,SOJA3.SA,NA
-B3/Bovespa,SOMA3.SA,NA
-B3/Bovespa,SOND3.SA,NA
-B3/Bovespa,SOND5.SA,NA
-B3/Bovespa,SOND6.SA,NA
-B3/Bovespa,SPGI34.SA,NA
-B3/Bovespa,SQIA3.SA,NA
-B3/Bovespa,SRXM34.SA,NA
-B3/Bovespa,SSFO34.SA,NA
-B3/Bovespa,STBP3.SA,NA
-B3/Bovespa,STKF3.SA,NA
-B3/Bovespa,STMN34.SA,NA
-B3/Bovespa,STTR3.SA,NA
-B3/Bovespa,STZB34.SA,NA
-B3/Bovespa,SULA3.SA,NA
-B3/Bovespa,SULA4.SA,NA
-B3/Bovespa,SULA11.SA,NA
-B3/Bovespa,SUZB3.SA,NA
-B3/Bovespa,T1AL34.SA,NA
-B3/Bovespa,T1AM34.SA,NA
-B3/Bovespa,T1CH34.SA,NA
-B3/Bovespa,T1DG34.SA,NA
-B3/Bovespa,T1EC34.SA,NA
-B3/Bovespa,T1EL34.SA,NA
-B3/Bovespa,T1EV34.SA,NA
-B3/Bovespa,T1FX34.SA,NA
-B3/Bovespa,T1LK34.SA,NA
-B3/Bovespa,T1MU34.SA,NA
-B3/Bovespa,T1OW34.SA,NA
-B3/Bovespa,T1RI34.SA,NA
-B3/Bovespa,T1RO34.SA,NA
-B3/Bovespa,T1SC34.SA,NA
-B3/Bovespa,T1SO34.SA,NA
-B3/Bovespa,T1SS34.SA,NA
-B3/Bovespa,T1TW34.SA,NA
-B3/Bovespa,T1WL34.SA,NA
-B3/Bovespa,T1XT34.SA,NA
-B3/Bovespa,T2DH34.SA,NA
-B3/Bovespa,T2TD34.SA,NA
-B3/Bovespa,TAEE3.SA,NA
-B3/Bovespa,TAEE4.SA,NA
-B3/Bovespa,TAEE11.SA,NA
-B3/Bovespa,TAKP34.SA,NA
-B3/Bovespa,TASA3.SA,NA
-B3/Bovespa,TASA4.SA,NA
-B3/Bovespa,TAXA1.SA,NA
-B3/Bovespa,TAXA2.SA,NA
-B3/Bovespa,TAXA3.SA,NA
-B3/Bovespa,TAXA4.SA,NA
-B3/Bovespa,TAXA5.SA,NA
-B3/Bovespa,TAXA6.SA,NA
-B3/Bovespa,TAXA0.SA,NA
-B3/Bovespa,TCSA3.SA,NA
-B3/Bovespa,TECN3.SA,NA
-B3/Bovespa,TELB3.SA,NA
-B3/Bovespa,TELB4.SA,NA
-B3/Bovespa,TEND3.SA,NA
-B3/Bovespa,TESA3.SA,NA
-B3/Bovespa,TEXA34.SA,NA
-B3/Bovespa,TFCO4.SA,NA
-B3/Bovespa,TGMA3.SA,NA
-B3/Bovespa,TGTB34.SA,NA
-B3/Bovespa,THGI34.SA,NA
-B3/Bovespa,TIMS3.SA,NA
-B3/Bovespa,TJXC34.SA,NA
-B3/Bovespa,TKNO3.SA,NA
-B3/Bovespa,TKNO4.SA,NA
-B3/Bovespa,TLNC34.SA,NA
-B3/Bovespa,TMCO34.SA,NA
-B3/Bovespa,TMOS34.SA,NA
-B3/Bovespa,TOTS3.SA,NA
-B3/Bovespa,TPIS3.SA,NA
-B3/Bovespa,TPRY34.SA,NA
-B3/Bovespa,TRIS3.SA,NA
-B3/Bovespa,TRPL3.SA,NA
-B3/Bovespa,TRPL4.SA,NA
-B3/Bovespa,TRVC34.SA,NA
-B3/Bovespa,TSLA34.SA,NA
-B3/Bovespa,TSMC34.SA,NA
-B3/Bovespa,TSNF34.SA,NA
-B3/Bovespa,TUPY3.SA,NA
-B3/Bovespa,TWTR34.SA,NA
-B3/Bovespa,TXSA34.SA,NA
-B3/Bovespa,U1AI34.SA,NA
-B3/Bovespa,U1AL34.SA,NA
-B3/Bovespa,U1BE34.SA,NA
-B3/Bovespa,U1DR34.SA,NA
-B3/Bovespa,U1HS34.SA,NA
-B3/Bovespa,U1LT34.SA,NA
-B3/Bovespa,U1NM34.SA,NA
-B3/Bovespa,U1RI34.SA,NA
-B3/Bovespa,U2ST34.SA,NA
-B3/Bovespa,UBSG34.SA,NA
-B3/Bovespa,UCAS3.SA,NA
-B3/Bovespa,UGPA3.SA,NA
-B3/Bovespa,ULEV34.SA,NA
-B3/Bovespa,UNHH34.SA,NA
-B3/Bovespa,UNIP3.SA,NA
-B3/Bovespa,UNIP5.SA,NA
-B3/Bovespa,UNIP6.SA,NA
-B3/Bovespa,UPAC34.SA,NA
-B3/Bovespa,UPKP3B.SA,NA
-B3/Bovespa,UPSS34.SA,NA
-B3/Bovespa,USBC34.SA,NA
-B3/Bovespa,USIM3.SA,NA
-B3/Bovespa,USIM5.SA,NA
-B3/Bovespa,USIM6.SA,NA
-B3/Bovespa,USSX34.SA,NA
-B3/Bovespa,UTIL11.SA,NA
-B3/Bovespa,V1IP34.SA,NA
-B3/Bovespa,V1MC34.SA,NA
-B3/Bovespa,V1NO34.SA,NA
-B3/Bovespa,V1OD34.SA,NA
-B3/Bovespa,V1RS34.SA,NA
-B3/Bovespa,V1TA34.SA,NA
-B3/Bovespa,VALE3.SA,NA
-B3/Bovespa,VAMO3.SA,NA
-B3/Bovespa,VERZ34.SA,NA
-B3/Bovespa,VFCO34.SA,NA
-B3/Bovespa,VISA34.SA,NA
-B3/Bovespa,VIVA3.SA,NA
-B3/Bovespa,VIVT3.SA,NA
-B3/Bovespa,VLID3.SA,NA
-B3/Bovespa,VLOE34.SA,NA
-B3/Bovespa,VLYB34.SA,NA
-B3/Bovespa,VRSN34.SA,NA
-B3/Bovespa,VRTX34.SA,NA
-B3/Bovespa,VSPT3.SA,NA
-B3/Bovespa,VSPT4.SA,NA
-B3/Bovespa,VULC3.SA,NA
-B3/Bovespa,VVAR3.SA,NA
-B3/Bovespa,W1AB34.SA,NA
-B3/Bovespa,W1BK34.SA,NA
-B3/Bovespa,W1BO34.SA,NA
-B3/Bovespa,W1DA34.SA,NA
-B3/Bovespa,W1DC34.SA,NA
-B3/Bovespa,W1EC34.SA,NA
-B3/Bovespa,W1EL34.SA,NA
-B3/Bovespa,W1HR34.SA,NA
-B3/Bovespa,W1IX34.SA,NA
-B3/Bovespa,W1LT34.SA,NA
-B3/Bovespa,W1MB34.SA,NA
-B3/Bovespa,W1MC34.SA,NA
-B3/Bovespa,W1MG34.SA,NA
-B3/Bovespa,W1PP34.SA,NA
-B3/Bovespa,W1RB34.SA,NA
-B3/Bovespa,W1RK34.SA,NA
-B3/Bovespa,W1SO34.SA,NA
-B3/Bovespa,W1YC34.SA,NA
-B3/Bovespa,W1YN34.SA,NA
-B3/Bovespa,WABC34.SA,NA
-B3/Bovespa,WALM34.SA,NA
-B3/Bovespa,WATC34.SA,NA
-B3/Bovespa,WEGE3.SA,NA
-B3/Bovespa,WEST3.SA,NA
-B3/Bovespa,WFCO34.SA,NA
-B3/Bovespa,WGBA34.SA,NA
-B3/Bovespa,WHRL3.SA,NA
-B3/Bovespa,WHRL4.SA,NA
-B3/Bovespa,WIZS3.SA,NA
-B3/Bovespa,WLMM3.SA,NA
-B3/Bovespa,WLMM4.SA,NA
-B3/Bovespa,WSON33.SA,NA
-B3/Bovespa,WUNI34.SA,NA
-B3/Bovespa,X1EL34.SA,NA
-B3/Bovespa,X1LN34.SA,NA
-B3/Bovespa,X1YL34.SA,NA
-B3/Bovespa,XRAY34.SA,NA
-B3/Bovespa,XRXB34.SA,NA
-B3/Bovespa,YDUQ3.SA,NA
-B3/Bovespa,YUMR34.SA,NA
-B3/Bovespa,Z1BH34.SA,NA
-B3/Bovespa,Z1BR34.SA,NA
-B3/Bovespa,Z1IO34.SA,NA
-B3/Bovespa,Z1OM34.SA,NA
-B3/Bovespa,Z1TO34.SA,NA
-B3/Bovespa,Z1TS34.SA,NA
-B3/Bovespa,Z2NG34.SA,NA
-SP500 Components,MMM,Industrials
-SP500 Components,ABT,Health Care
-SP500 Components,ABBV,Health Care
-SP500 Components,ABMD,Health Care
-SP500 Components,ACN,Information Technology
-SP500 Components,ATVI,Communication Services
-SP500 Components,ADBE,Information Technology
-SP500 Components,AMD,Information Technology
-SP500 Components,AAP,Consumer Discretionary
-SP500 Components,AES,Utilities
-SP500 Components,AFL,Financials
-SP500 Components,A,Health Care
-SP500 Components,APD,Materials
-SP500 Components,AKAM,Information Technology
-SP500 Components,ALK,Industrials
-SP500 Components,ALB,Materials
-SP500 Components,ARE,Real Estate
-SP500 Components,ALXN,Health Care
-SP500 Components,ALGN,Health Care
-SP500 Components,ALLE,Industrials
-SP500 Components,LNT,Utilities
-SP500 Components,ALL,Financials
-SP500 Components,GOOGL,Communication Services
-SP500 Components,GOOG,Communication Services
-SP500 Components,MO,Consumer Staples
-SP500 Components,AMZN,Consumer Discretionary
-SP500 Components,AMCR,Materials
-SP500 Components,AEE,Utilities
-SP500 Components,AAL,Industrials
-SP500 Components,AEP,Utilities
-SP500 Components,AXP,Financials
-SP500 Components,AIG,Financials
-SP500 Components,AMT,Real Estate
-SP500 Components,AWK,Utilities
-SP500 Components,AMP,Financials
-SP500 Components,ABC,Health Care
-SP500 Components,AME,Industrials
-SP500 Components,AMGN,Health Care
-SP500 Components,APH,Information Technology
-SP500 Components,ADI,Information Technology
-SP500 Components,ANSS,Information Technology
-SP500 Components,ANTM,Health Care
-SP500 Components,AON,Financials
-SP500 Components,AOS,Industrials
-SP500 Components,APA,Energy
-SP500 Components,AAPL,Information Technology
-SP500 Components,AMAT,Information Technology
-SP500 Components,APTV,Consumer Discretionary
-SP500 Components,ADM,Consumer Staples
-SP500 Components,ANET,Information Technology
-SP500 Components,AJG,Financials
-SP500 Components,AIZ,Financials
-SP500 Components,T,Communication Services
-SP500 Components,ATO,Utilities
-SP500 Components,ADSK,Information Technology
-SP500 Components,ADP,Information Technology
-SP500 Components,AZO,Consumer Discretionary
-SP500 Components,AVB,Real Estate
-SP500 Components,AVY,Materials
-SP500 Components,BKR,Energy
-SP500 Components,BLL,Materials
-SP500 Components,BAC,Financials
-SP500 Components,BK,Financials
-SP500 Components,BAX,Health Care
-SP500 Components,BDX,Health Care
-SP500 Components,BRK.B,Financials
-SP500 Components,BBY,Consumer Discretionary
-SP500 Components,BIO,Health Care
-SP500 Components,BIIB,Health Care
-SP500 Components,BLK,Financials
-SP500 Components,BA,Industrials
-SP500 Components,BKNG,Consumer Discretionary
-SP500 Components,BWA,Consumer Discretionary
-SP500 Components,BXP,Real Estate
-SP500 Components,BSX,Health Care
-SP500 Components,BMY,Health Care
-SP500 Components,AVGO,Information Technology
-SP500 Components,BR,Information Technology
-SP500 Components,BF.B,Consumer Staples
-SP500 Components,CHRW,Industrials
-SP500 Components,COG,Energy
-SP500 Components,CDNS,Information Technology
-SP500 Components,CZR,Consumer Discretionary
-SP500 Components,CPB,Consumer Staples
-SP500 Components,COF,Financials
-SP500 Components,CAH,Health Care
-SP500 Components,KMX,Consumer Discretionary
-SP500 Components,CCL,Consumer Discretionary
-SP500 Components,CARR,Industrials
-SP500 Components,CTLT,Health Care
-SP500 Components,CAT,Industrials
-SP500 Components,CBOE,Financials
-SP500 Components,CBRE,Real Estate
-SP500 Components,CDW,Information Technology
-SP500 Components,CE,Materials
-SP500 Components,CNC,Health Care
-SP500 Components,CNP,Utilities
-SP500 Components,CERN,Health Care
-SP500 Components,CF,Materials
-SP500 Components,SCHW,Financials
-SP500 Components,CHTR,Communication Services
-SP500 Components,CVX,Energy
-SP500 Components,CMG,Consumer Discretionary
-SP500 Components,CB,Financials
-SP500 Components,CHD,Consumer Staples
-SP500 Components,CI,Health Care
-SP500 Components,CINF,Financials
-SP500 Components,CTAS,Industrials
-SP500 Components,CSCO,Information Technology
-SP500 Components,C,Financials
-SP500 Components,CFG,Financials
-SP500 Components,CTXS,Information Technology
-SP500 Components,CLX,Consumer Staples
-SP500 Components,CME,Financials
-SP500 Components,CMS,Utilities
-SP500 Components,KO,Consumer Staples
-SP500 Components,CTSH,Information Technology
-SP500 Components,CL,Consumer Staples
-SP500 Components,CMCSA,Communication Services
-SP500 Components,CMA,Financials
-SP500 Components,CAG,Consumer Staples
-SP500 Components,COP,Energy
-SP500 Components,ED,Utilities
-SP500 Components,STZ,Consumer Staples
-SP500 Components,COO,Health Care
-SP500 Components,CPRT,Industrials
-SP500 Components,GLW,Information Technology
-SP500 Components,CTVA,Materials
-SP500 Components,COST,Consumer Staples
-SP500 Components,CCI,Real Estate
-SP500 Components,CSX,Industrials
-SP500 Components,CMI,Industrials
-SP500 Components,CVS,Health Care
-SP500 Components,DHI,Consumer Discretionary
-SP500 Components,DHR,Health Care
-SP500 Components,DRI,Consumer Discretionary
-SP500 Components,DVA,Health Care
-SP500 Components,DE,Industrials
-SP500 Components,DAL,Industrials
-SP500 Components,XRAY,Health Care
-SP500 Components,DVN,Energy
-SP500 Components,DXCM,Health Care
-SP500 Components,FANG,Energy
-SP500 Components,DLR,Real Estate
-SP500 Components,DFS,Financials
-SP500 Components,DISCA,Communication Services
-SP500 Components,DISCK,Communication Services
-SP500 Components,DISH,Communication Services
-SP500 Components,DG,Consumer Discretionary
-SP500 Components,DLTR,Consumer Discretionary
-SP500 Components,D,Utilities
-SP500 Components,DPZ,Consumer Discretionary
-SP500 Components,DOV,Industrials
-SP500 Components,DOW,Materials
-SP500 Components,DTE,Utilities
-SP500 Components,DUK,Utilities
-SP500 Components,DRE,Real Estate
-SP500 Components,DD,Materials
-SP500 Components,DXC,Information Technology
-SP500 Components,EMN,Materials
-SP500 Components,ETN,Industrials
-SP500 Components,EBAY,Consumer Discretionary
-SP500 Components,ECL,Materials
-SP500 Components,EIX,Utilities
-SP500 Components,EW,Health Care
-SP500 Components,EA,Communication Services
-SP500 Components,EMR,Industrials
-SP500 Components,ENPH,Information Technology
-SP500 Components,ETR,Utilities
-SP500 Components,EOG,Energy
-SP500 Components,EFX,Industrials
-SP500 Components,EQIX,Real Estate
-SP500 Components,EQR,Real Estate
-SP500 Components,ESS,Real Estate
-SP500 Components,EL,Consumer Staples
-SP500 Components,ETSY,Consumer Discretionary
-SP500 Components,EVRG,Utilities
-SP500 Components,ES,Utilities
-SP500 Components,RE,Financials
-SP500 Components,EXC,Utilities
-SP500 Components,EXPE,Consumer Discretionary
-SP500 Components,EXPD,Industrials
-SP500 Components,EXR,Real Estate
-SP500 Components,XOM,Energy
-SP500 Components,FFIV,Information Technology
-SP500 Components,FB,Communication Services
-SP500 Components,FAST,Industrials
-SP500 Components,FRT,Real Estate
-SP500 Components,FDX,Industrials
-SP500 Components,FIS,Information Technology
-SP500 Components,FITB,Financials
-SP500 Components,FE,Utilities
-SP500 Components,FRC,Financials
-SP500 Components,FISV,Information Technology
-SP500 Components,FLT,Information Technology
-SP500 Components,FLIR,Information Technology
-SP500 Components,FMC,Materials
-SP500 Components,F,Consumer Discretionary
-SP500 Components,FTNT,Information Technology
-SP500 Components,FTV,Industrials
-SP500 Components,FBHS,Industrials
-SP500 Components,FOXA,Communication Services
-SP500 Components,FOX,Communication Services
-SP500 Components,BEN,Financials
-SP500 Components,FCX,Materials
-SP500 Components,GPS,Consumer Discretionary
-SP500 Components,GRMN,Consumer Discretionary
-SP500 Components,IT,Information Technology
-SP500 Components,GNRC,Industrials
-SP500 Components,GD,Industrials
-SP500 Components,GE,Industrials
-SP500 Components,GIS,Consumer Staples
-SP500 Components,GM,Consumer Discretionary
-SP500 Components,GPC,Consumer Discretionary
-SP500 Components,GILD,Health Care
-SP500 Components,GL,Financials
-SP500 Components,GPN,Information Technology
-SP500 Components,GS,Financials
-SP500 Components,GWW,Industrials
-SP500 Components,HAL,Energy
-SP500 Components,HBI,Consumer Discretionary
-SP500 Components,HIG,Financials
-SP500 Components,HAS,Consumer Discretionary
-SP500 Components,HCA,Health Care
-SP500 Components,PEAK,Real Estate
-SP500 Components,HSIC,Health Care
-SP500 Components,HSY,Consumer Staples
-SP500 Components,HES,Energy
-SP500 Components,HPE,Information Technology
-SP500 Components,HLT,Consumer Discretionary
-SP500 Components,HFC,Energy
-SP500 Components,HOLX,Health Care
-SP500 Components,HD,Consumer Discretionary
-SP500 Components,HON,Industrials
-SP500 Components,HRL,Consumer Staples
-SP500 Components,HST,Real Estate
-SP500 Components,HWM,Industrials
-SP500 Components,HPQ,Information Technology
-SP500 Components,HUM,Health Care
-SP500 Components,HBAN,Financials
-SP500 Components,HII,Industrials
-SP500 Components,IEX,Industrials
-SP500 Components,IDXX,Health Care
-SP500 Components,INFO,Industrials
-SP500 Components,ITW,Industrials
-SP500 Components,ILMN,Health Care
-SP500 Components,INCY,Health Care
-SP500 Components,IR,Industrials
-SP500 Components,INTC,Information Technology
-SP500 Components,ICE,Financials
-SP500 Components,IBM,Information Technology
-SP500 Components,IP,Materials
-SP500 Components,IPG,Communication Services
-SP500 Components,IFF,Materials
-SP500 Components,INTU,Information Technology
-SP500 Components,ISRG,Health Care
-SP500 Components,IVZ,Financials
-SP500 Components,IPGP,Information Technology
-SP500 Components,IQV,Health Care
-SP500 Components,IRM,Real Estate
-SP500 Components,JKHY,Information Technology
-SP500 Components,J,Industrials
-SP500 Components,JBHT,Industrials
-SP500 Components,SJM,Consumer Staples
-SP500 Components,JNJ,Health Care
-SP500 Components,JCI,Industrials
-SP500 Components,JPM,Financials
-SP500 Components,JNPR,Information Technology
-SP500 Components,KSU,Industrials
-SP500 Components,K,Consumer Staples
-SP500 Components,KEY,Financials
-SP500 Components,KEYS,Information Technology
-SP500 Components,KMB,Consumer Staples
-SP500 Components,KIM,Real Estate
-SP500 Components,KMI,Energy
-SP500 Components,KLAC,Information Technology
-SP500 Components,KHC,Consumer Staples
-SP500 Components,KR,Consumer Staples
-SP500 Components,LB,Consumer Discretionary
-SP500 Components,LHX,Industrials
-SP500 Components,LH,Health Care
-SP500 Components,LRCX,Information Technology
-SP500 Components,LW,Consumer Staples
-SP500 Components,LVS,Consumer Discretionary
-SP500 Components,LEG,Consumer Discretionary
-SP500 Components,LDOS,Industrials
-SP500 Components,LEN,Consumer Discretionary
-SP500 Components,LLY,Health Care
-SP500 Components,LNC,Financials
-SP500 Components,LIN,Materials
-SP500 Components,LYV,Communication Services
-SP500 Components,LKQ,Consumer Discretionary
-SP500 Components,LMT,Industrials
-SP500 Components,L,Financials
-SP500 Components,LOW,Consumer Discretionary
-SP500 Components,LUMN,Communication Services
-SP500 Components,LYB,Materials
-SP500 Components,MTB,Financials
-SP500 Components,MRO,Energy
-SP500 Components,MPC,Energy
-SP500 Components,MKTX,Financials
-SP500 Components,MAR,Consumer Discretionary
-SP500 Components,MMC,Financials
-SP500 Components,MLM,Materials
-SP500 Components,MAS,Industrials
-SP500 Components,MA,Information Technology
-SP500 Components,MKC,Consumer Staples
-SP500 Components,MXIM,Information Technology
-SP500 Components,MCD,Consumer Discretionary
-SP500 Components,MCK,Health Care
-SP500 Components,MDT,Health Care
-SP500 Components,MRK,Health Care
-SP500 Components,MET,Financials
-SP500 Components,MTD,Health Care
-SP500 Components,MGM,Consumer Discretionary
-SP500 Components,MCHP,Information Technology
-SP500 Components,MU,Information Technology
-SP500 Components,MSFT,Information Technology
-SP500 Components,MAA,Real Estate
-SP500 Components,MHK,Consumer Discretionary
-SP500 Components,TAP,Consumer Staples
-SP500 Components,MDLZ,Consumer Staples
-SP500 Components,MPWR,Information Technology
-SP500 Components,MNST,Consumer Staples
-SP500 Components,MCO,Financials
-SP500 Components,MS,Financials
-SP500 Components,MOS,Materials
-SP500 Components,MSI,Information Technology
-SP500 Components,MSCI,Financials
-SP500 Components,NDAQ,Financials
-SP500 Components,NTAP,Information Technology
-SP500 Components,NFLX,Communication Services
-SP500 Components,NWL,Consumer Discretionary
-SP500 Components,NEM,Materials
-SP500 Components,NWSA,Communication Services
-SP500 Components,NWS,Communication Services
-SP500 Components,NEE,Utilities
-SP500 Components,NLSN,Industrials
-SP500 Components,NKE,Consumer Discretionary
-SP500 Components,NI,Utilities
-SP500 Components,NSC,Industrials
-SP500 Components,NTRS,Financials
-SP500 Components,NOC,Industrials
-SP500 Components,NLOK,Information Technology
-SP500 Components,NCLH,Consumer Discretionary
-SP500 Components,NOV,Energy
-SP500 Components,NRG,Utilities
-SP500 Components,NUE,Materials
-SP500 Components,NVDA,Information Technology
-SP500 Components,NVR,Consumer Discretionary
-SP500 Components,NXPI,Information Technology
-SP500 Components,ORLY,Consumer Discretionary
-SP500 Components,OXY,Energy
-SP500 Components,ODFL,Industrials
-SP500 Components,OMC,Communication Services
-SP500 Components,OKE,Energy
-SP500 Components,ORCL,Information Technology
-SP500 Components,OTIS,Industrials
-SP500 Components,PCAR,Industrials
-SP500 Components,PKG,Materials
-SP500 Components,PH,Industrials
-SP500 Components,PAYX,Information Technology
-SP500 Components,PAYC,Information Technology
-SP500 Components,PYPL,Information Technology
-SP500 Components,PENN,Consumer Discretionary
-SP500 Components,PNR,Industrials
-SP500 Components,PBCT,Financials
-SP500 Components,PEP,Consumer Staples
-SP500 Components,PKI,Health Care
-SP500 Components,PRGO,Health Care
-SP500 Components,PFE,Health Care
-SP500 Components,PM,Consumer Staples
-SP500 Components,PSX,Energy
-SP500 Components,PNW,Utilities
-SP500 Components,PXD,Energy
-SP500 Components,PNC,Financials
-SP500 Components,POOL,Consumer Discretionary
-SP500 Components,PPG,Materials
-SP500 Components,PPL,Utilities
-SP500 Components,PFG,Financials
-SP500 Components,PG,Consumer Staples
-SP500 Components,PGR,Financials
-SP500 Components,PLD,Real Estate
-SP500 Components,PRU,Financials
-SP500 Components,PTC,Information Technology
-SP500 Components,PEG,Utilities
-SP500 Components,PSA,Real Estate
-SP500 Components,PHM,Consumer Discretionary
-SP500 Components,PVH,Consumer Discretionary
-SP500 Components,QRVO,Information Technology
-SP500 Components,PWR,Industrials
-SP500 Components,QCOM,Information Technology
-SP500 Components,DGX,Health Care
-SP500 Components,RL,Consumer Discretionary
-SP500 Components,RJF,Financials
-SP500 Components,RTX,Industrials
-SP500 Components,O,Real Estate
-SP500 Components,REG,Real Estate
-SP500 Components,REGN,Health Care
-SP500 Components,RF,Financials
-SP500 Components,RSG,Industrials
-SP500 Components,RMD,Health Care
-SP500 Components,RHI,Industrials
-SP500 Components,ROK,Industrials
-SP500 Components,ROL,Industrials
-SP500 Components,ROP,Industrials
-SP500 Components,ROST,Consumer Discretionary
-SP500 Components,RCL,Consumer Discretionary
-SP500 Components,SPGI,Financials
-SP500 Components,CRM,Information Technology
-SP500 Components,SBAC,Real Estate
-SP500 Components,SLB,Energy
-SP500 Components,STX,Information Technology
-SP500 Components,SEE,Materials
-SP500 Components,SRE,Utilities
-SP500 Components,NOW,Information Technology
-SP500 Components,SHW,Materials
-SP500 Components,SPG,Real Estate
-SP500 Components,SWKS,Information Technology
-SP500 Components,SNA,Industrials
-SP500 Components,SO,Utilities
-SP500 Components,LUV,Industrials
-SP500 Components,SWK,Industrials
-SP500 Components,SBUX,Consumer Discretionary
-SP500 Components,STT,Financials
-SP500 Components,STE,Health Care
-SP500 Components,SYK,Health Care
-SP500 Components,SIVB,Financials
-SP500 Components,SYF,Financials
-SP500 Components,SNPS,Information Technology
-SP500 Components,SYY,Consumer Staples
-SP500 Components,TMUS,Communication Services
-SP500 Components,TROW,Financials
-SP500 Components,TTWO,Communication Services
-SP500 Components,TPR,Consumer Discretionary
-SP500 Components,TGT,Consumer Discretionary
-SP500 Components,TEL,Information Technology
-SP500 Components,TDY,Industrials
-SP500 Components,TFX,Health Care
-SP500 Components,TER,Information Technology
-SP500 Components,TSLA,Consumer Discretionary
-SP500 Components,TXN,Information Technology
-SP500 Components,TXT,Industrials
-SP500 Components,TMO,Health Care
-SP500 Components,TJX,Consumer Discretionary
-SP500 Components,TSCO,Consumer Discretionary
-SP500 Components,TT,Industrials
-SP500 Components,TDG,Industrials
-SP500 Components,TRV,Financials
-SP500 Components,TRMB,Information Technology
-SP500 Components,TFC,Financials
-SP500 Components,TWTR,Communication Services
-SP500 Components,TYL,Information Technology
-SP500 Components,TSN,Consumer Staples
-SP500 Components,UDR,Real Estate
-SP500 Components,ULTA,Consumer Discretionary
-SP500 Components,USB,Financials
-SP500 Components,UAA,Consumer Discretionary
-SP500 Components,UA,Consumer Discretionary
-SP500 Components,UNP,Industrials
-SP500 Components,UAL,Industrials
-SP500 Components,UNH,Health Care
-SP500 Components,UPS,Industrials
-SP500 Components,URI,Industrials
-SP500 Components,UHS,Health Care
-SP500 Components,UNM,Financials
-SP500 Components,VLO,Energy
-SP500 Components,VTR,Real Estate
-SP500 Components,VRSN,Information Technology
-SP500 Components,VRSK,Industrials
-SP500 Components,VZ,Communication Services
-SP500 Components,VRTX,Health Care
-SP500 Components,VFC,Consumer Discretionary
-SP500 Components,VIAC,Communication Services
-SP500 Components,VTRS,Health Care
-SP500 Components,V,Information Technology
-SP500 Components,VNO,Real Estate
-SP500 Components,VMC,Materials
-SP500 Components,WRB,Financials
-SP500 Components,WAB,Industrials
-SP500 Components,WMT,Consumer Staples
-SP500 Components,WBA,Consumer Staples
-SP500 Components,DIS,Communication Services
-SP500 Components,WM,Industrials
-SP500 Components,WAT,Health Care
-SP500 Components,WEC,Utilities
-SP500 Components,WFC,Financials
-SP500 Components,WELL,Real Estate
-SP500 Components,WST,Health Care
-SP500 Components,WDC,Information Technology
-SP500 Components,WU,Information Technology
-SP500 Components,WRK,Materials
-SP500 Components,WY,Real Estate
-SP500 Components,WHR,Consumer Discretionary
-SP500 Components,WMB,Energy
-SP500 Components,WLTW,Financials
-SP500 Components,WYNN,Consumer Discretionary
-SP500 Components,XEL,Utilities
-SP500 Components,XLNX,Information Technology
-SP500 Components,XYL,Industrials
-SP500 Components,YUM,Consumer Discretionary
-SP500 Components,ZBRA,Information Technology
-SP500 Components,ZBH,Health Care
-SP500 Components,ZION,Financials
-SP500 Components,ZTS,Health Care
+collection,ticker,description
+B3/Bovespa,A1BM34.SA,A1BM34.SA
+B3/Bovespa,A1DI34.SA,A1DI34.SA
+B3/Bovespa,A1DM34.SA,A1DM34.SA
+B3/Bovespa,A1EE34.SA,A1EE34.SA
+B3/Bovespa,A1EN34.SA,A1EN34.SA
+B3/Bovespa,A1EP34.SA,A1EP34.SA
+B3/Bovespa,A1ES34.SA,A1ES34.SA
+B3/Bovespa,A1FL34.SA,A1FL34.SA
+B3/Bovespa,A1GI34.SA,A1GI34.SA
+B3/Bovespa,A1GN34.SA,A1GN34.SA
+B3/Bovespa,A1IV34.SA,A1IV34.SA
+B3/Bovespa,A1JG34.SA,A1JG34.SA
+B3/Bovespa,A1KA34.SA,A1KA34.SA
+B3/Bovespa,A1LB34.SA,A1LB34.SA
+B3/Bovespa,A1LG34.SA,A1LG34.SA
+B3/Bovespa,A1LK34.SA,A1LK34.SA
+B3/Bovespa,A1LL34.SA,A1LL34.SA
+B3/Bovespa,A1LX34.SA,A1LX34.SA
+B3/Bovespa,A1MB34.SA,A1MB34.SA
+B3/Bovespa,A1MD34.SA,A1MD34.SA
+B3/Bovespa,A1ME34.SA,A1ME34.SA
+B3/Bovespa,A1MP34.SA,A1MP34.SA
+B3/Bovespa,A1MT34.SA,A1MT34.SA
+B3/Bovespa,A1NE34.SA,A1NE34.SA
+B3/Bovespa,A1NS34.SA,A1NS34.SA
+B3/Bovespa,A1NT34.SA,A1NT34.SA
+B3/Bovespa,A1ON34.SA,A1ON34.SA
+B3/Bovespa,A1OS34.SA,A1OS34.SA
+B3/Bovespa,A1PA34.SA,A1PA34.SA
+B3/Bovespa,A1PD34.SA,A1PD34.SA
+B3/Bovespa,A1PH34.SA,A1PH34.SA
+B3/Bovespa,A1RE34.SA,A1RE34.SA
+B3/Bovespa,A1SU34.SA,A1SU34.SA
+B3/Bovespa,A1TM34.SA,A1TM34.SA
+B3/Bovespa,A1TT34.SA,A1TT34.SA
+B3/Bovespa,A1UT34.SA,A1UT34.SA
+B3/Bovespa,A1VB34.SA,A1VB34.SA
+B3/Bovespa,A1VY34.SA,A1VY34.SA
+B3/Bovespa,A1WK34.SA,A1WK34.SA
+B3/Bovespa,AALL34.SA,AALL34.SA
+B3/Bovespa,AALR3.SA,AALR3.SA
+B3/Bovespa,AAPL34.SA,AAPL34.SA
+B3/Bovespa,ABBV34.SA,ABBV34.SA
+B3/Bovespa,ABCB4.SA,ABCB4.SA
+B3/Bovespa,ABEV3.SA,ABEV3.SA
+B3/Bovespa,ABTT34.SA,ABTT34.SA
+B3/Bovespa,ABUD34.SA,ABUD34.SA
+B3/Bovespa,ACNB34.SA,ACNB34.SA
+B3/Bovespa,ADBE34.SA,ADBE34.SA
+B3/Bovespa,ADPR34.SA,ADPR34.SA
+B3/Bovespa,AFLT3.SA,AFLT3.SA
+B3/Bovespa,AGRO3.SA,AGRO3.SA
+B3/Bovespa,AHEB3.SA,AHEB3.SA
+B3/Bovespa,AHEB5.SA,AHEB5.SA
+B3/Bovespa,AHEB6.SA,AHEB6.SA
+B3/Bovespa,AIGB34.SA,AIGB34.SA
+B3/Bovespa,ALPA3.SA,ALPA3.SA
+B3/Bovespa,ALPA4.SA,ALPA4.SA
+B3/Bovespa,ALPK3.SA,ALPK3.SA
+B3/Bovespa,ALSO3.SA,ALSO3.SA
+B3/Bovespa,ALUP3.SA,ALUP3.SA
+B3/Bovespa,ALUP4.SA,ALUP4.SA
+B3/Bovespa,ALUP11.SA,ALUP11.SA
+B3/Bovespa,AMAR3.SA,AMAR3.SA
+B3/Bovespa,AMBP3.SA,AMBP3.SA
+B3/Bovespa,AMGN34.SA,AMGN34.SA
+B3/Bovespa,AMZO34.SA,AMZO34.SA
+B3/Bovespa,ANIM3.SA,ANIM3.SA
+B3/Bovespa,APER3.SA,APER3.SA
+B3/Bovespa,APTV34.SA,APTV34.SA
+B3/Bovespa,ARMT34.SA,ARMT34.SA
+B3/Bovespa,ARNC34.SA,ARNC34.SA
+B3/Bovespa,ARZZ3.SA,ARZZ3.SA
+B3/Bovespa,ASML34.SA,ASML34.SA
+B3/Bovespa,ATOM3.SA,ATOM3.SA
+B3/Bovespa,ATTB34.SA,ATTB34.SA
+B3/Bovespa,ATVI34.SA,ATVI34.SA
+B3/Bovespa,AVGO34.SA,AVGO34.SA
+B3/Bovespa,AWII34.SA,AWII34.SA
+B3/Bovespa,AXPB34.SA,AXPB34.SA
+B3/Bovespa,AZEV3.SA,AZEV3.SA
+B3/Bovespa,AZEV4.SA,AZEV4.SA
+B3/Bovespa,AZOI34.SA,AZOI34.SA
+B3/Bovespa,AZUL4.SA,AZUL4.SA
+B3/Bovespa,B1BT34.SA,B1BT34.SA
+B3/Bovespa,B1DX34.SA,B1DX34.SA
+B3/Bovespa,B1FC34.SA,B1FC34.SA
+B3/Bovespa,B1KR34.SA,B1KR34.SA
+B3/Bovespa,B1LL34.SA,B1LL34.SA
+B3/Bovespa,B1MR34.SA,B1MR34.SA
+B3/Bovespa,B1RF34.SA,B1RF34.SA
+B3/Bovespa,B1SX34.SA,B1SX34.SA
+B3/Bovespa,B1WA34.SA,B1WA34.SA
+B3/Bovespa,B3SA3.SA,B3SA3.SA
+B3/Bovespa,BABA34.SA,BABA34.SA
+B3/Bovespa,BAHI3.SA,BAHI3.SA
+B3/Bovespa,BALM3.SA,BALM3.SA
+B3/Bovespa,BALM4.SA,BALM4.SA
+B3/Bovespa,BAUH3.SA,BAUH3.SA
+B3/Bovespa,BAUH4.SA,BAUH4.SA
+B3/Bovespa,BAZA3.SA,BAZA3.SA
+B3/Bovespa,BBAS3.SA,BBAS3.SA
+B3/Bovespa,BBDC3.SA,BBDC3.SA
+B3/Bovespa,BBDC4.SA,BBDC4.SA
+B3/Bovespa,BBRK3.SA,BBRK3.SA
+B3/Bovespa,BBSE3.SA,BBSE3.SA
+B3/Bovespa,BBYY34.SA,BBYY34.SA
+B3/Bovespa,BCSA34.SA,BCSA34.SA
+B3/Bovespa,BEEF3.SA,BEEF3.SA
+B3/Bovespa,BEES3.SA,BEES3.SA
+B3/Bovespa,BEES4.SA,BEES4.SA
+B3/Bovespa,BERK34.SA,BERK34.SA
+B3/Bovespa,BGIP3.SA,BGIP3.SA
+B3/Bovespa,BGIP4.SA,BGIP4.SA
+B3/Bovespa,BHPG34.SA,BHPG34.SA
+B3/Bovespa,BIDI3.SA,BIDI3.SA
+B3/Bovespa,BIDI4.SA,BIDI4.SA
+B3/Bovespa,BIDI11.SA,BIDI11.SA
+B3/Bovespa,BIDU34.SA,BIDU34.SA
+B3/Bovespa,BIIB34.SA,BIIB34.SA
+B3/Bovespa,BILB34.SA,BILB34.SA
+B3/Bovespa,BIOM3.SA,BIOM3.SA
+B3/Bovespa,BKBR3.SA,BKBR3.SA
+B3/Bovespa,BKNG34.SA,BKNG34.SA
+B3/Bovespa,BLAK34.SA,BLAK34.SA
+B3/Bovespa,BMEB3.SA,BMEB3.SA
+B3/Bovespa,BMEB4.SA,BMEB4.SA
+B3/Bovespa,BMGB4.SA,BMGB4.SA
+B3/Bovespa,BMIN3.SA,BMIN3.SA
+B3/Bovespa,BMIN4.SA,BMIN4.SA
+B3/Bovespa,BMKS3.SA,BMKS3.SA
+B3/Bovespa,BMYB34.SA,BMYB34.SA
+B3/Bovespa,BNBR3.SA,BNBR3.SA
+B3/Bovespa,BOAC34.SA,BOAC34.SA
+B3/Bovespa,BOBR3.SA,BOBR3.SA
+B3/Bovespa,BOBR4.SA,BOBR4.SA
+B3/Bovespa,BOEI34.SA,BOEI34.SA
+B3/Bovespa,BONY34.SA,BONY34.SA
+B3/Bovespa,BOXP34.SA,BOXP34.SA
+B3/Bovespa,BPAC3.SA,BPAC3.SA
+B3/Bovespa,BPAC5.SA,BPAC5.SA
+B3/Bovespa,BPAC11.SA,BPAC11.SA
+B3/Bovespa,BPAN4.SA,BPAN4.SA
+B3/Bovespa,BRAP3.SA,BRAP3.SA
+B3/Bovespa,BRAP4.SA,BRAP4.SA
+B3/Bovespa,BRDT3.SA,BRDT3.SA
+B3/Bovespa,BRFS3.SA,BRFS3.SA
+B3/Bovespa,BRGE3.SA,BRGE3.SA
+B3/Bovespa,BRGE5.SA,BRGE5.SA
+B3/Bovespa,BRGE6.SA,BRGE6.SA
+B3/Bovespa,BRGE8.SA,BRGE8.SA
+B3/Bovespa,BRGE11.SA,BRGE11.SA
+B3/Bovespa,BRGE12.SA,BRGE12.SA
+B3/Bovespa,BRIV3.SA,BRIV3.SA
+B3/Bovespa,BRIV4.SA,BRIV4.SA
+B3/Bovespa,BRKM3.SA,BRKM3.SA
+B3/Bovespa,BRKM5.SA,BRKM5.SA
+B3/Bovespa,BRKM6.SA,BRKM6.SA
+B3/Bovespa,BRML3.SA,BRML3.SA
+B3/Bovespa,BRPR3.SA,BRPR3.SA
+B3/Bovespa,BRSR3.SA,BRSR3.SA
+B3/Bovespa,BRSR5.SA,BRSR5.SA
+B3/Bovespa,BRSR6.SA,BRSR6.SA
+B3/Bovespa,BSLI3.SA,BSLI3.SA
+B3/Bovespa,BSLI4.SA,BSLI4.SA
+B3/Bovespa,BTOW3.SA,BTOW3.SA
+B3/Bovespa,BTTL3.SA,BTTL3.SA
+B3/Bovespa,C1AG34.SA,C1AG34.SA
+B3/Bovespa,C1AH34.SA,C1AH34.SA
+B3/Bovespa,C1BL34.SA,C1BL34.SA
+B3/Bovespa,C1BO34.SA,C1BO34.SA
+B3/Bovespa,C1BR34.SA,C1BR34.SA
+B3/Bovespa,C1BS34.SA,C1BS34.SA
+B3/Bovespa,C1CI34.SA,C1CI34.SA
+B3/Bovespa,C1CL34.SA,C1CL34.SA
+B3/Bovespa,C1DN34.SA,C1DN34.SA
+B3/Bovespa,C1ER34.SA,C1ER34.SA
+B3/Bovespa,C1FG34.SA,C1FG34.SA
+B3/Bovespa,C1FI34.SA,C1FI34.SA
+B3/Bovespa,C1HK34.SA,C1HK34.SA
+B3/Bovespa,C1HR34.SA,C1HR34.SA
+B3/Bovespa,C1IC34.SA,C1IC34.SA
+B3/Bovespa,C1MA34.SA,C1MA34.SA
+B3/Bovespa,C1MG34.SA,C1MG34.SA
+B3/Bovespa,C1MS34.SA,C1MS34.SA
+B3/Bovespa,C1NC34.SA,C1NC34.SA
+B3/Bovespa,C1NP34.SA,C1NP34.SA
+B3/Bovespa,C1NS34.SA,C1NS34.SA
+B3/Bovespa,C1OG34.SA,C1OG34.SA
+B3/Bovespa,C1OO34.SA,C1OO34.SA
+B3/Bovespa,C1PB34.SA,C1PB34.SA
+B3/Bovespa,C1PR34.SA,C1PR34.SA
+B3/Bovespa,C1TA34.SA,C1TA34.SA
+B3/Bovespa,C1TX34.SA,C1TX34.SA
+B3/Bovespa,CAJI34.SA,CAJI34.SA
+B3/Bovespa,CALI3.SA,CALI3.SA
+B3/Bovespa,CALI4.SA,CALI4.SA
+B3/Bovespa,CAMB3.SA,CAMB3.SA
+B3/Bovespa,CAML3.SA,CAML3.SA
+B3/Bovespa,CAON34.SA,CAON34.SA
+B3/Bovespa,CAPH34.SA,CAPH34.SA
+B3/Bovespa,CARD3.SA,CARD3.SA
+B3/Bovespa,CASN3.SA,CASN3.SA
+B3/Bovespa,CASN4.SA,CASN4.SA
+B3/Bovespa,CATP34.SA,CATP34.SA
+B3/Bovespa,CBEE3.SA,CBEE3.SA
+B3/Bovespa,CCPR3.SA,CCPR3.SA
+B3/Bovespa,CCRO3.SA,CCRO3.SA
+B3/Bovespa,CEAB3.SA,CEAB3.SA
+B3/Bovespa,CEBR3.SA,CEBR3.SA
+B3/Bovespa,CEBR5.SA,CEBR5.SA
+B3/Bovespa,CEBR6.SA,CEBR6.SA
+B3/Bovespa,CEDO3.SA,CEDO3.SA
+B3/Bovespa,CEDO4.SA,CEDO4.SA
+B3/Bovespa,CEEB3.SA,CEEB3.SA
+B3/Bovespa,CEEB5.SA,CEEB5.SA
+B3/Bovespa,CEED3.SA,CEED3.SA
+B3/Bovespa,CEED4.SA,CEED4.SA
+B3/Bovespa,CEGR3.SA,CEGR3.SA
+B3/Bovespa,CEPE3.SA,CEPE3.SA
+B3/Bovespa,CEPE5.SA,CEPE5.SA
+B3/Bovespa,CEPE6.SA,CEPE6.SA
+B3/Bovespa,CESP3.SA,CESP3.SA
+B3/Bovespa,CESP5.SA,CESP5.SA
+B3/Bovespa,CESP6.SA,CESP6.SA
+B3/Bovespa,CGAS3.SA,CGAS3.SA
+B3/Bovespa,CGAS5.SA,CGAS5.SA
+B3/Bovespa,CGRA3.SA,CGRA3.SA
+B3/Bovespa,CGRA4.SA,CGRA4.SA
+B3/Bovespa,CHCM34.SA,CHCM34.SA
+B3/Bovespa,CHDC34.SA,CHDC34.SA
+B3/Bovespa,CHME34.SA,CHME34.SA
+B3/Bovespa,CHVX34.SA,CHVX34.SA
+B3/Bovespa,CIEL3.SA,CIEL3.SA
+B3/Bovespa,CINF34.SA,CINF34.SA
+B3/Bovespa,CLSC3.SA,CLSC3.SA
+B3/Bovespa,CLSC4.SA,CLSC4.SA
+B3/Bovespa,CLXC34.SA,CLXC34.SA
+B3/Bovespa,CMCS34.SA,CMCS34.SA
+B3/Bovespa,CMIG3.SA,CMIG3.SA
+B3/Bovespa,CMIG4.SA,CMIG4.SA
+B3/Bovespa,CNIC34.SA,CNIC34.SA
+B3/Bovespa,COCA34.SA,COCA34.SA
+B3/Bovespa,COCE3.SA,COCE3.SA
+B3/Bovespa,COCE5.SA,COCE5.SA
+B3/Bovespa,COCE6.SA,COCE6.SA
+B3/Bovespa,COGN3.SA,COGN3.SA
+B3/Bovespa,COLG34.SA,COLG34.SA
+B3/Bovespa,COPH34.SA,COPH34.SA
+B3/Bovespa,CORR3.SA,CORR3.SA
+B3/Bovespa,CORR4.SA,CORR4.SA
+B3/Bovespa,COTY34.SA,COTY34.SA
+B3/Bovespa,COWC34.SA,COWC34.SA
+B3/Bovespa,CPFE3.SA,CPFE3.SA
+B3/Bovespa,CPLE3.SA,CPLE3.SA
+B3/Bovespa,CPLE5.SA,CPLE5.SA
+B3/Bovespa,CPLE6.SA,CPLE6.SA
+B3/Bovespa,CPRL34.SA,CPRL34.SA
+B3/Bovespa,CRDA34.SA,CRDA34.SA
+B3/Bovespa,CRDE3.SA,CRDE3.SA
+B3/Bovespa,CRFB3.SA,CRFB3.SA
+B3/Bovespa,CRHP34.SA,CRHP34.SA
+B3/Bovespa,CRIN34.SA,CRIN34.SA
+B3/Bovespa,CRIP34.SA,CRIP34.SA
+B3/Bovespa,CRIV3.SA,CRIV3.SA
+B3/Bovespa,CRIV4.SA,CRIV4.SA
+B3/Bovespa,CRPG3.SA,CRPG3.SA
+B3/Bovespa,CRPG5.SA,CRPG5.SA
+B3/Bovespa,CRPG6.SA,CRPG6.SA
+B3/Bovespa,CSAB3.SA,CSAB3.SA
+B3/Bovespa,CSAB4.SA,CSAB4.SA
+B3/Bovespa,CSAN3.SA,CSAN3.SA
+B3/Bovespa,CSCO34.SA,CSCO34.SA
+B3/Bovespa,CSMG3.SA,CSMG3.SA
+B3/Bovespa,CSNA3.SA,CSNA3.SA
+B3/Bovespa,CSRN3.SA,CSRN3.SA
+B3/Bovespa,CSRN5.SA,CSRN5.SA
+B3/Bovespa,CSRN6.SA,CSRN6.SA
+B3/Bovespa,CSXC34.SA,CSXC34.SA
+B3/Bovespa,CTGP34.SA,CTGP34.SA
+B3/Bovespa,CTKA3.SA,CTKA3.SA
+B3/Bovespa,CTKA4.SA,CTKA4.SA
+B3/Bovespa,CTNM3.SA,CTNM3.SA
+B3/Bovespa,CTNM4.SA,CTNM4.SA
+B3/Bovespa,CTSA3.SA,CTSA3.SA
+B3/Bovespa,CTSA4.SA,CTSA4.SA
+B3/Bovespa,CTSH34.SA,CTSH34.SA
+B3/Bovespa,CVCB3.SA,CVCB3.SA
+B3/Bovespa,CVSH34.SA,CVSH34.SA
+B3/Bovespa,CYRE3.SA,CYRE3.SA
+B3/Bovespa,D1EL34.SA,D1EL34.SA
+B3/Bovespa,D1FS34.SA,D1FS34.SA
+B3/Bovespa,D1HI34.SA,D1HI34.SA
+B3/Bovespa,D1IS34.SA,D1IS34.SA
+B3/Bovespa,D1LR34.SA,D1LR34.SA
+B3/Bovespa,D1OM34.SA,D1OM34.SA
+B3/Bovespa,D1OV34.SA,D1OV34.SA
+B3/Bovespa,D1RE34.SA,D1RE34.SA
+B3/Bovespa,D1RI34.SA,D1RI34.SA
+B3/Bovespa,D1TE34.SA,D1TE34.SA
+B3/Bovespa,D1VN34.SA,D1VN34.SA
+B3/Bovespa,D1XC34.SA,D1XC34.SA
+B3/Bovespa,DASA3.SA,DASA3.SA
+B3/Bovespa,DBAG34.SA,DBAG34.SA
+B3/Bovespa,DCVY34.SA,DCVY34.SA
+B3/Bovespa,DCVY35.SA,DCVY35.SA
+B3/Bovespa,DDNB34.SA,DDNB34.SA
+B3/Bovespa,DEAI34.SA,DEAI34.SA
+B3/Bovespa,DEEC34.SA,DEEC34.SA
+B3/Bovespa,DEOP34.SA,DEOP34.SA
+B3/Bovespa,DGCO34.SA,DGCO34.SA
+B3/Bovespa,DHER34.SA,DHER34.SA
+B3/Bovespa,DIRR3.SA,DIRR3.SA
+B3/Bovespa,DISB34.SA,DISB34.SA
+B3/Bovespa,DLTR34.SA,DLTR34.SA
+B3/Bovespa,DMMO3.SA,DMMO3.SA
+B3/Bovespa,DMVF3.SA,DMVF3.SA
+B3/Bovespa,DOHL3.SA,DOHL3.SA
+B3/Bovespa,DOHL4.SA,DOHL4.SA
+B3/Bovespa,DTCY3.SA,DTCY3.SA
+B3/Bovespa,DTEX3.SA,DTEX3.SA
+B3/Bovespa,DUKB34.SA,DUKB34.SA
+B3/Bovespa,DVAI34.SA,DVAI34.SA
+B3/Bovespa,E1CL34.SA,E1CL34.SA
+B3/Bovespa,E1DI34.SA,E1DI34.SA
+B3/Bovespa,E1FX34.SA,E1FX34.SA
+B3/Bovespa,E1IX34.SA,E1IX34.SA
+B3/Bovespa,E1MN34.SA,E1MN34.SA
+B3/Bovespa,E1MR34.SA,E1MR34.SA
+B3/Bovespa,E1OG34.SA,E1OG34.SA
+B3/Bovespa,E1QR34.SA,E1QR34.SA
+B3/Bovespa,E1SE34.SA,E1SE34.SA
+B3/Bovespa,E1SS34.SA,E1SS34.SA
+B3/Bovespa,E1TN34.SA,E1TN34.SA
+B3/Bovespa,E1TR34.SA,E1TR34.SA
+B3/Bovespa,E1VE34.SA,E1VE34.SA
+B3/Bovespa,E1VR34.SA,E1VR34.SA
+B3/Bovespa,E1WL34.SA,E1WL34.SA
+B3/Bovespa,E1XC34.SA,E1XC34.SA
+B3/Bovespa,E1XR34.SA,E1XR34.SA
+B3/Bovespa,EAIN34.SA,EAIN34.SA
+B3/Bovespa,EALT3.SA,EALT3.SA
+B3/Bovespa,EALT4.SA,EALT4.SA
+B3/Bovespa,EBAY34.SA,EBAY34.SA
+B3/Bovespa,ECOR3.SA,ECOR3.SA
+B3/Bovespa,ECPR3.SA,ECPR3.SA
+B3/Bovespa,ECPR4.SA,ECPR4.SA
+B3/Bovespa,EEEL3.SA,EEEL3.SA
+B3/Bovespa,EEEL4.SA,EEEL4.SA
+B3/Bovespa,EGIE3.SA,EGIE3.SA
+B3/Bovespa,EKTR3.SA,EKTR3.SA
+B3/Bovespa,EKTR4.SA,EKTR4.SA
+B3/Bovespa,ELCI34.SA,ELCI34.SA
+B3/Bovespa,ELET3.SA,ELET3.SA
+B3/Bovespa,ELET5.SA,ELET5.SA
+B3/Bovespa,ELET6.SA,ELET6.SA
+B3/Bovespa,EMAE3.SA,EMAE3.SA
+B3/Bovespa,EMAE4.SA,EMAE4.SA
+B3/Bovespa,EMBR3.SA,EMBR3.SA
+B3/Bovespa,ENAT3.SA,ENAT3.SA
+B3/Bovespa,ENBR3.SA,ENBR3.SA
+B3/Bovespa,ENEV3.SA,ENEV3.SA
+B3/Bovespa,ENGI3.SA,ENGI3.SA
+B3/Bovespa,ENGI4.SA,ENGI4.SA
+B3/Bovespa,ENGI11.SA,ENGI11.SA
+B3/Bovespa,ENMT3.SA,ENMT3.SA
+B3/Bovespa,ENMT4.SA,ENMT4.SA
+B3/Bovespa,EQIX34.SA,EQIX34.SA
+B3/Bovespa,EQMA3B.SA,EQMA3B.SA
+B3/Bovespa,EQPA3.SA,EQPA3.SA
+B3/Bovespa,EQPA5.SA,EQPA5.SA
+B3/Bovespa,EQPA6.SA,EQPA6.SA
+B3/Bovespa,EQPA7.SA,EQPA7.SA
+B3/Bovespa,EQTL3.SA,EQTL3.SA
+B3/Bovespa,ESTR4.SA,ESTR4.SA
+B3/Bovespa,EUCA3.SA,EUCA3.SA
+B3/Bovespa,EUCA4.SA,EUCA4.SA
+B3/Bovespa,EVEN3.SA,EVEN3.SA
+B3/Bovespa,EXGR34.SA,EXGR34.SA
+B3/Bovespa,EXXO34.SA,EXXO34.SA
+B3/Bovespa,EZTC3.SA,EZTC3.SA
+B3/Bovespa,F1AN34.SA,F1AN34.SA
+B3/Bovespa,F1BH34.SA,F1BH34.SA
+B3/Bovespa,F1EC34.SA,F1EC34.SA
+B3/Bovespa,F1FI34.SA,F1FI34.SA
+B3/Bovespa,F1IS34.SA,F1IS34.SA
+B3/Bovespa,F1LS34.SA,F1LS34.SA
+B3/Bovespa,F1MC34.SA,F1MC34.SA
+B3/Bovespa,F1NI34.SA,F1NI34.SA
+B3/Bovespa,F1RA34.SA,F1RA34.SA
+B3/Bovespa,F1RC34.SA,F1RC34.SA
+B3/Bovespa,F1RI34.SA,F1RI34.SA
+B3/Bovespa,F1TN34.SA,F1TN34.SA
+B3/Bovespa,FASL34.SA,FASL34.SA
+B3/Bovespa,FBOK34.SA,FBOK34.SA
+B3/Bovespa,FCXO34.SA,FCXO34.SA
+B3/Bovespa,FDMO34.SA,FDMO34.SA
+B3/Bovespa,FDXB34.SA,FDXB34.SA
+B3/Bovespa,FESA3.SA,FESA3.SA
+B3/Bovespa,FESA4.SA,FESA4.SA
+B3/Bovespa,FFTD34.SA,FFTD34.SA
+B3/Bovespa,FIGE3.SA,FIGE3.SA
+B3/Bovespa,FIGE4.SA,FIGE4.SA
+B3/Bovespa,FLRY3.SA,FLRY3.SA
+B3/Bovespa,FLTC34.SA,FLTC34.SA
+B3/Bovespa,FMSC34.SA,FMSC34.SA
+B3/Bovespa,FMXB34.SA,FMXB34.SA
+B3/Bovespa,FOXC34.SA,FOXC34.SA
+B3/Bovespa,FRAS3.SA,FRAS3.SA
+B3/Bovespa,FRIO3.SA,FRIO3.SA
+B3/Bovespa,FSLR34.SA,FSLR34.SA
+B3/Bovespa,G1AR34.SA,G1AR34.SA
+B3/Bovespa,G1LL34.SA,G1LL34.SA
+B3/Bovespa,G1LW34.SA,G1LW34.SA
+B3/Bovespa,G1MI34.SA,G1MI34.SA
+B3/Bovespa,G1PC34.SA,G1PC34.SA
+B3/Bovespa,G1PI34.SA,G1PI34.SA
+B3/Bovespa,G1RM34.SA,G1RM34.SA
+B3/Bovespa,G1WW34.SA,G1WW34.SA
+B3/Bovespa,GDBR34.SA,GDBR34.SA
+B3/Bovespa,GEOO34.SA,GEOO34.SA
+B3/Bovespa,GEPA3.SA,GEPA3.SA
+B3/Bovespa,GEPA4.SA,GEPA4.SA
+B3/Bovespa,GFSA3.SA,GFSA3.SA
+B3/Bovespa,GGBR3.SA,GGBR3.SA
+B3/Bovespa,GGBR4.SA,GGBR4.SA
+B3/Bovespa,GILD34.SA,GILD34.SA
+B3/Bovespa,GMCO34.SA,GMCO34.SA
+B3/Bovespa,GNDI3.SA,GNDI3.SA
+B3/Bovespa,GOAU3.SA,GOAU3.SA
+B3/Bovespa,GOAU4.SA,GOAU4.SA
+B3/Bovespa,GOGL34.SA,GOGL34.SA
+B3/Bovespa,GOGL35.SA,GOGL35.SA
+B3/Bovespa,GOLL4.SA,GOLL4.SA
+B3/Bovespa,GPAR3.SA,GPAR3.SA
+B3/Bovespa,GPCP3.SA,GPCP3.SA
+B3/Bovespa,GPIV33.SA,GPIV33.SA
+B3/Bovespa,GPRK34.SA,GPRK34.SA
+B3/Bovespa,GPRO34.SA,GPRO34.SA
+B3/Bovespa,GPSI34.SA,GPSI34.SA
+B3/Bovespa,GRND3.SA,GRND3.SA
+B3/Bovespa,GSGI34.SA,GSGI34.SA
+B3/Bovespa,GSHP3.SA,GSHP3.SA
+B3/Bovespa,GUAR3.SA,GUAR3.SA
+B3/Bovespa,H1AS34.SA,H1AS34.SA
+B3/Bovespa,H1BA34.SA,H1BA34.SA
+B3/Bovespa,H1BI34.SA,H1BI34.SA
+B3/Bovespa,H1CA34.SA,H1CA34.SA
+B3/Bovespa,H1ES34.SA,H1ES34.SA
+B3/Bovespa,H1FC34.SA,H1FC34.SA
+B3/Bovespa,H1IG34.SA,H1IG34.SA
+B3/Bovespa,H1II34.SA,H1II34.SA
+B3/Bovespa,H1LT34.SA,H1LT34.SA
+B3/Bovespa,H1OG34.SA,H1OG34.SA
+B3/Bovespa,H1OL34.SA,H1OL34.SA
+B3/Bovespa,H1PE34.SA,H1PE34.SA
+B3/Bovespa,H1RB34.SA,H1RB34.SA
+B3/Bovespa,H1RL34.SA,H1RL34.SA
+B3/Bovespa,H1SI34.SA,H1SI34.SA
+B3/Bovespa,H1ST34.SA,H1ST34.SA
+B3/Bovespa,H1UM34.SA,H1UM34.SA
+B3/Bovespa,HAGA3.SA,HAGA3.SA
+B3/Bovespa,HAGA4.SA,HAGA4.SA
+B3/Bovespa,HALI34.SA,HALI34.SA
+B3/Bovespa,HAPV3.SA,HAPV3.SA
+B3/Bovespa,HBOR3.SA,HBOR3.SA
+B3/Bovespa,HBTS5.SA,HBTS5.SA
+B3/Bovespa,HETA4.SA,HETA4.SA
+B3/Bovespa,HGTX3.SA,HGTX3.SA
+B3/Bovespa,HOME34.SA,HOME34.SA
+B3/Bovespa,HONB34.SA,HONB34.SA
+B3/Bovespa,HOND34.SA,HOND34.SA
+B3/Bovespa,HPQB34.SA,HPQB34.SA
+B3/Bovespa,HSHY34.SA,HSHY34.SA
+B3/Bovespa,HYPE3.SA,HYPE3.SA
+B3/Bovespa,I1CE34.SA,I1CE34.SA
+B3/Bovespa,I1DX34.SA,I1DX34.SA
+B3/Bovespa,I1FF34.SA,I1FF34.SA
+B3/Bovespa,I1LM34.SA,I1LM34.SA
+B3/Bovespa,I1NC34.SA,I1NC34.SA
+B3/Bovespa,I1NF34.SA,I1NF34.SA
+B3/Bovespa,I1PC34.SA,I1PC34.SA
+B3/Bovespa,I1PG34.SA,I1PG34.SA
+B3/Bovespa,I1PH34.SA,I1PH34.SA
+B3/Bovespa,I1RM34.SA,I1RM34.SA
+B3/Bovespa,I1RP34.SA,I1RP34.SA
+B3/Bovespa,I1SR34.SA,I1SR34.SA
+B3/Bovespa,I1TW34.SA,I1TW34.SA
+B3/Bovespa,I1VZ34.SA,I1VZ34.SA
+B3/Bovespa,IBMB34.SA,IBMB34.SA
+B3/Bovespa,IGTA3.SA,IGTA3.SA
+B3/Bovespa,INGG34.SA,INGG34.SA
+B3/Bovespa,INTU34.SA,INTU34.SA
+B3/Bovespa,IRBR3.SA,IRBR3.SA
+B3/Bovespa,ISBC34.SA,ISBC34.SA
+B3/Bovespa,ITLC34.SA,ITLC34.SA
+B3/Bovespa,ITSA3.SA,ITSA3.SA
+B3/Bovespa,ITSA4.SA,ITSA4.SA
+B3/Bovespa,ITUB3.SA,ITUB3.SA
+B3/Bovespa,ITUB4.SA,ITUB4.SA
+B3/Bovespa,J1CI34.SA,J1CI34.SA
+B3/Bovespa,J1EF34.SA,J1EF34.SA
+B3/Bovespa,J1KH34.SA,J1KH34.SA
+B3/Bovespa,J1WN34.SA,J1WN34.SA
+B3/Bovespa,JBDU3.SA,JBDU3.SA
+B3/Bovespa,JBDU4.SA,JBDU4.SA
+B3/Bovespa,JBSS3.SA,JBSS3.SA
+B3/Bovespa,JDCO34.SA,JDCO34.SA
+B3/Bovespa,JHSF3.SA,JHSF3.SA
+B3/Bovespa,JNJB34.SA,JNJB34.SA
+B3/Bovespa,JOPA3.SA,JOPA3.SA
+B3/Bovespa,JOPA4.SA,JOPA4.SA
+B3/Bovespa,JPMC34.SA,JPMC34.SA
+B3/Bovespa,JPSA3.SA,JPSA3.SA
+B3/Bovespa,K1CS34.SA,K1CS34.SA
+B3/Bovespa,K1EL34.SA,K1EL34.SA
+B3/Bovespa,K1IM34.SA,K1IM34.SA
+B3/Bovespa,K1LA34.SA,K1LA34.SA
+B3/Bovespa,K1MX34.SA,K1MX34.SA
+B3/Bovespa,K1RC34.SA,K1RC34.SA
+B3/Bovespa,K1SG34.SA,K1SG34.SA
+B3/Bovespa,K1SS34.SA,K1SS34.SA
+B3/Bovespa,KEPL3.SA,KEPL3.SA
+B3/Bovespa,KHCB34.SA,KHCB34.SA
+B3/Bovespa,KLBN3.SA,KLBN3.SA
+B3/Bovespa,KLBN4.SA,KLBN4.SA
+B3/Bovespa,KLBN11.SA,KLBN11.SA
+B3/Bovespa,KMBB34.SA,KMBB34.SA
+B3/Bovespa,KMIC34.SA,KMIC34.SA
+B3/Bovespa,KMPR34.SA,KMPR34.SA
+B3/Bovespa,L1BT34.SA,L1BT34.SA
+B3/Bovespa,L1CA34.SA,L1CA34.SA
+B3/Bovespa,L1EG34.SA,L1EG34.SA
+B3/Bovespa,L1EN34.SA,L1EN34.SA
+B3/Bovespa,L1HX34.SA,L1HX34.SA
+B3/Bovespa,L1IN34.SA,L1IN34.SA
+B3/Bovespa,L1KQ34.SA,L1KQ34.SA
+B3/Bovespa,L1MN34.SA,L1MN34.SA
+B3/Bovespa,L1OE34.SA,L1OE34.SA
+B3/Bovespa,L1RC34.SA,L1RC34.SA
+B3/Bovespa,L1UL34.SA,L1UL34.SA
+B3/Bovespa,L1WH34.SA,L1WH34.SA
+B3/Bovespa,L1YB34.SA,L1YB34.SA
+B3/Bovespa,LAME3.SA,LAME3.SA
+B3/Bovespa,LAME4.SA,LAME4.SA
+B3/Bovespa,LAVV3.SA,LAVV3.SA
+B3/Bovespa,LBRD34.SA,LBRD34.SA
+B3/Bovespa,LBRN34.SA,LBRN34.SA
+B3/Bovespa,LCAM3.SA,LCAM3.SA
+B3/Bovespa,LEVE3.SA,LEVE3.SA
+B3/Bovespa,LIGT3.SA,LIGT3.SA
+B3/Bovespa,LILY34.SA,LILY34.SA
+B3/Bovespa,LINX3.SA,LINX3.SA
+B3/Bovespa,LIPR3.SA,LIPR3.SA
+B3/Bovespa,LJQQ3.SA,LJQQ3.SA
+B3/Bovespa,LMTB34.SA,LMTB34.SA
+B3/Bovespa,LOGG3.SA,LOGG3.SA
+B3/Bovespa,LOGN3.SA,LOGN3.SA
+B3/Bovespa,LOWC34.SA,LOWC34.SA
+B3/Bovespa,LPSB3.SA,LPSB3.SA
+B3/Bovespa,LREN3.SA,LREN3.SA
+B3/Bovespa,LSXM34.SA,LSXM34.SA
+B3/Bovespa,LUXM3.SA,LUXM3.SA
+B3/Bovespa,LUXM4.SA,LUXM4.SA
+B3/Bovespa,LWSA3.SA,LWSA3.SA
+B3/Bovespa,M1AA34.SA,M1AA34.SA
+B3/Bovespa,M1AS34.SA,M1AS34.SA
+B3/Bovespa,M1CB34.SA,M1CB34.SA
+B3/Bovespa,M1CH34.SA,M1CH34.SA
+B3/Bovespa,M1CK34.SA,M1CK34.SA
+B3/Bovespa,M1GM34.SA,M1GM34.SA
+B3/Bovespa,M1HK34.SA,M1HK34.SA
+B3/Bovespa,M1KC34.SA,M1KC34.SA
+B3/Bovespa,M1LM34.SA,M1LM34.SA
+B3/Bovespa,M1MC34.SA,M1MC34.SA
+B3/Bovespa,M1NS34.SA,M1NS34.SA
+B3/Bovespa,M1PC34.SA,M1PC34.SA
+B3/Bovespa,M1RO34.SA,M1RO34.SA
+B3/Bovespa,M1SC34.SA,M1SC34.SA
+B3/Bovespa,M1SI34.SA,M1SI34.SA
+B3/Bovespa,M1TB34.SA,M1TB34.SA
+B3/Bovespa,M1TD34.SA,M1TD34.SA
+B3/Bovespa,M1TT34.SA,M1TT34.SA
+B3/Bovespa,M1XI34.SA,M1XI34.SA
+B3/Bovespa,MACY34.SA,MACY34.SA
+B3/Bovespa,MAPT3.SA,MAPT3.SA
+B3/Bovespa,MAPT4.SA,MAPT4.SA
+B3/Bovespa,MCDC34.SA,MCDC34.SA
+B3/Bovespa,MCOR34.SA,MCOR34.SA
+B3/Bovespa,MDIA3.SA,MDIA3.SA
+B3/Bovespa,MDLZ34.SA,MDLZ34.SA
+B3/Bovespa,MDNE3.SA,MDNE3.SA
+B3/Bovespa,MDTC34.SA,MDTC34.SA
+B3/Bovespa,MEAL3.SA,MEAL3.SA
+B3/Bovespa,MELI34.SA,MELI34.SA
+B3/Bovespa,MERC3.SA,MERC3.SA
+B3/Bovespa,MERC4.SA,MERC4.SA
+B3/Bovespa,METB34.SA,METB34.SA
+B3/Bovespa,MGEL3.SA,MGEL3.SA
+B3/Bovespa,MGEL4.SA,MGEL4.SA
+B3/Bovespa,MGLU3.SA,MGLU3.SA
+B3/Bovespa,MILS3.SA,MILS3.SA
+B3/Bovespa,MKLC34.SA,MKLC34.SA
+B3/Bovespa,MMAQ3.SA,MMAQ3.SA
+B3/Bovespa,MMAQ4.SA,MMAQ4.SA
+B3/Bovespa,MMMC34.SA,MMMC34.SA
+B3/Bovespa,MNDL3.SA,MNDL3.SA
+B3/Bovespa,MNPR3.SA,MNPR3.SA
+B3/Bovespa,MOAR3.SA,MOAR3.SA
+B3/Bovespa,MOOO34.SA,MOOO34.SA
+B3/Bovespa,MOSC34.SA,MOSC34.SA
+B3/Bovespa,MOVI3.SA,MOVI3.SA
+B3/Bovespa,MRCK34.SA,MRCK34.SA
+B3/Bovespa,MRFG3.SA,MRFG3.SA
+B3/Bovespa,MRSA3B.SA,MRSA3B.SA
+B3/Bovespa,MRSA5B.SA,MRSA5B.SA
+B3/Bovespa,MRSA6B.SA,MRSA6B.SA
+B3/Bovespa,MRVE3.SA,MRVE3.SA
+B3/Bovespa,MSBR34.SA,MSBR34.SA
+B3/Bovespa,MSCD34.SA,MSCD34.SA
+B3/Bovespa,MSFT34.SA,MSFT34.SA
+B3/Bovespa,MSPA3.SA,MSPA3.SA
+B3/Bovespa,MSPA4.SA,MSPA4.SA
+B3/Bovespa,MTIG3.SA,MTIG3.SA
+B3/Bovespa,MTIG4.SA,MTIG4.SA
+B3/Bovespa,MTRE3.SA,MTRE3.SA
+B3/Bovespa,MTSA3.SA,MTSA3.SA
+B3/Bovespa,MTSA4.SA,MTSA4.SA
+B3/Bovespa,MULT3.SA,MULT3.SA
+B3/Bovespa,MUTC34.SA,MUTC34.SA
+B3/Bovespa,MYPK3.SA,MYPK3.SA
+B3/Bovespa,N1CL34.SA,N1CL34.SA
+B3/Bovespa,N1DA34.SA,N1DA34.SA
+B3/Bovespa,N1EM34.SA,N1EM34.SA
+B3/Bovespa,N1IS34.SA,N1IS34.SA
+B3/Bovespa,N1LS34.SA,N1LS34.SA
+B3/Bovespa,N1OV34.SA,N1OV34.SA
+B3/Bovespa,N1RG34.SA,N1RG34.SA
+B3/Bovespa,N1SC34.SA,N1SC34.SA
+B3/Bovespa,N1TA34.SA,N1TA34.SA
+B3/Bovespa,N1TR34.SA,N1TR34.SA
+B3/Bovespa,N1UE34.SA,N1UE34.SA
+B3/Bovespa,N1VR34.SA,N1VR34.SA
+B3/Bovespa,N1WL34.SA,N1WL34.SA
+B3/Bovespa,N1WS34.SA,N1WS34.SA
+B3/Bovespa,N1XP34.SA,N1XP34.SA
+B3/Bovespa,NEOE3.SA,NEOE3.SA
+B3/Bovespa,NETE34.SA,NETE34.SA
+B3/Bovespa,NEXT34.SA,NEXT34.SA
+B3/Bovespa,NFLX34.SA,NFLX34.SA
+B3/Bovespa,NIKE34.SA,NIKE34.SA
+B3/Bovespa,NMRH34.SA,NMRH34.SA
+B3/Bovespa,NOCG34.SA,NOCG34.SA
+B3/Bovespa,NOKI34.SA,NOKI34.SA
+B3/Bovespa,NORD3.SA,NORD3.SA
+B3/Bovespa,NTCO3.SA,NTCO3.SA
+B3/Bovespa,NVDC34.SA,NVDC34.SA
+B3/Bovespa,O1KE34.SA,O1KE34.SA
+B3/Bovespa,O1MC34.SA,O1MC34.SA
+B3/Bovespa,ODER4.SA,ODER4.SA
+B3/Bovespa,ODPV3.SA,ODPV3.SA
+B3/Bovespa,OFSA3.SA,OFSA3.SA
+B3/Bovespa,OMGE3.SA,OMGE3.SA
+B3/Bovespa,ORCL34.SA,ORCL34.SA
+B3/Bovespa,ORLY34.SA,ORLY34.SA
+B3/Bovespa,OSXB3.SA,OSXB3.SA
+B3/Bovespa,OXYP34.SA,OXYP34.SA
+B3/Bovespa,P1AC34.SA,P1AC34.SA
+B3/Bovespa,P1AY34.SA,P1AY34.SA
+B3/Bovespa,P1BC34.SA,P1BC34.SA
+B3/Bovespa,P1DT34.SA,P1DT34.SA
+B3/Bovespa,P1EA34.SA,P1EA34.SA
+B3/Bovespa,P1EG34.SA,P1EG34.SA
+B3/Bovespa,P1FG34.SA,P1FG34.SA
+B3/Bovespa,P1GR34.SA,P1GR34.SA
+B3/Bovespa,P1HC34.SA,P1HC34.SA
+B3/Bovespa,P1HM34.SA,P1HM34.SA
+B3/Bovespa,P1IO34.SA,P1IO34.SA
+B3/Bovespa,P1KG34.SA,P1KG34.SA
+B3/Bovespa,P1KI34.SA,P1KI34.SA
+B3/Bovespa,P1LD34.SA,P1LD34.SA
+B3/Bovespa,P1NW34.SA,P1NW34.SA
+B3/Bovespa,P1PL34.SA,P1PL34.SA
+B3/Bovespa,P1RG34.SA,P1RG34.SA
+B3/Bovespa,P1SA34.SA,P1SA34.SA
+B3/Bovespa,P1SX34.SA,P1SX34.SA
+B3/Bovespa,P1VH34.SA,P1VH34.SA
+B3/Bovespa,PARD3.SA,PARD3.SA
+B3/Bovespa,PATI3.SA,PATI3.SA
+B3/Bovespa,PATI4.SA,PATI4.SA
+B3/Bovespa,PCAR3.SA,PCAR3.SA
+B3/Bovespa,PEAB3.SA,PEAB3.SA
+B3/Bovespa,PEAB4.SA,PEAB4.SA
+B3/Bovespa,PEPB34.SA,PEPB34.SA
+B3/Bovespa,PETR3.SA,PETR3.SA
+B3/Bovespa,PETR4.SA,PETR4.SA
+B3/Bovespa,PETZ3.SA,PETZ3.SA
+B3/Bovespa,PFIZ34.SA,PFIZ34.SA
+B3/Bovespa,PFRM3.SA,PFRM3.SA
+B3/Bovespa,PGCO34.SA,PGCO34.SA
+B3/Bovespa,PGMN3.SA,PGMN3.SA
+B3/Bovespa,PHGN34.SA,PHGN34.SA
+B3/Bovespa,PHMO34.SA,PHMO34.SA
+B3/Bovespa,PINE4.SA,PINE4.SA
+B3/Bovespa,PLAS3.SA,PLAS3.SA
+B3/Bovespa,PMAM3.SA,PMAM3.SA
+B3/Bovespa,PNCS34.SA,PNCS34.SA
+B3/Bovespa,PNVL3.SA,PNVL3.SA
+B3/Bovespa,PNVL4.SA,PNVL4.SA
+B3/Bovespa,POMO3.SA,POMO3.SA
+B3/Bovespa,POMO4.SA,POMO4.SA
+B3/Bovespa,POSI3.SA,POSI3.SA
+B3/Bovespa,PPAR3.SA,PPAR3.SA
+B3/Bovespa,PPLA11.SA,PPLA11.SA
+B3/Bovespa,PRIO3.SA,PRIO3.SA
+B3/Bovespa,PRNR3.SA,PRNR3.SA
+B3/Bovespa,PSSA3.SA,PSSA3.SA
+B3/Bovespa,PTBL3.SA,PTBL3.SA
+B3/Bovespa,PTCH34.SA,PTCH34.SA
+B3/Bovespa,PTNT3.SA,PTNT3.SA
+B3/Bovespa,PTNT4.SA,PTNT4.SA
+B3/Bovespa,PYPL34.SA,PYPL34.SA
+B3/Bovespa,Q1RV34.SA,Q1RV34.SA
+B3/Bovespa,Q1UA34.SA,Q1UA34.SA
+B3/Bovespa,QCOM34.SA,QCOM34.SA
+B3/Bovespa,QUAL3.SA,QUAL3.SA
+B3/Bovespa,R1CL34.SA,R1CL34.SA
+B3/Bovespa,R1EG34.SA,R1EG34.SA
+B3/Bovespa,R1FC34.SA,R1FC34.SA
+B3/Bovespa,R1HI34.SA,R1HI34.SA
+B3/Bovespa,R1IN34.SA,R1IN34.SA
+B3/Bovespa,R1JF34.SA,R1JF34.SA
+B3/Bovespa,R1LC34.SA,R1LC34.SA
+B3/Bovespa,R1MD34.SA,R1MD34.SA
+B3/Bovespa,R1OK34.SA,R1OK34.SA
+B3/Bovespa,R1OL34.SA,R1OL34.SA
+B3/Bovespa,R1OP34.SA,R1OP34.SA
+B3/Bovespa,R1SG34.SA,R1SG34.SA
+B3/Bovespa,RADL3.SA,RADL3.SA
+B3/Bovespa,RAIL3.SA,RAIL3.SA
+B3/Bovespa,RANI3.SA,RANI3.SA
+B3/Bovespa,RAPT3.SA,RAPT3.SA
+B3/Bovespa,RAPT4.SA,RAPT4.SA
+B3/Bovespa,RCSL3.SA,RCSL3.SA
+B3/Bovespa,RCSL4.SA,RCSL4.SA
+B3/Bovespa,RDNI3.SA,RDNI3.SA
+B3/Bovespa,RDSA34.SA,RDSA34.SA
+B3/Bovespa,REDE3.SA,REDE3.SA
+B3/Bovespa,REGN34.SA,REGN34.SA
+B3/Bovespa,RENT3.SA,RENT3.SA
+B3/Bovespa,RIGG34.SA,RIGG34.SA
+B3/Bovespa,RIOT34.SA,RIOT34.SA
+B3/Bovespa,ROMI3.SA,ROMI3.SA
+B3/Bovespa,ROST34.SA,ROST34.SA
+B3/Bovespa,RPAD3.SA,RPAD3.SA
+B3/Bovespa,RPAD5.SA,RPAD5.SA
+B3/Bovespa,RPAD6.SA,RPAD6.SA
+B3/Bovespa,RSID3.SA,RSID3.SA
+B3/Bovespa,RSUL4.SA,RSUL4.SA
+B3/Bovespa,RYTT34.SA,RYTT34.SA
+B3/Bovespa,S1BA34.SA,S1BA34.SA
+B3/Bovespa,S1EA34.SA,S1EA34.SA
+B3/Bovespa,S1HW34.SA,S1HW34.SA
+B3/Bovespa,S1IV34.SA,S1IV34.SA
+B3/Bovespa,S1JM34.SA,S1JM34.SA
+B3/Bovespa,S1LG34.SA,S1LG34.SA
+B3/Bovespa,S1NA34.SA,S1NA34.SA
+B3/Bovespa,S1NP34.SA,S1NP34.SA
+B3/Bovespa,S1OU34.SA,S1OU34.SA
+B3/Bovespa,S1PO34.SA,S1PO34.SA
+B3/Bovespa,S1SL34.SA,S1SL34.SA
+B3/Bovespa,S1TT34.SA,S1TT34.SA
+B3/Bovespa,S1TX34.SA,S1TX34.SA
+B3/Bovespa,S1WK34.SA,S1WK34.SA
+B3/Bovespa,S1YF34.SA,S1YF34.SA
+B3/Bovespa,S1YK34.SA,S1YK34.SA
+B3/Bovespa,S1YM34.SA,S1YM34.SA
+B3/Bovespa,S1YY34.SA,S1YY34.SA
+B3/Bovespa,SANB3.SA,SANB3.SA
+B3/Bovespa,SANB4.SA,SANB4.SA
+B3/Bovespa,SANB11.SA,SANB11.SA
+B3/Bovespa,SAPP34.SA,SAPP34.SA
+B3/Bovespa,SAPR3.SA,SAPR3.SA
+B3/Bovespa,SAPR4.SA,SAPR4.SA
+B3/Bovespa,SAPR11.SA,SAPR11.SA
+B3/Bovespa,SBNY34.SA,SBNY34.SA
+B3/Bovespa,SBSP3.SA,SBSP3.SA
+B3/Bovespa,SBUB34.SA,SBUB34.SA
+B3/Bovespa,SCAR3.SA,SCAR3.SA
+B3/Bovespa,SCHW34.SA,SCHW34.SA
+B3/Bovespa,SEER3.SA,SEER3.SA
+B3/Bovespa,SGPS3.SA,SGPS3.SA
+B3/Bovespa,SHOW3.SA,SHOW3.SA
+B3/Bovespa,SHUL3.SA,SHUL3.SA
+B3/Bovespa,SHUL4.SA,SHUL4.SA
+B3/Bovespa,SIMN34.SA,SIMN34.SA
+B3/Bovespa,SLBC34.SA,SLBC34.SA
+B3/Bovespa,SLBG34.SA,SLBG34.SA
+B3/Bovespa,SLCE3.SA,SLCE3.SA
+B3/Bovespa,SMLS3.SA,SMLS3.SA
+B3/Bovespa,SMTO3.SA,SMTO3.SA
+B3/Bovespa,SNEC34.SA,SNEC34.SA
+B3/Bovespa,SNSY3.SA,SNSY3.SA
+B3/Bovespa,SNSY5.SA,SNSY5.SA
+B3/Bovespa,SNSY6.SA,SNSY6.SA
+B3/Bovespa,SOMA3.SA,SOMA3.SA
+B3/Bovespa,SOND3.SA,SOND3.SA
+B3/Bovespa,SOND5.SA,SOND5.SA
+B3/Bovespa,SOND6.SA,SOND6.SA
+B3/Bovespa,SPGI34.SA,SPGI34.SA
+B3/Bovespa,SQIA3.SA,SQIA3.SA
+B3/Bovespa,SRXM34.SA,SRXM34.SA
+B3/Bovespa,SSFO34.SA,SSFO34.SA
+B3/Bovespa,STBP3.SA,STBP3.SA
+B3/Bovespa,STMN34.SA,STMN34.SA
+B3/Bovespa,STZB34.SA,STZB34.SA
+B3/Bovespa,SULA3.SA,SULA3.SA
+B3/Bovespa,SULA4.SA,SULA4.SA
+B3/Bovespa,SULA11.SA,SULA11.SA
+B3/Bovespa,SUZB3.SA,SUZB3.SA
+B3/Bovespa,T1DG34.SA,T1DG34.SA
+B3/Bovespa,T1EC34.SA,T1EC34.SA
+B3/Bovespa,T1EL34.SA,T1EL34.SA
+B3/Bovespa,T1FX34.SA,T1FX34.SA
+B3/Bovespa,T1MU34.SA,T1MU34.SA
+B3/Bovespa,T1OW34.SA,T1OW34.SA
+B3/Bovespa,T1RI34.SA,T1RI34.SA
+B3/Bovespa,T1RO34.SA,T1RO34.SA
+B3/Bovespa,T1SC34.SA,T1SC34.SA
+B3/Bovespa,T1SO34.SA,T1SO34.SA
+B3/Bovespa,T1TW34.SA,T1TW34.SA
+B3/Bovespa,T1XT34.SA,T1XT34.SA
+B3/Bovespa,TAEE3.SA,TAEE3.SA
+B3/Bovespa,TAEE4.SA,TAEE4.SA
+B3/Bovespa,TAEE11.SA,TAEE11.SA
+B3/Bovespa,TAKP34.SA,TAKP34.SA
+B3/Bovespa,TASA3.SA,TASA3.SA
+B3/Bovespa,TASA4.SA,TASA4.SA
+B3/Bovespa,TCSA3.SA,TCSA3.SA
+B3/Bovespa,TECN3.SA,TECN3.SA
+B3/Bovespa,TELB3.SA,TELB3.SA
+B3/Bovespa,TELB4.SA,TELB4.SA
+B3/Bovespa,TEND3.SA,TEND3.SA
+B3/Bovespa,TESA3.SA,TESA3.SA
+B3/Bovespa,TEXA34.SA,TEXA34.SA
+B3/Bovespa,TGMA3.SA,TGMA3.SA
+B3/Bovespa,TGTB34.SA,TGTB34.SA
+B3/Bovespa,THGI34.SA,THGI34.SA
+B3/Bovespa,TJXC34.SA,TJXC34.SA
+B3/Bovespa,TKNO3.SA,TKNO3.SA
+B3/Bovespa,TKNO4.SA,TKNO4.SA
+B3/Bovespa,TLNC34.SA,TLNC34.SA
+B3/Bovespa,TMCO34.SA,TMCO34.SA
+B3/Bovespa,TMOS34.SA,TMOS34.SA
+B3/Bovespa,TOTS3.SA,TOTS3.SA
+B3/Bovespa,TPIS3.SA,TPIS3.SA
+B3/Bovespa,TPRY34.SA,TPRY34.SA
+B3/Bovespa,TRIS3.SA,TRIS3.SA
+B3/Bovespa,TRPL3.SA,TRPL3.SA
+B3/Bovespa,TRPL4.SA,TRPL4.SA
+B3/Bovespa,TRVC34.SA,TRVC34.SA
+B3/Bovespa,TSLA34.SA,TSLA34.SA
+B3/Bovespa,TSMC34.SA,TSMC34.SA
+B3/Bovespa,TSNF34.SA,TSNF34.SA
+B3/Bovespa,TUPY3.SA,TUPY3.SA
+B3/Bovespa,TWTR34.SA,TWTR34.SA
+B3/Bovespa,TXSA34.SA,TXSA34.SA
+B3/Bovespa,U1AI34.SA,U1AI34.SA
+B3/Bovespa,U1AL34.SA,U1AL34.SA
+B3/Bovespa,U1BE34.SA,U1BE34.SA
+B3/Bovespa,U1DR34.SA,U1DR34.SA
+B3/Bovespa,U1HS34.SA,U1HS34.SA
+B3/Bovespa,U1LT34.SA,U1LT34.SA
+B3/Bovespa,U1NM34.SA,U1NM34.SA
+B3/Bovespa,U1RI34.SA,U1RI34.SA
+B3/Bovespa,UBSG34.SA,UBSG34.SA
+B3/Bovespa,UCAS3.SA,UCAS3.SA
+B3/Bovespa,UGPA3.SA,UGPA3.SA
+B3/Bovespa,ULEV34.SA,ULEV34.SA
+B3/Bovespa,UNHH34.SA,UNHH34.SA
+B3/Bovespa,UNIP3.SA,UNIP3.SA
+B3/Bovespa,UNIP5.SA,UNIP5.SA
+B3/Bovespa,UNIP6.SA,UNIP6.SA
+B3/Bovespa,UPAC34.SA,UPAC34.SA
+B3/Bovespa,UPSS34.SA,UPSS34.SA
+B3/Bovespa,USBC34.SA,USBC34.SA
+B3/Bovespa,USIM3.SA,USIM3.SA
+B3/Bovespa,USIM5.SA,USIM5.SA
+B3/Bovespa,USIM6.SA,USIM6.SA
+B3/Bovespa,USSX34.SA,USSX34.SA
+B3/Bovespa,V1MC34.SA,V1MC34.SA
+B3/Bovespa,V1NO34.SA,V1NO34.SA
+B3/Bovespa,V1RS34.SA,V1RS34.SA
+B3/Bovespa,V1TA34.SA,V1TA34.SA
+B3/Bovespa,VALE3.SA,VALE3.SA
+B3/Bovespa,VERZ34.SA,VERZ34.SA
+B3/Bovespa,VFCO34.SA,VFCO34.SA
+B3/Bovespa,VISA34.SA,VISA34.SA
+B3/Bovespa,VIVA3.SA,VIVA3.SA
+B3/Bovespa,VIVT3.SA,VIVT3.SA
+B3/Bovespa,VLID3.SA,VLID3.SA
+B3/Bovespa,VLOE34.SA,VLOE34.SA
+B3/Bovespa,VLYB34.SA,VLYB34.SA
+B3/Bovespa,VRSN34.SA,VRSN34.SA
+B3/Bovespa,VRTX34.SA,VRTX34.SA
+B3/Bovespa,VSPT3.SA,VSPT3.SA
+B3/Bovespa,VULC3.SA,VULC3.SA
+B3/Bovespa,VVAR3.SA,VVAR3.SA
+B3/Bovespa,W1AB34.SA,W1AB34.SA
+B3/Bovespa,W1DA34.SA,W1DA34.SA
+B3/Bovespa,W1DC34.SA,W1DC34.SA
+B3/Bovespa,W1EC34.SA,W1EC34.SA
+B3/Bovespa,W1EL34.SA,W1EL34.SA
+B3/Bovespa,W1HR34.SA,W1HR34.SA
+B3/Bovespa,W1LT34.SA,W1LT34.SA
+B3/Bovespa,W1MB34.SA,W1MB34.SA
+B3/Bovespa,W1MC34.SA,W1MC34.SA
+B3/Bovespa,W1RK34.SA,W1RK34.SA
+B3/Bovespa,W1YC34.SA,W1YC34.SA
+B3/Bovespa,W1YN34.SA,W1YN34.SA
+B3/Bovespa,WABC34.SA,WABC34.SA
+B3/Bovespa,WALM34.SA,WALM34.SA
+B3/Bovespa,WATC34.SA,WATC34.SA
+B3/Bovespa,WEGE3.SA,WEGE3.SA
+B3/Bovespa,WFCO34.SA,WFCO34.SA
+B3/Bovespa,WGBA34.SA,WGBA34.SA
+B3/Bovespa,WHRL3.SA,WHRL3.SA
+B3/Bovespa,WHRL4.SA,WHRL4.SA
+B3/Bovespa,WIZS3.SA,WIZS3.SA
+B3/Bovespa,WLMM3.SA,WLMM3.SA
+B3/Bovespa,WLMM4.SA,WLMM4.SA
+B3/Bovespa,WSON33.SA,WSON33.SA
+B3/Bovespa,WUNI34.SA,WUNI34.SA
+B3/Bovespa,X1EL34.SA,X1EL34.SA
+B3/Bovespa,X1LN34.SA,X1LN34.SA
+B3/Bovespa,X1YL34.SA,X1YL34.SA
+B3/Bovespa,XRAY34.SA,XRAY34.SA
+B3/Bovespa,XRXB34.SA,XRXB34.SA
+B3/Bovespa,YDUQ3.SA,YDUQ3.SA
+B3/Bovespa,YUMR34.SA,YUMR34.SA
+B3/Bovespa,Z1BH34.SA,Z1BH34.SA
+B3/Bovespa,Z1IO34.SA,Z1IO34.SA
+B3/Bovespa,Z1TS34.SA,Z1TS34.SA
+NYSE,A,Agilent Technologies
+NYSE,AA,Alcoa Corp
+NYSE,AAIC,Arlington Asset Investment Corp
+NYSE,AAP,Advance Auto Parts Inc
+NYSE,AAT,American Assets Trust
+NYSE,AB,Alliancebernstein Holding LP
+NYSE,ABB,Abb Ltd
+NYSE,ABBV,Abbvie Inc
+NYSE,ABC,Amerisourcebergen Corp
+NYSE,ABEV,Ambev S.A.
+NYSE,ABG,Asbury Automotive Group Inc
+NYSE,ABM,ABM Industries Inc
+NYSE,ABR,Arbor Realty Trust
+NYSE,ABT,Abbott Laboratories
+NYSE,AC,Associated Capital Group Inc
+NYSE,ACA,Arcosa Inc
+NYSE,ACB,Aurora Cannabis Inc
+NYSE,ACC,American Campus Communities Inc
+NYSE,ACCO,Acco Brands Corp
+NYSE,ACEL,Accel Entertainment Inc
+NYSE,ACH,Aluminum Corp of China Ltd
+NYSE,ACI,Albertsons Companies Inc Cl A
+NYSE,ACM,Aecom Technology Corp
+NYSE,ACN,Accenture Plc
+NYSE,ACND,Ascendant Digital Acquisition Corp Cl A
+NYSE,ACP,Avenue Income Credit Strategies
+NYSE,ACR,Acres Commercial Realty Corp
+NYSE,ACRE,Ares Commercial Real Estate Cor
+NYSE,ACV,Allianzgi Diversified Income &
+NYSE,ADC,Agree Realty Corp
+NYSE,ADCT,Adc Therapeutics Sa
+NYSE,ADM,Archer Daniels Midland
+NYSE,ADNT,Adient Plc
+NYSE,ADS,Alliance Data Systems Corp
+NYSE,ADT,ADT Inc
+NYSE,ADX,Adams Diversified Equity Fund
+NYSE,AEB,Aegon N.V. Perp Cap Secs Floating Rate [Ne]
+NYSE,AEE,Ameren Corp
+NYSE,AEFC,Aegon Funding Company Llc 5.10%
+NYSE,AEG,Aegon N.V.
+NYSE,AEL,American Equity Investment Life
+NYSE,AEM,Agnico-Eagle Mines Ltd
+NYSE,AENZ,Aenza S.A.A.
+NYSE,AEO,American Eagle Outfitters
+NYSE,AER,Aercap Holdings N.V.
+NYSE,AES,The Aes Corp
+NYSE,AFB,Alliance National Municipal
+NYSE,AFG,American Financial Group
+NYSE,AFGB,American Financial Group Inc 5.875%
+NYSE,AFGC,American Financial Group Inc 5.125%
+NYSE,AFGD,American Financial Group Inc 5.625%
+NYSE,AFGE,American Financial Group Inc 4.500%
+NYSE,AFI,Armstrong Flooring Inc
+NYSE,AFL,Aflac Inc
+NYSE,AFT,Apollo Senior Floating Rate Fund Inc
+NYSE,AG,First Majestic Silver
+NYSE,AGCO,Agco Corp
+NYSE,AGD,Alpine Global Dynamic Dividend Fund
+NYSE,AGI,Alamos Gold Inc
+NYSE,AGM,Federal Agricultural Mortgage Corp
+NYSE,AGO,Assured Guaranty Ltd
+NYSE,AGR,Avangrid Inc
+NYSE,AGRO,Adecoagro S.A.
+NYSE,AGS,Playags Inc
+NYSE,AGX,Argan Inc
+NYSE,AHC,A.H. Belo Corp
+NYSE,AHH,Armada Hoffler Properties Inc
+NYSE,AHT,Ashford Hospitality Trust Inc
+NYSE,AIC,Arlington Asset Investment Cor
+NYSE,AIF,Apollo Tactical Income Fund Inc
+NYSE,AIG,American International Group
+NYSE,AIN,Albany International Corp
+NYSE,AIO,Virtus Allianzgi Artificial Intel & Tech Opp
+NYSE,AIR,AAR Corp
+NYSE,AIT,Applied Industrial Technologies
+NYSE,AIV,Apartment Investment and Management
+NYSE,AIW,Arlington Asset Investment Corp
+NYSE,AIZ,Assurant Inc
+NYSE,AJG,Arthur J. Gallagher & Company
+NYSE,AJRD,Aerojet Rocketdyne Holdings
+NYSE,AJX,Great Ajax Corp
+NYSE,AJXA,Great Ajax Corp 7.25% Convertible Senior Notes
+NYSE,AKR,Acadia Realty Trust
+NYSE,AL,Air Lease Corp Cl A
+NYSE,ALB,Albemarle Corp
+NYSE,ALC,Alcon Inc
+NYSE,ALE,Allete Inc
+NYSE,ALEX,Alexander and Baldwin Inc
+NYSE,ALG,Alamo Group
+NYSE,ALK,Alaska Air Group
+NYSE,ALL,Allstate Corp
+NYSE,ALLE,Allegion Plc
+NYSE,ALLY,Ally Financial
+NYSE,ALSN,Allison Transmission Holdings
+NYSE,ALTG,Alta Equipment Group Inc
+NYSE,ALUS,Alussa Energy Acquisition Corp Cl A
+NYSE,ALV,Autoliv Inc
+NYSE,ALX,Alexander's Inc
+NYSE,AM,Antero Midstream Corp
+NYSE,AMBC,Ambac Financial Group
+NYSE,AMC,Amc Entertainment Holdings Inc
+NYSE,AMCR,Amcor Plc
+NYSE,AME,Amtek Inc
+NYSE,AMG,Affiliated Managers Group
+NYSE,AMH,American Homes 4 Rent
+NYSE,AMK,Assetmark Financial Holdings Inc
+NYSE,AMN,Amn Healthcare Services Inc
+NYSE,AMOV,America Movil A ADR
+NYSE,AMP,Ameriprise Financial Services
+NYSE,AMPY,Amplify Energy Corp
+NYSE,AMRC,Ameresco Inc
+NYSE,AMRX,Amneal Pharmaceuticals Inc
+NYSE,AMT,American Tower Corp
+NYSE,AMWL,American Well Corp Cl A
+NYSE,AMX,America Movil S.A.B. DE C.V.
+NYSE,AN,Autonation Inc
+NYSE,ANET,Arista Networks Inc
+NYSE,ANF,Abercrombie & Fitch Company
+NYSE,ANTM,Anthem Inc
+NYSE,AOD,Alpine Total Dynamic Dividend
+NYSE,AON,AON Plc
+NYSE,AOS,Smith A.O. Corp
+NYSE,AP,Ampco-Pittsburgh Corp
+NYSE,APAM,Artisan Partners Asset Mgmt
+NYSE,APD,Air Products and Chemicals
+NYSE,APG,Api Group Corp
+NYSE,APH,Amphenol Corp
+NYSE,APLE,Apple Hospitality REIT Inc
+NYSE,APO,Apollo Global Management Llc C
+NYSE,APRN,Blue Apron Holdings Inc
+NYSE,APTS,Preferred Apartment Communities
+NYSE,APTV,Aptiv Plc
+NYSE,AQN,Algonquin Pwr & Util
+NYSE,AQNA,Algonquin Power & Utilities Corp
+NYSE,AQNB,Algonquin Power & Utilities Corp 6.20% Fixed-To
+NYSE,AQUA,Evoqua Water Technologies Corp
+NYSE,AR,Antero Resources Corp
+NYSE,ARC,American Reprographics Company
+NYSE,ARCH,Arch Resources Inc
+NYSE,ARCO,Arcos Dorados Holdings Inc
+NYSE,ARD,Ardagh Group S.A.
+NYSE,ARDC,Ares Dynamic Credit Allocation
+NYSE,ARE,Alexandria Real Estate Equities
+NYSE,ARES,Ares Management LP
+NYSE,ARGD,Argo Grp Itl Snr NTS
+NYSE,ARGO,Argo Group Intl Hlds
+NYSE,ARI,Apollo Commercial Real Estate
+NYSE,ARL,American Realty Investors
+NYSE,ARLO,Arlo Technologies Inc
+NYSE,ARMK,Aramark Holdings Corp
+NYSE,ARNC,Arconic Corp
+NYSE,AROC,Archrock Inc
+NYSE,ARR,Armour Residential R
+NYSE,ARW,Arrow Electronics
+NYSE,ASA,ASA Gold and Precious Metals
+NYSE,ASB,Associated Banc-Corp
+NYSE,ASC,Ardmore Shipping Corp
+NYSE,ASG,Liberty All-Star Growth Fund
+NYSE,ASGI,Aberdeen Standard Global Infrastructure
+NYSE,ASGN,On Assignment
+NYSE,ASH,Ashland Global Holdings Inc
+NYSE,ASIX,Advansix Inc
+NYSE,ASPN,Aspen Aerogels Inc
+NYSE,ASR,Grupo Aeroportuario Del Sureste
+NYSE,ASX,Ase Industrial Holding Co. Ltd
+NYSE,AT,Atlantic Power Corp
+NYSE,ATCO,Atlas Corp
+NYSE,ATEN,A10 Networks Inc
+NYSE,ATGE,Adtalem Global Education Inc
+NYSE,ATH,Athene Holding Ltd
+NYSE,ATHM,Autohome Inc
+NYSE,ATI,Allegheny Technologies Inc
+NYSE,ATKR,Atkore Inc
+NYSE,ATO,Atmos Energy Corp
+NYSE,ATR,Aptargroup
+NYSE,ATTO,Atento S.A.
+NYSE,ATUS,Altice USA Inc Cl A
+NYSE,AU,Anglogold Ashanti Ltd
+NYSE,AUD,Audacy Inc
+NYSE,AUY,Yamana Gold
+NYSE,AVA,Avista Corp
+NYSE,AVAL,Grupo Aval Acciones Y Valores S
+NYSE,AVB,Avalonbay Communities
+NYSE,AVD,American Vanguard Corp
+NYSE,AVK,Advent Claymore Convertible Securities
+NYSE,AVLR,Avalara Inc
+NYSE,AVNS,Avanos Medical Inc
+NYSE,AVNT,Avient Corp
+NYSE,AVTR,Avantor Inc
+NYSE,AVY,Avery Dennison Corp
+NYSE,AVYA,Avaya Holdings Corp
+NYSE,AWF,Alliancebernstein Global High Income Fund
+NYSE,AWI,Armstrong World Industries Inc
+NYSE,AWK,American Water Works
+NYSE,AWP,Aberdeen Global Premier Properties Fund
+NYSE,AWR,American States Water Company
+NYSE,AX,Axos Financial Inc
+NYSE,AXL,American Axle & Manufacturing
+NYSE,AXP,American Express Company
+NYSE,AXR,Amrep Corp
+NYSE,AXS,Axis Capital Holdings
+NYSE,AXTA,Axalta Coating Systems Ltd
+NYSE,AYI,Acuity Brands Inc
+NYSE,AYX,Alteryx Inc
+NYSE,AZEK,The Azek Company Inc Cl A
+NYSE,AZO,Autozone
+NYSE,AZRE,Azure Power Global Ltd
+NYSE,AZUL,Azul S.A. ADR
+NYSE,AZZ,Azz Inc
+NYSE,B,Barnes Group
+NYSE,BA,Boeing Company
+NYSE,BABA,Alibaba Group Holding
+NYSE,BAC,Bank of America Corp
+NYSE,BAH,Booz Allen Hamilton Holding Corp
+NYSE,BAK,Braskem S.A.
+NYSE,BALY,Bally's Corp
+NYSE,BAM,Brookfield Asset Management Inc
+NYSE,BANC,First Pactrust Bancorp
+NYSE,BAP,Credicorp Ltd
+NYSE,BAX,Baxter International Inc
+NYSE,BB,Blackberry Ltd
+NYSE,BBAR,Bbva Banco Frances S.A.
+NYSE,BBD,Banco Bradesco S.A.
+NYSE,BBDC,Barings Bdc Inc
+NYSE,BBDO,Banco Bradesco S.A.
+NYSE,BBL,Bhp Billiton Plc
+NYSE,BBN,Balckrock Build America Trust
+NYSE,BBU,Brookfield Business Partners LP
+NYSE,BBVA,Banco Bilbao Viscaya Argentaria S.A.
+NYSE,BBW,Build-A-Bear Workshop
+NYSE,BBY,Best Buy Company
+NYSE,BC,Brunswick Corp
+NYSE,BCAT,Blackrock Capital Allocation Trust
+NYSE,BCC,Boise Cascade L.L.C.
+NYSE,BCE,BCE Inc
+NYSE,BCEI,Bonanza Creek Energy Inc
+NYSE,BCH,Banco DE Chile
+NYSE,BCO,Brink's Company
+NYSE,BCS,Barclays Plc
+NYSE,BCSF,Bain Capital Specialty Finance Inc
+NYSE,BCX,Blackrock Resources
+NYSE,BDC,Belden Inc
+NYSE,BDJ,Blackrock Enhanced Dividend Achievers
+NYSE,BDN,Brandywine Realty Trust
+NYSE,BDX,Becton Dickinson and Company
+NYSE,BDXB,Becton Dickinson & Co.
+NYSE,BE,Bloom Energy Corp Cl A
+NYSE,BEDU,Bright Scholar Education Holdings Ltd
+NYSE,BEKE,Ke Holdings Inc ADR
+NYSE,BEN,Franklin Resources
+NYSE,BEP,Brookfield Renewable
+NYSE,BEPC,Brookfield Renewable Corp
+NYSE,BERY,Berry Global Group
+NYSE,BEST,Best Inc
+NYSE,BFAM,Bright Horizons Family Solutions Inc
+NYSE,BFK,Blackrock Muni Income Trust
+NYSE,BFS,Saul Centers
+NYSE,BFZ,Blackrock California Muni Trust
+NYSE,BG,Bunge Ltd
+NYSE,BGB,Blackstone / Gso Strategic Cre
+NYSE,BGH,Babson Capital Global Short Du
+NYSE,BGIO,Blackrock 2022 Global Income Opportunity Trust
+NYSE,BGR,Blackrock Energy and Resources Trust
+NYSE,BGS,B&G Foods Holdings
+NYSE,BGSF,Bgsf Inc
+NYSE,BGT,Blackrock Global
+NYSE,BGX,Blackstone Long-Short Credit Income Fund
+NYSE,BGY,Blackrock International
+NYSE,BH,Biglari Holdings Inc
+NYSE,BHC,Bausch Health Companies Inc
+NYSE,BHE,Benchmark Electronics
+NYSE,BHK,Blackrock Core Trust
+NYSE,BHLB,Berkshire Hills Bancorp
+NYSE,BHP,Bhp Billiton Ltd
+NYSE,BHR,Braemar Hotels & Resorts Inc
+NYSE,BHV,Blackrock Virginia Muni Trust
+NYSE,BHVN,Biohaven Pharmaceutical Holding Company Ltd
+NYSE,BIF,Boulder Growth & Income Fund Inc
+NYSE,BIG,Big Lots
+NYSE,BILL,Bill.com Holdings Inc
+NYSE,BIO,Bio-Rad Laboratories
+NYSE,BIP,Brookfield Infrastructure Partners LP
+NYSE,BIPC,Brookfield Infrastructure Partners LP Cl A
+NYSE,BIT,Blackrock Multi-Sector Income T
+NYSE,BJ,Bj's Wholesale Club Holdings Inc
+NYSE,BK,Bank of New York Mellon Corp
+NYSE,BKD,Brookdale Senior Living Inc
+NYSE,BKE,Buckle Inc
+NYSE,BKH,Black Hills Corp
+NYSE,BKI,Black Knight Inc
+NYSE,BKN,Blackrock Investment Quality Municipal
+NYSE,BKR,Baker Hughes A Ge Co. Cl A
+NYSE,BKT,Blackrock Income Trust Inc
+NYSE,BKU,BankUnited Inc
+NYSE,BLD,Topbuild Corp
+NYSE,BLE,Blackrock Muni Income Trust II
+NYSE,BLK,Blackrock Inc
+NYSE,BLL,Ball Corp
+NYSE,BLW,Blackrock Ltd Duration Income Trust
+NYSE,BLX,Banco Latinoamericano DE Comercio
+NYSE,BMA,Banco Macro S.A.
+NYSE,BME,Blackrock Health Sciences Trust
+NYSE,BMEZ,Blackrock Health Sciences Trust II
+NYSE,BMI,Badger Meter
+NYSE,BMO,Bank of Montreal
+NYSE,BMY,Bristol-Myers Squibb Company
+NYSE,BNED,Barnes & Noble Education Inc C
+NYSE,BNL,Broadstone Net Lease Inc Cl A
+NYSE,BNS,Bank of Nova Scotia
+NYSE,BNY,Blackrock New York Muni Trust Inc
+NYSE,BOE,Blackrock Global
+NYSE,BOH,Bank of Hawaii Corp
+NYSE,BOOT,Boot Barn Holdings Inc
+NYSE,BORR,Borr Drilling Ltd
+NYSE,BOX,Box Inc
+NYSE,BP,BP Plc
+NYSE,BPMP,BP Midstream Partners LP
+NYSE,BPT,BP Prudhoe Bay Royalty Trust
+NYSE,BR,Broadridge Financial Solutions Llc
+NYSE,BRBR,Bellring Brands Inc Cl A
+NYSE,BRC,Brady Corp
+NYSE,BRFS,Brf-Brasil Foods S.A.
+NYSE,BRMK,Broadmark Realty Capital Inc
+NYSE,BRO,Brown & Brown
+NYSE,BRT,BRT Realty Trust
+NYSE,BRX,Brixmor Property Group Inc
+NYSE,BSA,Brightsphere Investment Group Plc
+NYSE,BSAC,Banco Santander Chile ADR
+NYSE,BSBR,Banco Santander Brasil S.A.
+NYSE,BSIG,Brightsphere Investment Group Plc
+NYSE,BSL,Blackstone Gso Senior Floating Rate
+NYSE,BSM,Black Stone Minerals LP
+NYSE,BSMX,Grupo Financiero Santander Mexico
+NYSE,BST,Blackrock Science and Technolo
+NYSE,BSTZ,Blackrock Science and Technology Trust II
+NYSE,BSX,Boston Scientific Corp
+NYSE,BTA,Blackrock Long-Term Muni Advantage Trust
+NYSE,BTI,British American Tobacco Industries
+NYSE,BTO,John Hancock Bank and Thrift Fund
+NYSE,BTT,Blackrock Municipal Target Term
+NYSE,BTU,Peabody Energy Corp
+NYSE,BTZ,Blackrock Preferred
+NYSE,BUD,Anheuser-Busch Inbev S.A.
+NYSE,BUI,Blackrock Utility and Infrastr
+NYSE,BURL,Burlington Stores Inc
+NYSE,BV,Brightview Holdings Inc
+NYSE,BVH,Bluegreen Vacations Hldg Corp
+NYSE,BVN,Compania Mina Buenaventura S.A.
+NYSE,BW,Babcock & Wilcox Enterprises
+NYSE,BWA,Borgwarner Inc
+NYSE,BWG,Legg Mason Bw Global Income
+NYSE,BWXT,Bwx Technologies Inc
+NYSE,BX,The Blackstone Group LP
+NYSE,BXC,Bluelinx Holdings Inc
+NYSE,BXG,Bluegreen Vacations Corp
+NYSE,BXMT,Blackstone Mortgage Trust Inc Cl A
+NYSE,BXMX,Nuveen Equity Premium
+NYSE,BXP,Boston Properties
+NYSE,BXS,Bancorpsouth Inc
+NYSE,BY,Byline Bancorp Inc
+NYSE,BYD,Boyd Gaming Corp
+NYSE,BYM,Blackrock Muni Income Quality Trust
+NYSE,BZH,Beazer Homes USA
+NYSE,C,Citigroup Inc
+NYSE,CAAP,Corporacion America Airports Sa
+NYSE,CABO,Cable One Inc
+NYSE,CACI,Caci International
+NYSE,CADE,Cadence Bancorp Cl A
+NYSE,CAE,Cae Inc
+NYSE,CAF,Morgan Stanley China A Share Fund Inc
+NYSE,CAG,Conagra Brands Inc
+NYSE,CAH,Cardinal Health
+NYSE,CAI,Cai International
+NYSE,CAJ,Canon Inc
+NYSE,CAL,Caleres Inc
+NYSE,CALX,Calix Inc
+NYSE,CANG,Cango Inc ADR
+NYSE,CAPL,Crossamerica Partners LP
+NYSE,CARR,Carrier Global Corp
+NYSE,CARS,Cars.com Inc
+NYSE,CAT,Caterpillar Inc
+NYSE,CATO,Cato Corp
+NYSE,CB,Chubb Ltd
+NYSE,CBB,Cincinnati Bell Inc
+NYSE,CBD,Companhia Brasileira DE Distribuicao
+NYSE,CBH,Allianzgi Convertible Income 2024 Target Term Fu
+NYSE,CBRE,CBRE Group Inc
+NYSE,CBT,Cabot Corp
+NYSE,CBU,Community Bank System
+NYSE,CBZ,Cbiz Inc
+NYSE,CC,Chemours Company
+NYSE,CCAC,Citic Capital Acquisition Corp Cl A
+NYSE,CCEP,Coca-Cola Europacific Partners Plc
+NYSE,CCI,Crown Castle International Corp
+NYSE,CCIV,Churchill Capital IV [Lucid Motors]
+NYSE,CCJ,Cameco Corp
+NYSE,CCK,Crown Cork & Seal Company
+NYSE,CCL,Carnival Corp
+NYSE,CCM,Concord Medical Services
+NYSE,CCO,Clear Channel Outdoor Holdings
+NYSE,CCS,Century Communities Inc
+NYSE,CCU,Compania Cervecerias Unidas S.A.
+NYSE,CCX,Churchill Capital II Cl A
+NYSE,CCZ,Comcast Corp
+NYSE,CDAY,Ceridian Hcm Holding Inc
+NYSE,CDE,Coeur Mining Inc
+NYSE,CDR,Cedar Realty Trust Inc
+NYSE,CE,Celanese Corp
+NYSE,CEA,China Eastern Airlines Corp Ltd
+NYSE,CEE,Central Europe and Russia Fund
+NYSE,CEIX,Consol Energy Inc
+NYSE,CELP,Cypress Energy Partners LP
+NYSE,CEM,Clearbridge Energy MLP Fund Inc
+NYSE,CEN,Center Coast MLP & Infrastructure
+NYSE,CEPU,Central Puerto S.A. ADR
+NYSE,CEQP,Crestwood Equity Partners LP
+NYSE,CF,Cf Industries Holdings
+NYSE,CFG,Citizens Financial Group Inc/Ri
+NYSE,CFR,Cullen/Frost Bankers
+NYSE,CFX,Colfax Corp
+NYSE,CFXA,Colfax Corp Tangible Equity Unit
+NYSE,CGA,China Green Agriculture
+NYSE,CHCT,Community Healthcare Trust Inc
+NYSE,CHD,Church & Dwight Company
+NYSE,CHE,Chemed Inc
+NYSE,CHGG,Chegg Inc
+NYSE,CHH,Choice Hotels International
+NYSE,CHMI,Cherry Hill Mortgage Investmen
+NYSE,CHN,China Fund
+NYSE,CHRA,Charah Solutions Inc
+NYSE,CHS,Chico's Fas
+NYSE,CHT,Chunghwa Telecom Co. Ltd
+NYSE,CHWY,Chewy Inc
+NYSE,CI,Cigna Corp
+NYSE,CIA,Citizens Inc
+NYSE,CIB,Bancolombia S.A.
+NYSE,CIEN,Ciena Corp
+NYSE,CIF,Colonial Intermediate High
+NYSE,CIG,Comp En DE MN Cemig ADR
+NYSE,CII,Blackrock Capital and Income Strategies
+NYSE,CIM,Chimera Investment Corp
+NYSE,CINR,Ciner Resources LP
+NYSE,CIO,City Office REIT Inc
+NYSE,CIR,Circor International
+NYSE,CIT,Cit Group Inc
+NYSE,CL,Colgate-Palmolive Company
+NYSE,CLB,Core Laboratories N.V.
+NYSE,CLDR,Cloudera Inc
+NYSE,CLDT,Chatham Lodging Trust REIT
+NYSE,CLF,Cleveland-Cliffs Inc
+NYSE,CLGX,Corelogic
+NYSE,CLH,Clean Harbors
+NYSE,CLI,Mack-Cali Realty Corp
+NYSE,CLNC,Colony Northstar Credit Real Estate Inc Class
+NYSE,CLNY,Colony Capital Inc
+NYSE,CLPR,Clipper Realty Inc
+NYSE,CLR,Continental Resources
+NYSE,CLS,Celestica Inc
+NYSE,CLW,Clearwater Paper Corp
+NYSE,CLX,Clorox Company
+NYSE,CM,Canadian Imperial Bank of Commerce
+NYSE,CMA,Comerica Inc
+NYSE,CMC,Commercial Metals Company
+NYSE,CMCM,Cheetah Mobile Inc
+NYSE,CMD,Cantel Medical
+NYSE,CMG,Chipotle Mexican Grill
+NYSE,CMI,Cummins Inc
+NYSE,CMO,Capstead Mortgage Corp
+NYSE,CMP,Compass Minerals Intl Inc
+NYSE,CMRE,Costamare Inc
+NYSE,CMS,Cms Energy Corp
+NYSE,CMSA,Cms Energy Corp 5.625% Junior Subordinate
+NYSE,CMSC,Cms Energy Corp
+NYSE,CMSD,Cms Energy Corp 5.875% Junior Subordinate
+NYSE,CMU,Colonial Muni Income Trust
+NYSE,CNA,Cna Financial Corp
+NYSE,CNC,Centene Corp
+NYSE,CNF,Cnfinance Holdings Ltd ADR
+NYSE,CNHI,CNH Industrial N.V.
+NYSE,CNI,Canadian National Railway
+NYSE,CNK,Cinemark Holdings Inc
+NYSE,CNMD,C O N M E D Cp
+NYSE,CNNE,Cannae Holdings Inc
+NYSE,CNO,Cno Financial Group
+NYSE,CNP,Centerpoint Energy Inc
+NYSE,CNQ,Canadian Natural Resources
+NYSE,CNR,Cornerstone Building Brands Inc
+NYSE,CNS,Cohn & Steers Inc
+NYSE,CNX,CNX Resources Corp
+NYSE,CO,Global Cord Blood Corp
+NYSE,CODI,Compass Diversified Holdings
+NYSE,COE,China Online Education Group
+NYSE,COF,Capital One Financial Corp
+NYSE,COG,Cabot Oil & Gas Corp
+NYSE,COLD,Americold Realty Trust
+NYSE,COO,Cooper Companies
+NYSE,COP,Conocophillips
+NYSE,COR,Coresite Realty Corp
+NYSE,CORR,Corenergy Infrastructure Trust Inc
+NYSE,COTY,Coty Inc
+NYSE,CP,Canadian Pacific Railway
+NYSE,CPA,Copa Holdings S.A.
+NYSE,CPAC,Cementos Pacasmayo S.A.A
+NYSE,CPB,Campbell Soup Company
+NYSE,CPE,Callon Petroleum Company
+NYSE,CPF,Central Pacific Financial Company
+NYSE,CPG,Crescent Pt Energy
+NYSE,CPK,Chesapeake Utilities Corp
+NYSE,CPLG,Corepoint Lodging Inc
+NYSE,CPRI,Capri Holdings Ltd
+NYSE,CPS,Cooper Std Hld Inc
+NYSE,CPSR,Capstar Special Acquisition Corp Cl A
+NYSE,CPT,Camden Property Trust
+NYSE,CR,Crane Company
+NYSE,CRH,CRH Plc
+NYSE,CRI,Carter's Inc
+NYSE,CRK,Comstock Resources
+NYSE,CRL,Charles River Laboratories Intl
+NYSE,CRM,Salesforce.com Inc
+NYSE,CRS,Carpenter Technology Corp
+NYSE,CRT,Cross Timbers Royalty Trust
+NYSE,CRY,Cryolife
+NYSE,CS,Credit Suisse Group
+NYSE,CSL,Carlisle Companies Inc
+NYSE,CSLT,Castlight Health Inc
+NYSE,CSPR,Casper Sleep Inc
+NYSE,CSR,Centerspace
+NYSE,CSTM,Constellium N.V.
+NYSE,CSU,Capital Senior Living Corp
+NYSE,CSV,Carriage Services
+NYSE,CTB,Cooper Tire & Rubber Company
+NYSE,CTBB,Qwest Corp
+NYSE,CTDD,Qwest Corp 6.75% Notes Due 2057
+NYSE,CTK,Cootek Cayman Inc
+NYSE,CTLT,Catalent Inc
+NYSE,CTO,Consolidated-Tomoka Land Company
+NYSE,CTR,Clearbridge Energy MLP Fund IN
+NYSE,CTS,Cts Corp
+NYSE,CTT,Catchmark Timber Trust Inc
+NYSE,CTVA,Corteva Inc
+NYSE,CUB,Cubic Corp
+NYSE,CUBB,Customers Bancorp Inc 5.375%
+NYSE,CUBE,Cubesmart
+NYSE,CUBI,Customers Bancorp
+NYSE,CUK,Carnival Plc ADR
+NYSE,CULP,Culp Inc
+NYSE,CURO,Curo Group Holdings Corp
+NYSE,CUZ,Cousins Properties Inc
+NYSE,CVA,Covanta Holding Corp
+NYSE,CVE,Cenovus Energy Inc
+NYSE,CVEO,Civeo Corp
+NYSE,CVI,Cvr Energy Inc
+NYSE,CVNA,Carvana Co. Cl A
+NYSE,CVS,CVS Corp
+NYSE,CVX,Chevron Corp
+NYSE,CW,Curtiss-Wright Corp
+NYSE,CWEN,Clearway Energy Inc Cl C
+NYSE,CWH,Camping World Holdings Inc
+NYSE,CWK,Cushman & Wakefield Plc
+NYSE,CWT,California Water Service Group Holding
+NYSE,CX,Cemex S.A.B. DE C.V.
+NYSE,CXE,Colonial High Income Muni Trust
+NYSE,CXH,Colonial Investment Grade Muni Trust
+NYSE,CXP,Columbia Property Trust Inc
+NYSE,CXW,Corecivic Inc
+NYSE,CYD,China Yuchai International
+NYSE,CYH,Community Health Systems
+NYSE,D,Dominion Resources
+NYSE,DAC,Danaos Corp
+NYSE,DAL,Delta Air Lines Inc
+NYSE,DAN,Dana Inc
+NYSE,DAO,Youdao Inc ADR
+NYSE,DAR,Darling International Inc
+NYSE,DAVA,Endava Plc
+NYSE,DB,Deutsche Bank Ag
+NYSE,DBD,Diebold Nixdorf Inc
+NYSE,DBI,Designer Brands Inc
+NYSE,DBL,Doubleline Opportunistic Credi
+NYSE,DCF,Dreyfus Alcentra Global Credit Income 2024 Targe
+NYSE,DCI,Donaldson Company
+NYSE,DCO,Ducommun Inc
+NYSE,DCP,Dcp Midstream LP
+NYSE,DCUE,Dominion Energy Inc 2019 Series A
+NYSE,DD,Du Pont De.Nemours Inc
+NYSE,DDD,3D Systems Corp
+NYSE,DDF,Delaware Dividend & Income
+NYSE,DDS,Dillard's
+NYSE,DDT,Dillard's
+NYSE,DE,Deere & Company
+NYSE,DEA,Easterly Government Properties
+NYSE,DECK,Deckers Outdoor Corp
+NYSE,DEH,D8 Holdings Corp Cl A
+NYSE,DEI,Douglas Emmett
+NYSE,DELL,Dell Technologies Inc
+NYSE,DEN,Denbury Inc
+NYSE,DEO,Diageo Plc
+NYSE,DESP,Despegar.com Corp
+NYSE,DEX,Delaware Enhanced Global Dividend
+NYSE,DFIN,Donnelly Financial Solutions Inc
+NYSE,DFNS,LGL Systems Acquisition Corp
+NYSE,DFP,Flaherty & Crumrine Dynamic
+NYSE,DFS,Discover Financial Services
+NYSE,DG,Dollar General Corp
+NYSE,DGX,Quest Diagnostics Inc
+NYSE,DHF,Dreyfus High Yield Strategies Fund
+NYSE,DHI,D.R. Horton
+NYSE,DHR,Danaher Corp
+NYSE,DHT,Dht Holdings
+NYSE,DHX,Dice Holdings
+NYSE,DIAX,Nuveen Dow
+NYSE,DIN,Dineequity Inc
+NYSE,DIS,Walt Disney Company
+NYSE,DK,Delek US Holdings
+NYSE,DKL,Delek Logistics Partners LP
+NYSE,DKS,Dick's Sporting Goods Inc
+NYSE,DLB,Dolby Laboratories
+NYSE,DLNG,Dynagas Lng Partners LP
+NYSE,DLR,Digital Realty Trust
+NYSE,DLX,Deluxe Corp
+NYSE,DLY,Doubleline Yield Opportunities Fund Common Share
+NYSE,DM,Desktop Metal Inc
+NYSE,DMB,Dreyfus Municipal Bond Infrastr
+NYSE,DMO,Western Asset Mortgage Defined Opp
+NYSE,DMS,Digital Media Solutions Inc
+NYSE,DNB,Dun & Bradstreet Holdings Inc
+NYSE,DNMR,Danimer Scientific Inc
+NYSE,DNOW,Now Inc
+NYSE,DNP,Duff & Phelps Utilities Income
+NYSE,DOC,Physicians Realty Trust
+NYSE,DOOR,Masonite Worldwide Hld
+NYSE,DOV,Dover Corp
+NYSE,DOW,Dow Inc
+NYSE,DPG,Duff & Phelps Global Utility
+NYSE,DPZ,Domino's Pizza Inc
+NYSE,DQ,Daqo New Energy
+NYSE,DRD,Drdgold Ltd
+NYSE,DRE,Duke Realty Corp
+NYSE,DRH,Diamondrock Hospitality Company
+NYSE,DRI,Darden Restaurants
+NYSE,DRQ,Dril-Quip
+NYSE,DRUA,Dominion Resources Inc
+NYSE,DS,Drive Shack Inc
+NYSE,DSE,Duff & Phelps Select Energy ML
+NYSE,DSL,Doubleline Income Solutions Fun
+NYSE,DSM,Dreyfus Strategic Muni Bond Fund
+NYSE,DSSI,Diamond S Shipping Inc
+NYSE,DSU,Blackrock Debt Strategies Fund
+NYSE,DSX,Diana Shipping Inc
+NYSE,DT,Dynatrace Inc
+NYSE,DTE,Dte Energy Company
+NYSE,DTF,Duff & Phelps Utilities Tax-Free Income
+NYSE,DTJ,Dte Energy Company 2016 Series
+NYSE,DTP,Dte Energy Co. Units
+NYSE,DTW,Dte Energy Company 2017 Series E 5.25% Jr
+NYSE,DTY,Dignity Plc
+NYSE,DUK,Duke Energy Corp
+NYSE,DUKB,Duke Energy Corp 5.625%
+NYSE,DUKH,Duke Energy Corp 5.125%
+NYSE,DVA,Davita Healthcare Partners Inc
+NYSE,DVD,Dover Downs Entertainment
+NYSE,DVN,Devon Energy Corp
+NYSE,DX,Dynex Capital
+NYSE,DXC,Dxc Technology Company
+NYSE,DY,Dycom Industries
+NYSE,DYFN,Angel Oak Dynamic Financial Strategies
+NYSE,E,Eni S.P.A.
+NYSE,EAF,Graftech International Ltd
+NYSE,EAI,Entergy Arkansas Inc
+NYSE,EARN,Ellington Residential Mortgage
+NYSE,EAT,Brinker International
+NYSE,EB,Eventbrite Inc
+NYSE,EBF,Ennis Inc
+NYSE,EBR,Centrais Electricas Brazil
+NYSE,EBS,Emergent Biosolutions
+NYSE,EC,Ecopetrol S.A.
+NYSE,ECC,Eagle Point Credit Co. Inc
+NYSE,ECCB,Eagle Point Credit Company Inc
+NYSE,ECCX,Eagle Point Credit Company Inc 6.6875% Notes Du
+NYSE,ECCY,Eagle Point Credit Company Inc
+NYSE,ECL,Ecolab Inc
+NYSE,ECOM,Channeladvisor Corp
+NYSE,ED,Consolidated Edison Company of New York
+NYSE,EDD,Emerging Markets Domestic Debt Fund
+NYSE,EDF,Stone Harbor Emerging Markets
+NYSE,EDI,Stone Harbor Emerging Markets
+NYSE,EDN,Empresa Distribuidora Y Comercializadora
+NYSE,EDU,New Oriental Education & Technology Group
+NYSE,EEA,European Equity Fund
+NYSE,EEX,Emerald Expositions Events Inc
+NYSE,EFC,Ellington Financial Llc
+NYSE,EFF,Eaton Vance Floating-Rate Inco
+NYSE,EFL,Eaton Vance Floating-Rate 2022 Target Term Trust
+NYSE,EFR,Eaton Vance Senior Floating-Rate Fund
+NYSE,EFT,Eaton Vance Floating Rate Income Trust
+NYSE,EFX,Equifax Inc
+NYSE,EGF,Blackrock Enhanced Government Fund
+NYSE,EGHT,8X8 Inc
+NYSE,EGO,Eldorado Gold Corp
+NYSE,EGP,Eastgroup Properties
+NYSE,EGY,Vaalco Energy Inc
+NYSE,EHC,Encompass Health Corp
+NYSE,EHI,Western Asset Global High
+NYSE,EHT,Eaton Vance High Income 2021 Ta
+NYSE,EIC,Eagle Point Income Company Inc
+NYSE,EIG,Employers Holdings Inc
+NYSE,EIX,Edison International
+NYSE,EL,Estee Lauder Companies
+NYSE,ELAN,Elanco Animal Health Inc
+NYSE,ELAT,Elanco Animal Health Inc Units
+NYSE,ELC,Entergy Louisiana Llc
+NYSE,ELF,E.L.F. Beauty Inc
+NYSE,ELP,Companhia Paranaense DE Energia [Copel] ADR
+NYSE,ELS,Equity Lifestyle Properties
+NYSE,ELVT,Elevate Credit Inc
+NYSE,ELY,Callaway Golf Company
+NYSE,EMD,Western Asset Emerging Market Debt Fund Inc
+NYSE,EME,Emcor Group
+NYSE,EMF,Templeton Emerging Markets Fund
+NYSE,EMN,Eastman Chemical Company
+NYSE,EMO,Clearbridge Energy MLP Opportu
+NYSE,EMP,Entergy Mississippi Inc 4.9% Bonds
+NYSE,EMR,Emerson Electric Company
+NYSE,ENB,Enbridge Inc
+NYSE,ENBA,Enbridge Inc 6.375% Fixed-To-Floating Rate
+NYSE,ENBL,Enable Midstream Partners LP
+NYSE,ENIA,Enersis Americas S.A. American
+NYSE,ENIC,Enersis Chile S.A. ADR
+NYSE,ENJ,Entergy New Orleans Inc
+NYSE,ENLC,Enlink Midstream Llc
+NYSE,ENO,Entergy New Orleans Incfirst
+NYSE,ENR,Energizer Holdings Inc
+NYSE,ENS,Enersys Inc
+NYSE,ENV,Envestnet Inc
+NYSE,ENVA,Enova International Inc
+NYSE,ENZ,Enzo Biochem
+NYSE,EOD,Wells Fargo Global Dividend Opportunity
+NYSE,EOG,Eog Resources
+NYSE,EOI,Eaton Vance Enhance Equity
+NYSE,EOS,Eaton Vance Enhanced Equity II
+NYSE,EOT,Eaton Vance Muni Income Trust
+NYSE,EPAC,Actuant Corp
+NYSE,EPAM,Epam Systems Inc
+NYSE,EPC,Edgewell Personal Care
+NYSE,EPD,Enterprise Products Partners LP
+NYSE,EPR,Entertainment Properties Trust
+NYSE,EPRT,Essential Properties Realty Trust Inc
+NYSE,EQC,Equity Commonwealth
+NYSE,EQH,Axa Equitable Holdings Inc
+NYSE,EQNR,Equinor ASA
+NYSE,EQR,Equity Residential
+NYSE,EQS,Equus Total Return
+NYSE,EQT,Eqt Corp
+NYSE,ERF,Enerplus Corp
+NYSE,ERJ,Embraer-Empresa Brasileira DE Aeronautica
+NYSE,ES,Eversource Energy
+NYSE,ESE,Esco Technologies Inc
+NYSE,ESGC,Eros Stx Global Corp
+NYSE,ESI,Element Solutions Inc
+NYSE,ESNT,Essent Group Ltd
+NYSE,ESRT,Empire State Realty Trust Inc
+NYSE,ESS,Essex Property Trust
+NYSE,ESTC,Elastic N.V.
+NYSE,ESTE,Earthstone Energy
+NYSE,ET,Energy Transfer LP
+NYSE,ETB,Eaton Vance Tax-Managed Buy-Write
+NYSE,ETG,Eaton Vance Tax-Advantaged Global Dividend
+NYSE,ETH,Ethan Allen Interiors Inc
+NYSE,ETJ,Eaton Vance Risk-Managed Diversified Equity
+NYSE,ETN,Eaton Corp
+NYSE,ETO,Eaton Vance Tax-Advantage Global Dividend Opp
+NYSE,ETR,Entergy Corp
+NYSE,ETRN,Equitrans Midstream Corp
+NYSE,ETV,Eaton Vance Corp
+NYSE,ETW,Eaton Vance Corp
+NYSE,ETX,Eaton Vance Municipal Income T
+NYSE,ETY,Eaton Vance Tax-Managed Diversified Equity
+NYSE,EURN,Euronav NV
+NYSE,EVA,Enviva Partners LP
+NYSE,EVC,Entravision Communications Corp
+NYSE,EVF,Eaton Vance Senior Income Trust
+NYSE,EVG,Eaton Vance Short Diversified
+NYSE,EVH,Evolent Health Inc Cl A Com
+NYSE,EVN,Eaton Vance Muni Income Trust
+NYSE,EVR,Evercore Partners Inc
+NYSE,EVRG,Evergy Inc
+NYSE,EVRI,Everi Holdings Inc
+NYSE,EVT,Eaton Vance Tax Advantaged Dividend
+NYSE,EVTC,Evertec Inc
+NYSE,EW,Edwards Lifesciences Corp
+NYSE,EXD,Eaton Vance Tax-Advantaged Bond
+NYSE,EXG,Eaton Vance Tax-Managed Global Diversified Equit
+NYSE,EXK,Endeavour Silver Corp
+NYSE,EXP,Eagle Materials Inc
+NYSE,EXPR,Express Inc
+NYSE,EXR,Extra Space Storage Inc
+NYSE,EXTN,Exterran Corp
+NYSE,F,Ford Motor Company
+NYSE,FAF,First American Corp
+NYSE,FAM,First Trust/Aberdeen Global Opportunity
+NYSE,FBC,Flagstar Bancorp
+NYSE,FBHS,Fortune Brands Home & Security
+NYSE,FBK,Fb Financial Corp
+NYSE,FBP,First Bancorp
+NYSE,FC,Franklin Covey Company
+NYSE,FCF,First Commonwealth Financial Corp
+NYSE,FCN,Fti Consulting
+NYSE,FCPT,Four Corners Property Trust IN
+NYSE,FCRW,First Eagle Alternative Capital Gbc Inc
+NYSE,FCRZ,First Eagle Alternative Capital Bdc Inc
+NYSE,FCT,Senior Floating Rate II
+NYSE,FCX,Freeport-Mcmoran Inc
+NYSE,FDEU,First Trust Dynamic Europe Equi
+NYSE,FDP,Fresh Del Monte Produce
+NYSE,FDS,Factset Research Systems Inc
+NYSE,FDX,Fedex Corp
+NYSE,FE,Firstenergy Corp
+NYSE,FEDU,Four Seasons Education Cayman Inc
+NYSE,FEI,First Trust MLP and Energy Inc
+NYSE,FENG,Phoenix New Media Ltd
+NYSE,FEO,First Trust/Aberdeen Emerging Opportunity Fund
+NYSE,FERG,Ferguson Plc
+NYSE,FET,Forum Energy Technologies Inc
+NYSE,FF,Futurefuel Corp
+NYSE,FFA,First Trust Enhanced Equity Income Fund
+NYSE,FFC,Flaherty Crumrine/Claymore Preferred Securities
+NYSE,FFG,Fbl Financial Group
+NYSE,FGB,Specialty Finance and Financial Fund
+NYSE,FHI,Federated Investors
+NYSE,FHN,First Horizon Corp
+NYSE,FI,Frank's International N.V.
+NYSE,FICO,Fair Isaac and Company Inc
+NYSE,FIF,First Trust Energy Infrastruct
+NYSE,FINS,Angel Oak Financial Strategies Income Term Trust
+NYSE,FINV,Finvolution Group
+NYSE,FIS,Fidelity National Information Services
+NYSE,FIV,First Trust Senior Floating Rate 2022 Target Ter
+NYSE,FIX,Comfort Systems USA
+NYSE,FL,Footlocker Inc
+NYSE,FLC,Flaherty & Crumrine/Claymore Total Return
+NYSE,FLNG,Flex Lng Ltd
+NYSE,FLO,Flowers Foods
+NYSE,FLOW,SPX Flow Inc
+NYSE,FLR,Fluor Corp
+NYSE,FLS,Flowserve Corp
+NYSE,FLT,Fleetcor Technologies
+NYSE,FLY,Fly Leasing Ltd
+NYSE,FMC,FMC Corp
+NYSE,FMN,Federated Premier Muni
+NYSE,FMO,Fiduciary/Claymore MLP Opportunity Fund
+NYSE,FMS,Fresenius Medical Care Corp
+NYSE,FMX,Fomento Economico Mexicano S.A.B. DE C.V.
+NYSE,FMY,First Trust/Fidac Mortgage Income Fund
+NYSE,FN,Fabrinet
+NYSE,FNB,F.N.B. Corp
+NYSE,FND,Floor & Decor Holdings Inc
+NYSE,FNF,Fidelity National Financial
+NYSE,FNV,Franco Nev Corp
+NYSE,FOE,Ferro Corp
+NYSE,FOF,Cohen & Steers Closed-End Opportunity Fund
+NYSE,FOR,Forestar Group Inc
+NYSE,FOUR,Shift4 Payments Inc
+NYSE,FPF,First Trust Intermediate Durat
+NYSE,FPH,Five Point Holdings Llc Cl A
+NYSE,FPI,Farmland Partners Inc
+NYSE,FPL,First Trust New Opportunities M
+NYSE,FR,First Industrial Realty Trust
+NYSE,FRA,Blackrock Floating Rate Income Fund
+NYSE,FRC,First Republic Bank
+NYSE,FRO,Frontline Ltd
+NYSE,FRT,Federal Realty Investment Trust
+NYSE,FSD,High Income Long Short Fund
+NYSE,FSK,FS KKR Capital Corp
+NYSE,FSKR,FS KKR Capital Corp II
+NYSE,FSLF,First Eagle Senior Loan Fund
+NYSE,FSLY,Fastly Inc
+NYSE,FSM,Fortuna Silver Mines
+NYSE,FSR,Fisker Inc
+NYSE,FSS,Federal Signal Corp
+NYSE,FT,Franklin Universal Trust
+NYSE,FTAI,Fortress Transn & Infras Invs
+NYSE,FTCH,Farfetch Ltd Cl A
+NYSE,FTHY,First Trust High Yield Opportunities 2027 Term F
+NYSE,FTI,Technipfmc Plc
+NYSE,FTK,Flotek Industries
+NYSE,FTS,Fortis Inc
+NYSE,FTV,Fortive Corp
+NYSE,FUBO,Fubotv Inc
+NYSE,FUL,H. B. Fuller Company
+NYSE,FUN,Cedar Fair LP
+NYSE,FUSE,Fusion Acquisition Corp Cl A
+NYSE,FVRR,Fiverr International Ltd
+NYSE,G,Genpact Ltd
+NYSE,GAB,Gabelli Equity Trust
+NYSE,GAM,General American Investors
+NYSE,GATX,GATX Corp
+NYSE,GB,Global Blue Group Holding Ag
+NYSE,GBAB,Guggenheim Taxable Muni Bond Inv Grd Debt Trst
+NYSE,GBL,Gamco Investors
+NYSE,GBX,Greenbrier Companies
+NYSE,GCI,Gannett Co. Inc
+NYSE,GCO,Genesco Inc
+NYSE,GCP,Gcp Applied Technologies Inc C
+NYSE,GCV,Gabelli Convertible and Income Securities
+NYSE,GD,General Dynamics Corp
+NYSE,GDDY,Godaddy Inc
+NYSE,GDL,The Gdl Fund
+NYSE,GDO,Western Asset Global Corporate Defined
+NYSE,GDOT,Green Dot Corp
+NYSE,GDV,Gabelli Dividend
+NYSE,GE,General Electric Company
+NYSE,GEF,Greif Bros. Corp
+NYSE,GEL,Genesis Energy LP
+NYSE,GEO,Geo Group Inc
+NYSE,GER,GS MLP Energy Renaissance Fund
+NYSE,GES,Guess Inc
+NYSE,GF,New Germany Fund
+NYSE,GFF,Griffon Corp
+NYSE,GFI,Gold Fields Ltd
+NYSE,GFL,Gfl Environmental Inc
+NYSE,GFLU,Gfl Environmental Inc Tangible Equity Units
+NYSE,GGB,Gerdau S.A.
+NYSE,GGG,Graco Inc
+NYSE,GGM,Guggenheim Credit Allocation F
+NYSE,GGT,Gabelli Global Multi-Media Trust
+NYSE,GGZ,Gabelli Global Small and Mid CA
+NYSE,GHC,Graham Holdings Company
+NYSE,GHG,Greentree Hospitality Group Ltd ADR
+NYSE,GHL,Greenhill & Co. Inc
+NYSE,GHM,Graham Corp
+NYSE,GHY,Prudential Global Short Durati
+NYSE,GIB,CGI Group
+NYSE,GIK,Gigcapital3 Inc
+NYSE,GIL,Gildan Activewear
+NYSE,GIM,Templeton Global
+NYSE,GIS,General Mills
+NYSE,GIX,Gigcapital2 Inc
+NYSE,GJH,Strats Sm Trust For United States Cellular Corp
+NYSE,GJO,Strats Sm Trust For Wal-Mart Stores Inc Securiti
+NYSE,GJP,Strats Sm Trust For Dominion Resources Inc Secur
+NYSE,GJR,Strats Sm Trust For The Procter & Gamble Co. Sec
+NYSE,GJS,Strats Sm Trust For Goldman Sachs Group Securiti
+NYSE,GJT,Strats Sm Trust For Allstate Corp Securities Ser
+NYSE,GKOS,Glaukos Corp
+NYSE,GL,Globe Life Inc
+NYSE,GLEO,Galileo Acquisition Corp
+NYSE,GLOB,Globant S.A.
+NYSE,GLOG,Gaslog Ltd
+NYSE,GLOP,Gaslog Partners LP
+NYSE,GLP,Global Partners LP
+NYSE,GLT,Glatfelter
+NYSE,GLW,Corning Inc
+NYSE,GM,General Motors Company
+NYSE,GME,Gamestop Corp
+NYSE,GMED,Globus Medical Inc
+NYSE,GMRE,Global Medical REIT Inc
+NYSE,GMS,Gms Inc
+NYSE,GMTA,GATX Corp 5.625% Senior
+NYSE,GNE,Genie Energy Ltd Cl B
+NYSE,GNK,Genco Shipping & Trading Ltd
+NYSE,GNL,Global Net Lease Inc
+NYSE,GNRC,Generac Holdings Inc
+NYSE,GNT,Gabelli Natural Resources Gold
+NYSE,GNW,Genworth Financial Inc
+NYSE,GOAC,Go Acquisition Corp Cl A
+NYSE,GOF,Claymore/Guggenheim Strategic Fund
+NYSE,GOL,Gol Linhas Aereas Inteligentes S.A.
+NYSE,GOLD,Barrick Gold Corp
+NYSE,GOLF,Acushnet Holdings Corp
+NYSE,GOOS,Canada Goose Holdings Inc
+NYSE,GPC,Genuine Parts Company
+NYSE,GPI,Group 1 Automotive
+NYSE,GPJA,Georgia Power Company Series 2017A 5.00% Jr
+NYSE,GPK,Graphic Packaging Holding Company
+NYSE,GPM,Guggenheim Enhanced Equity
+NYSE,GPMT,Granite Point Mortgage Trust Inc
+NYSE,GPN,Global Payments Inc
+NYSE,GPRK,Geopark Hlds Lmtd
+NYSE,GPS,Gap Inc
+NYSE,GPX,Gp Strategies Corp
+NYSE,GRA,W.R. Grace & Company
+NYSE,GRC,Gorman-Rupp Company
+NYSE,GRUB,Grubhub Inc
+NYSE,GRX,The Gabelli Healthcare & Wellness Trust
+NYSE,GS,Goldman Sachs Group
+NYSE,GSAH,GS Acquisition Holdings Corp II Cl A
+NYSE,GSBD,Goldman Sachs Bdc Inc
+NYSE,GSK,Glaxosmithkline Plc
+NYSE,GSL,Global Ship Lease Inc
+NYSE,GSLD,Global Ship Lease Inc 8.00% Senior Notes Due 20
+NYSE,GSX,Gsx Techedu Inc ADR
+NYSE,GTES,Gates Industrial Corp Plc
+NYSE,GTLS,Chart Industries IN
+NYSE,GTN,Gray Television
+NYSE,GTS,Triple-S Management Corp
+NYSE,GTT,Global Telcom & Technology Inc
+NYSE,GTY,Getty Realty Corp
+NYSE,GUT,Gabelli Utility Trust
+NYSE,GVA,Granite Construction Inc
+NYSE,GWB,Great Western Bancorp Inc
+NYSE,GWRE,Guidewire Software Inc
+NYSE,GWW,W.W. Grainger
+NYSE,H,Hyatt Hotels Corp
+NYSE,HAE,Haemonetics Corp
+NYSE,HAL,Halliburton Company
+NYSE,HASI,Hannon Armstrong Sustainable IN
+NYSE,HBB,Hamilton Beach Brands Holding Company Cl A
+NYSE,HBI,Hanesbrands Inc
+NYSE,HBM,Hudbay Minerals Inc
+NYSE,HCA,Hca Holdings Inc
+NYSE,HCC,Warrior Met Coal Inc
+NYSE,HCHC,Hc2 Holdings Inc
+NYSE,HCI,Homeowners Choice
+NYSE,HCXY,Hercules Capital Inc 6.25% Notes Due 2033
+NYSE,HCXZ,Hercules Capital Inc 5.25% Notes Due 2025
+NYSE,HD,Home Depot
+NYSE,HDB,Hdfc Bank Ltd
+NYSE,HE,Hawaiian Electric Industries
+NYSE,HEI,Heico Corp
+NYSE,HEP,Holly Energy Partners LP
+NYSE,HEQ,John Hancock Hedged Eqty & Inc
+NYSE,HES,Hess Corp
+NYSE,HESM,Hess Midstream Partners LP
+NYSE,HEXO,Hexo Corp
+NYSE,HFC,Hollyfrontier Corp
+NYSE,HFRO,Highland Floating Rate Opportunities Fund
+NYSE,HGH,The Hartford Financial Srvcs G
+NYSE,HGLB,Highland Global Allocation Fund
+NYSE,HGV,Hilton Grand Vacations Inc
+NYSE,HHC,Howard Hughes Corp
+NYSE,HI,Hillenbrand Inc
+NYSE,HIE,Miller/Howard High Income Eqty
+NYSE,HIG,Hartford Financial Services Group
+NYSE,HII,Huntington Ingalls Industries
+NYSE,HIL,Hill International Inc
+NYSE,HIMS,Hims & Hers Health Inc
+NYSE,HIO,Western Asset High
+NYSE,HIW,Highwoods Properties
+NYSE,HIX,Western Asset High Income Fund II Inc
+NYSE,HKIB,Amtd International Inc
+NYSE,HL,Hecla Mining Company
+NYSE,HLF,Herbalife Ltd
+NYSE,HLI,Houlihan Lokey
+NYSE,HLT,Hilton Inc
+NYSE,HLX,Helix Energy Solutions Group
+NYSE,HMC,Honda Motor Company
+NYSE,HMLP,Hoegh Lng Partners LP
+NYSE,HMN,Horace Mann Educators Corp
+NYSE,HMY,Harmony Gold Mining Co. Ltd
+NYSE,HNGR,Hanger Inc
+NYSE,HNI,Hon Industries Inc
+NYSE,HNP,Huaneng Power Intl
+NYSE,HOG,Harley-Davidson Inc
+NYSE,HOME,At Home Group Inc
+NYSE,HON,Honeywell International Inc
+NYSE,HOV,Hovnanian Enterprises Inc
+NYSE,HP,Helmerich & Payne
+NYSE,HPE,Hewlett Packard Enterprise Comp
+NYSE,HPF,John Hancock Pfd II
+NYSE,HPI,John Hancock Preferred
+NYSE,HPP,Hudson Pacific Properties
+NYSE,HPQ,HP Inc
+NYSE,HPS,John Hancock Preferred Income Fund III
+NYSE,HPX,Hpx Corp Cl A
+NYSE,HQH,Tekla Healthcare Investors
+NYSE,HQL,Tekla Life Sciences Investors
+NYSE,HR,Healthcare Realty Trust Inc
+NYSE,HRB,H&R Block
+NYSE,HRC,Hill-Rom Holdings Inc
+NYSE,HRI,Herc Holdings Inc
+NYSE,HRL,Hormel Foods Corp
+NYSE,HRTG,Heritage Insurance Holdings
+NYSE,HSBC,HSBC Holdings Plc
+NYSE,HSC,Harsco Corp
+NYSE,HSY,Hershey Foods Corp
+NYSE,HT,Hersha Hospitality Trust
+NYSE,HTA,Healthcare Trust of America
+NYSE,HTD,John Hancock Tax Advantaged Dividend
+NYSE,HTFA,Horizon Technology Finance 6.25% Notes Due 2022
+NYSE,HTGC,Hercules Technology Growth Capital
+NYSE,HTH,Hilltop Holdings Inc
+NYSE,HTY,John Hancock Tax-Advantaged Global
+NYSE,HUBB,Hubbell Inc B
+NYSE,HUBS,Hubspot Inc
+NYSE,HUM,Humana Inc
+NYSE,HUN,Huntsman Corp
+NYSE,HUYA,Huya Inc
+NYSE,HVT,Haverty Furniture Companies
+NYSE,HWM,Howmet Aerospace Inc
+NYSE,HXL,Hexcel Corp
+NYSE,HY,Hyster-Yale Materials Handling
+NYSE,HYB,New America High
+NYSE,HYI,Western Asset High Yield Defined
+NYSE,HYLN,Hyliion Hldg Corp Cl A
+NYSE,HYT,Blackrock High Yield Fund VI Inc
+NYSE,HZN,Horizon Global Corp Comm
+NYSE,HZO,Marinemax Inc
+NYSE,IAA,Iaa Inc
+NYSE,IAE,VOYA Asia Pacific High Dividend Equity
+NYSE,IAG,Iamgold Corp
+NYSE,IBA,Industrias Bachoco S.A. DE C.V.
+NYSE,IBM,International Business Machines
+NYSE,IBN,Icici Bank Ltd
+NYSE,IBP,Installed Building Products
+NYSE,ICD,Independence Contract Drilling Inc
+NYSE,ICE,Intercontinental Exchange
+NYSE,ICL,Israel Chemicals Ltd
+NYSE,IDA,Idacorp Inc
+NYSE,IDE,VOYA Infrastructure Industrial
+NYSE,IDT,IDT Corp
+NYSE,IEX,Idex Corp
+NYSE,IFF,International Flavors & Fragrances
+NYSE,IFFT,International Flavors & Fragrances Inc
+NYSE,IFN,India Fund
+NYSE,IFS,Intercorp Financial Services Inc
+NYSE,IGA,VOYA Global Advantage and Premium
+NYSE,IGD,VOYA Global Equity Dividend and Premium
+NYSE,IGI,Western Asset Investment Grade Defined
+NYSE,IGR,VOYA Clarion Global Real Estate
+NYSE,IGT,International Game Technology
+NYSE,IHC,Independence Holding Company
+NYSE,IHD,VOYA Emerging Markets High Dividend
+NYSE,IHG,Intercontinental Hotels Group
+NYSE,IHIT,Invesco High Income 2023 Target Term Fund
+NYSE,IHTA,Invesco High Income 2024 Target Term Fund
+NYSE,IIF,Morgan Stanley India Investment Fund Inc
+NYSE,IIIN,Insteel Industries
+NYSE,IIM,Invesco Insured Muni Income Trust
+NYSE,IIPR,Innovative Industrial Properties
+NYSE,IMAX,Imax Corp
+NYSE,INFO,IHS Markit Ltd
+NYSE,INFY,Infosys Ltd
+NYSE,ING,ING Groep N.V. ADR
+NYSE,INGR,Ingredion Inc
+NYSE,INN,Summit Hotel Properties
+NYSE,INSI,Insight Select Income Fund
+NYSE,INSP,Inspire Medical Systems Inc
+NYSE,INSW,International Seaways Inc
+NYSE,INT,World Fuel Services Corp
+NYSE,INVH,Invitation Homes Inc
+NYSE,IO,ION Geophysical Corp
+NYSE,IP,International Paper Company
+NYSE,IPG,Interpublic Group of Companies
+NYSE,IPI,Intrepid Potash Inc
+NYSE,IQI,Invesco Quality Muni Income Trust
+NYSE,IQV,Iqvia Holdings Inc
+NYSE,IR,Ingersoll Rand Inc
+NYSE,IRL,Irish Investment Fund
+NYSE,IRM,Iron Mountain Inc
+NYSE,IRR,VOYA Risk Managed Natural Resources Fund
+NYSE,IRS,Irsa Inversiones Y Representaciones S.A.
+NYSE,IRT,Independence Realty Trust Inc
+NYSE,ISD,Prudential Short Duration High
+NYSE,IT,Gartner Inc
+NYSE,ITCB,Itau Corpbanca
+NYSE,ITGR,Integer Holdings Corp
+NYSE,ITT,ITT Inc
+NYSE,ITUB,Itau Unibanco Banco Holding S.A.
+NYSE,ITW,Illinois Tool Works Inc
+NYSE,IVC,Invacare Corp
+NYSE,IVH,Ivy High Income Opportunities
+NYSE,IVR,Invesco Mortgage Capital Inc
+NYSE,IVZ,Invesco Plc
+NYSE,IX,Orix Corp ADR
+NYSE,J,Jacobs Engineering Group Inc
+NYSE,JAX,J. Alexander's Holdings Inc C
+NYSE,JBGS,Jbg Smith Properties
+NYSE,JBK,Lehman Abs Corp
+NYSE,JBL,Jabil Circuit
+NYSE,JBT,John Bean Technologies Corp
+NYSE,JCE,Nuveen Core Equity Alpha Fund
+NYSE,JCI,Johnson Controls Intl
+NYSE,JCO,Nuveen Credit Opportunities 2022 Target Term Fun
+NYSE,JDD,Nuveen Diversified Dividend and
+NYSE,JEF,Jefferies Financial Group Inc
+NYSE,JELD,Jeld-Wen Holding Inc
+NYSE,JEMD,Nuveen Emerging Markets Debt 2022 Target Term Fu
+NYSE,JEQ,Japan Equity Fund
+NYSE,JFR,Nuveen Floating Rate
+NYSE,JGH,Nuveen Global High Income Fund
+NYSE,JHAA,Nuveen High Income 2023 Target Term Fund
+NYSE,JHB,Nuveen High Income November 2021 Target Term Fun
+NYSE,JHG,Janus Henderson Group Plc
+NYSE,JHI,John Hancock Investors Trust
+NYSE,JHS,John Hancock Income Securities Trust
+NYSE,JHX,James Hardie Industries Se
+NYSE,JIH,Juniper Industrial Holdings Inc Cl A
+NYSE,JILL,J. Jill Inc
+NYSE,JKS,Jinkosolar Holding Company Ltd
+NYSE,JLL,Jones Lang Lasalle Inc
+NYSE,JLS,Nuveen Mortgage Opportunity Term Fund
+NYSE,JMIA,Jumia Technologies Ag ADR
+NYSE,JMM,Nuveen Multi-Market Income Fund Inc
+NYSE,JMP,JMP Group Inc
+NYSE,JNJ,Johnson & Johnson
+NYSE,JNPR,Juniper Networks
+NYSE,JOE,St. Joe Company
+NYSE,JOF,Japan Smaller Capitalization Fund Inc
+NYSE,JP,Jupai Holdings Ltd
+NYSE,JPC,Nuveen Preferred and Convertible
+NYSE,JPI,Nuveen Preferred and Income Term Fund
+NYSE,JPM,JP Morgan Chase & Company
+NYSE,JPS,Nuveen Quality Preferred 2
+NYSE,JPT,Nuveen Preferred and Income 2022 Term Fund
+NYSE,JQC,Nuveen Preferred and Convertible 2
+NYSE,JRI,Nuveen Real Asset Income and Gr
+NYSE,JRO,Nuveen Floating Rate Income Opportuntiy
+NYSE,JRS,Nuveen Real Estate Fund
+NYSE,JSD,Nuveen Short Duration Credit O
+NYSE,JT,Jianpu Technology Inc
+NYSE,JTA,Nuveen Tax-Advantaged Total Return
+NYSE,JTD,Nuveen Tax-Advantaged Dividend Growth
+NYSE,JWN,Nordstrom
+NYSE,JWS,Jaws Acquisition Corp Cl A.
+NYSE,K,Kellogg Company
+NYSE,KAI,Kadant Inc
+NYSE,KAMN,Kaman Corp
+NYSE,KAR,Kar Auction Services Inc
+NYSE,KB,KB Financial Group Inc
+NYSE,KBH,KB Home
+NYSE,KBR,KBR Inc
+NYSE,KEN,Kenon Holdings Ltd
+NYSE,KEP,Korea Electric Power Corp
+NYSE,KEX,Kirby Corp
+NYSE,KEY,Keycorp
+NYSE,KEYS,Keysight Technologies Inc Comm
+NYSE,KF,Korea Fund
+NYSE,KFS,Kingsway Financial Services
+NYSE,KFY,Korn/Ferry International
+NYSE,KGC,Kinross Gold Corp
+NYSE,KIM,Kimco Realty Corp
+NYSE,KIO,KKR Income Opportunities Fund
+NYSE,KKR,KKR & Co. LP
+NYSE,KL,Kirkland Lake Gold Ltd
+NYSE,KMB,Kimberly-Clark Corp
+NYSE,KMF,Kayne Anderson Midstream Energy Fund
+NYSE,KMI,Kinder Morgan
+NYSE,KMPR,Kemper Corp
+NYSE,KMT,Kennametal Inc
+NYSE,KMX,Carmax Inc
+NYSE,KN,Knowles Corp
+NYSE,KNL,Knoll Inc
+NYSE,KNOP,Knot Offshore Partners LP
+NYSE,KNX,Knight-Swift Transporation Inc
+NYSE,KO,Coca-Cola Company
+NYSE,KODK,Eastman Kodak
+NYSE,KOF,Coca Cola Femsa S.A.B. DE C.V.
+NYSE,KOP,Koppers Holdings Inc
+NYSE,KOS,Kosmos Energy Ltd
+NYSE,KR,Kroger Company
+NYSE,KRA,Kraton Performance Polymers Inc
+NYSE,KRC,Kilroy Realty Corp
+NYSE,KREF,KKR Real Estate Finance Trust Inc
+NYSE,KRG,Kite Realty Group Trust
+NYSE,KRO,Kronos Worldwide Inc
+NYSE,KRP,Kimbell Royalty Partners
+NYSE,KSM,Scudder Strategic Municiple Income Trust
+NYSE,KSS,Kohl's Corp
+NYSE,KSU,Kansas City Southern
+NYSE,KSU.P,Kansas City Southern [Ksu/P]
+NYSE,KT,Korea Telecom Corp
+NYSE,KTB,Kontoor Brands Inc [Ktb/I]
+NYSE,KTF,Scudder Municiple Income Trust
+NYSE,KTH,Lehman Abs Corp
+NYSE,KTN,Lehman Abs Corp
+NYSE,KW,Kennedy-Wilson Holdings Inc
+NYSE,KWR,Quaker Chemical Corp
+NYSE,KYN,Kayne Anderson MLP Investment Company
+NYSE,L,Loews Corp
+NYSE,LAC,Lithium Americas Corp
+NYSE,LAD,Lithia Motors
+NYSE,LADR,Ladder Capital Corp
+NYSE,LAIX,Laix Inc ADR
+NYSE,LAZ,Lazard Ltd
+NYSE,LB,L Brands Inc
+NYSE,LBRT,Liberty Oilfield Services Inc
+NYSE,LC,Lendingclub Corp
+NYSE,LCI,Lannett Co. Inc
+NYSE,LCII,Lci Industries
+NYSE,LDL,Lydall Inc
+NYSE,LDOS,Leidos Holdings Inc
+NYSE,LDP,Cohen & Steers Ltd Duration Prfd Income Fund
+NYSE,LEA,Lear Corp
+NYSE,LEAF,Leaf Group Ltd
+NYSE,LEG,Leggett & Platt Inc
+NYSE,LEJU,Leju Holdings Ltd
+NYSE,LEN,Lennar Corp
+NYSE,LEO,Dreyfus Strategic Municipals
+NYSE,LEVI,Levi Strauss & Co. Cl A
+NYSE,LFC,China Life Insurance Company Ltd
+NYSE,LFT,Lument Finance Trust Inc
+NYSE,LGI,Lazard Global Total Return and
+NYSE,LH,Laboratory Corp of America Holdings
+NYSE,LHX,L3Harris Technologies Inc
+NYSE,LII,Lennox International
+NYSE,LIN,Linde Plc
+NYSE,LINX,Linx S.A. ADR
+NYSE,LITB,Lightinthebox Holding Co. Ltd
+NYSE,LL,Lumber Liquidators Holdings Inc
+NYSE,LLY,Eli Lilly and Company
+NYSE,LMND,Lemonade Inc
+NYSE,LMT,Lockheed Martin Corp
+NYSE,LNC,Lincoln National Corp
+NYSE,LND,Brasilagro ADR
+NYSE,LNN,Lindsay Corp
+NYSE,LOMA,Loma Negra Comp Indu Argentina Sociedad ADR
+NYSE,LOW,Lowe's Companies
+NYSE,LPG,Dorian Lpg Ltd
+NYSE,LPI,Laredo Petroleum Holdings Inc
+NYSE,LPL,Lg Display Co. Ltd
+NYSE,LPX,Louisiana-Pacific Corp
+NYSE,LRN,Stride Inc
+NYSE,LSI,Life Storage
+NYSE,LSPD,Lightspeed Pos Inc
+NYSE,LTC,Ltc Properties
+NYSE,LTHM,Livent Corp
+NYSE,LUB,Luby's Inc
+NYSE,LUMN,Centurylink
+NYSE,LUV,Southwest Airlines Company
+NYSE,LVS,Las Vegas Sands
+NYSE,LW,Lamb Weston Holdings Inc
+NYSE,LXFR,Luxfer Holdings Plc
+NYSE,LXP,Lexington Realty Trust
+NYSE,LXU,Lsb Industries Inc
+NYSE,LYB,Lyondellbasell Industries NV
+NYSE,LYG,Lloyds Banking Group Plc
+NYSE,LYV,Live Nation Entertainment
+NYSE,LZB,La-Z-Boy Inc
+NYSE,M,Macy's Inc
+NYSE,MA,Mastercard Inc
+NYSE,MAA,Mid-America Apartment Communities
+NYSE,MAC,Macerich Company
+NYSE,MAIN,Main Street Capital Corp
+NYSE,MAN,Manpower Inc
+NYSE,MANU,Manchester United Ltd
+NYSE,MAS,Masco Corp
+NYSE,MATX,Matson Inc
+NYSE,MAV,Pioneer Municipal High Income Advantage Fund
+NYSE,MAXR,Maxar Technologies Ltd
+NYSE,MBI,MBIA Inc
+NYSE,MBT,Mobile Telesystems
+NYSE,MC,Moelis
+NYSE,MCA,Blackrock Muniyield California Insured Fund
+NYSE,MCB,Metropolitan Bank Holding Corp
+NYSE,MCD,McDonald's Corp
+NYSE,MCI,Massmutual Corporate Investors
+NYSE,MCK,Mckesson Corp
+NYSE,MCN,Madison/Claymore Covered Call & Equity Strategy
+NYSE,MCO,Moody's Corp
+NYSE,MCR,MFS Charter Income Trust
+NYSE,MCS,Marcus Corp
+NYSE,MCY,Mercury General Corp
+NYSE,MD,Mednax Inc
+NYSE,MDC,M.D.C. Holdings
+NYSE,MDLA,Medallia Inc
+NYSE,MDLQ,Medley Llc 7.25% Notes Due 2024
+NYSE,MDLX,Medley Llc
+NYSE,MDLY,Medley Management Inc
+NYSE,MDP,Meredith Corp
+NYSE,MDT,Medtronic Inc
+NYSE,MDU,Mdu Res Group Inc
+NYSE,MEC,Mayville Engineering Company Inc
+NYSE,MED,Medifast Inc
+NYSE,MEG,Montrose Environmental Group Inc
+NYSE,MEI,Methode Electronics
+NYSE,MET,Metlife Inc
+NYSE,MFA,MFA Financial Inc
+NYSE,MFC,Manulife Financial Corp
+NYSE,MFD,Macquarie/First Trust Global
+NYSE,MFG,Mizuho Financial Group
+NYSE,MFGP,Micro Focus Intl Plc
+NYSE,MFL,Blackrock Muniholdings Investment Quality Fund
+NYSE,MFM,MFS Muni Income Trust
+NYSE,MFV,MFS Special Value Trust
+NYSE,MG,Mistras Group Inc
+NYSE,MGA,Magna International
+NYSE,MGF,MFS Government Markets Income Trust
+NYSE,MGM,MGM Resorts International
+NYSE,MGP,MGM Growth Properties Llc
+NYSE,MGR,Affiliated Managers Group Inc
+NYSE,MGU,Macquarie Global Infrastructure Total Return Fun
+NYSE,MGY,Magnolia Oil & Gas Corp
+NYSE,MHD,Blackrock Muniholdings Fund
+NYSE,MHF,Western Asset Muni High
+NYSE,MHI,Pioneer Muni High Income Trust
+NYSE,MHK,Mohawk Industries
+NYSE,MHLA,Maiden Holdings Ltd 6.625% No
+NYSE,MHN,Blackrock Muniholdings New York Quality Fund
+NYSE,MHNC,Maiden Holdings North America
+NYSE,MHO,M/I Homes
+NYSE,MIC,Macquarie Infrastructure Company Trust
+NYSE,MIE,Cohen & Steers MLP Income and
+NYSE,MIN,MFS Intermediate Income Trust
+NYSE,MITT,Ag Mortgage Investment Trust
+NYSE,MIXT,Mix Telematics Ltd
+NYSE,MIY,Blackrock Muniyield Michigan Quality Fund
+NYSE,MKC,Mccormick & Company Inc
+NYSE,MKL,Markel Corp
+NYSE,MLI,Mueller Industries
+NYSE,MLM,Martin Marietta Materials
+NYSE,MLP,Maui Land & Pineapple Company
+NYSE,MLR,Miller Industries
+NYSE,MMC,Marsh & Mclennan Companies
+NYSE,MMD,Mainstay Defined Muni Opp Fund
+NYSE,MMI,Marcus & Millichap
+NYSE,MMM,3M Company
+NYSE,MMP,Magellan Midstream Partners LP
+NYSE,MMS,Maximus Inc
+NYSE,MMT,MFS Multimarket Income Trust
+NYSE,MMU,Western Asset Managed Municipals Fund
+NYSE,MN,Manning & Napier Inc
+NYSE,MNP,Western Asset Muni Partners Fund
+NYSE,MNR,Monmouth Real Estate Investment Corp
+NYSE,MNRL,Brigham Minerals Inc
+NYSE,MO,Altria Group
+NYSE,MOD,Modine Manufacturing Company
+NYSE,MODN,Model N Inc
+NYSE,MOGU,Mogu Inc ADR
+NYSE,MOH,Molina Healthcare Inc
+NYSE,MOS,Mosaic Company
+NYSE,MOV,Movado Group Inc
+NYSE,MPA,Blackrock Muniyield Pennsylvania Quality Fund
+NYSE,MPC,Marathon Petroleum Corp
+NYSE,MPLN,Multiplan Corp
+NYSE,MPLX,Mplx LP
+NYSE,MPV,Massmutual Participation Investors
+NYSE,MPW,Medical Properties Trust
+NYSE,MPX,Marine Products Corp
+NYSE,MQT,Blackrock Muniyield Quality Fund II
+NYSE,MQY,Blackrock Muniyield Quality Fund
+NYSE,MRC,Mrc Global Inc
+NYSE,MRK,Merck & Company
+NYSE,MRO,Marathon Oil Corp
+NYSE,MS,Morgan Stanley
+NYSE,MSA,Msa Safety Inc
+NYSE,MSB,Mesabi Trust
+NYSE,MSC,Studio City Intl Holdings Ltd ADR
+NYSE,MSCI,MSCI Inc
+NYSE,MSD,Morgan Stanley Emerging Markets Debt
+NYSE,MSGE,Madison Square Garden Entertainment Corp
+NYSE,MSGN,Msg Networks Inc
+NYSE,MSGS,Madison Square Garden Sports Corp
+NYSE,MSI,Motorola Solutions
+NYSE,MSM,Msc Industrial Direct Company
+NYSE,MT,Arcelormittal
+NYSE,MTB,M&T Bank Corp
+NYSE,MTCN,Arcelormittal 5.50% Mandatorily
+NYSE,MTD,Mettler-Toledo International
+NYSE,MTDR,Matador Resources Company
+NYSE,MTG,Mgic Investment Corp
+NYSE,MTH,Meritage Corp
+NYSE,MTL,Mechel Oao
+NYSE,MTL.P,Mechel Pao [Mtl/P]
+NYSE,MTN,Vail Resorts
+NYSE,MTOR,Meritor Inc
+NYSE,MTR,Mesa Royalty Trust
+NYSE,MTRN,Materion Corp
+NYSE,MTT,Western Asset Muni Defined Opportunity Trust Inc
+NYSE,MTW,Manitowoc Company
+NYSE,MTX,Minerals Technologies Inc
+NYSE,MTZ,Mastec Inc
+NYSE,MUA,Blackrock Muniassets Fund
+NYSE,MUC,Blackrock Muniholdings California Quality Fund
+NYSE,MUE,Blackrock Muniholdings Quality Fund II
+NYSE,MUFG,Mitsubishi Ufj Financial Group Inc
+NYSE,MUI,Blackrock Muni Intermediate Duration Fund Inc
+NYSE,MUJ,Blackrock Muniholdings New Jersey Insured Fund
+NYSE,MUR,Murphy Oil Corp
+NYSE,MUSA,Murphy USA Inc
+NYSE,MUX,Mcewen Mining Inc
+NYSE,MVF,Munivest Fund
+NYSE,MVO,Mv Oil Trust
+NYSE,MVT,Blackrock Munivest Fund II
+NYSE,MWA,Mueller Water Products
+NYSE,MX,Magnachip Semiconductor Corp
+NYSE,MXE,Mexico Equity and
+NYSE,MXF,Mexico Fund
+NYSE,MXL,Maxlinear Inc
+NYSE,MYC,Blackrock Muniyield California Fund
+NYSE,MYD,Blackrock Muniyield Fund
+NYSE,MYE,Myers Industries
+NYSE,MYI,Blackrock Muniyield Quality Fund III
+NYSE,MYJ,Blackrock Muniyield New Jersey Fund
+NYSE,MYN,Blackrock Muniyield New York Quality Fund
+NYSE,MYOV,Myovant Sciences Ltd
+NYSE,NAC,Nuveen California Divadv Fund
+NYSE,NAD,Nuveen Divadv Fund
+NYSE,NAN,Nuveen New York Divadv Fund
+NYSE,NAT,Nordic American Tanker Shipping Ltd
+NYSE,NAV,Navistar International Corp
+NYSE,NAZ,Nuveen Arizona Premium Fund
+NYSE,NBB,Nuveen Build America Bond Fund
+NYSE,NBHC,National Bank Holdings Corp
+NYSE,NBR,Nabors Industries
+NYSE,NC,Nacco Industries
+NYSE,NCA,Nuveen California Muni Value Fund
+NYSE,NCLH,Norwegian Cruise Ord
+NYSE,NCR,NCR Corp
+NYSE,NCV,Virtus Allianzgi Convertible & Income Fund
+NYSE,NCZ,Virtus Allianzgi Convertible & Income Fund II
+NYSE,NDMO,Nuveen Dynamic Municipal Opportunities Fund Comm
+NYSE,NDP,Tortoise Energy Independence F
+NYSE,NEA,Nuveen Insured Tax-Free Advantage Fund
+NYSE,NEE,Nextera Energy
+NYSE,NEM,Newmont Mining Corp
+NYSE,NEP,Nextera Energy Partners LP
+NYSE,NET,Cloudflare Inc Cl A
+NYSE,NEU,Newmarket Corp
+NYSE,NEV,Nuveen Enhanced Muni Value Fund
+NYSE,NEW,Puxin Ltd
+NYSE,NEWR,New Relic Inc
+NYSE,NEX,Nextier Oilfield Solutions Inc
+NYSE,NEXA,Nexa Resources S.A.
+NYSE,NFG,National Fuel Gas Company
+NYSE,NFH,New Frontier Health Corp
+NYSE,NFJ,Virtus Dividend Interest & Premium Strategy
+NYSE,NGG,National Grid Transco Plc
+NYSE,NGL,Ngl Energy Partners LP
+NYSE,NGS,Natural Gas Services Group
+NYSE,NGVC,Natural Grocers By Vitamin Cottage Inc
+NYSE,NGVT,Ingevity Corp
+NYSE,NHF,Nexpoint Strategic Opportunities Fund
+NYSE,NHI,National Health Investors
+NYSE,NI,NiSource Inc
+NYSE,NID,Nuveen Intermediate Duration M
+NYSE,NIE,Virtus Allianzgi Equity & Convertible Income
+NYSE,NIM,Nuveen Maturities Fund
+NYSE,NINE,Nine Energy Service Inc
+NYSE,NIO,Nio Inc
+NYSE,NIQ,Nuveen Intermediate Duration Q
+NYSE,NJR,Newjersey Resources Corp
+NYSE,NKE,Nike Inc
+NYSE,NKG,Nuveen Georgia Divadv Fund 2
+NYSE,NKX,Nuveen Insured California Tax-Free
+NYSE,NL,NL Industries
+NYSE,NLS,Nautilus Group
+NYSE,NLSN,Nielsen Holdings Plc
+NYSE,NLY,Annaly Capital Management Inc
+NYSE,NM,Navios Maritime Holdings Inc
+NYSE,NMCO,Nuveen Municipal Credit Opportunities Fund
+NYSE,NMI,Nuveen Muni
+NYSE,NMM,Navios Maritime Partners LP
+NYSE,NMR,Nomura Holdings Inc ADR
+NYSE,NMS,Nuveen Minnesota Municipal Inco
+NYSE,NMT,Nuveen Massachusetts Premium Fund
+NYSE,NMZ,Nuveen Muni High Income Opportunity
+NYSE,NNA,Navios Maritime Acquisition Corp
+NYSE,NNI,Nelnet Inc
+NYSE,NNN,National Retail Properties
+NYSE,NNY,Nuveen New York Muni Value Fund
+NYSE,NOA,North American Construction Group Ltd.
+NYSE,NOAH,Noah Holdings Ltd
+NYSE,NOC,Northrop Grumman Corp
+NYSE,NOK,Nokia Corp
+NYSE,NOM,Nuveen Missouri Premium Fund
+NYSE,NOMD,Nomad Foods Ltd
+NYSE,NOV,Nov Inc
+NYSE,NOVA,Sunnova Energy International Inc
+NYSE,NOW,Servicenow Inc
+NYSE,NP,Neenah Paper
+NYSE,NPK,National Presto Industries
+NYSE,NPO,Enpro Industries
+NYSE,NPTN,Neophotonics Corp
+NYSE,NPV,Nuveen Virginia Premium Fund
+NYSE,NQP,Nuveen Pennsylvania Investment
+NYSE,NR,Newpark Resources
+NYSE,NREF,Nexpoint Real Estate Finance Inc
+NYSE,NRG,NRG Energy
+NYSE,NRGX,Neurologix Inc
+NYSE,NRK,Nuveen Insured New York Tax-Free
+NYSE,NRP,Natural Resource Partners LP
+NYSE,NRT,North European Oil Royality Trust
+NYSE,NRUC,National Rural Utilities Coop Finance Corp 5.500
+NYSE,NRZ,New Residential Investment Corp
+NYSE,NS,Nustar Energy LP
+NYSE,NSA,National Storage Affiliates Tru
+NYSE,NSC,Norfolk Southern Corp
+NYSE,NSL,Nuveen Senior
+NYSE,NSP,Insperity Inc
+NYSE,NSS,Nustar Logistics LP
+NYSE,NTB,Bank of Butterfield Ltd
+NYSE,NTCO,Natura &Co Holding S.A. ADR
+NYSE,NTG,Tortoise MLP Fund
+NYSE,NTP,Nam Tai Electronics
+NYSE,NTR,Nutrien Ltd
+NYSE,NTST,Netstreit Corp
+NYSE,NTZ,Natuzzi S.P.A.
+NYSE,NUE,Nucor Corp
+NYSE,NUO,Nuveen Ohio Quality
+NYSE,NUS,Nu Skin Enterprises
+NYSE,NUV,Nuveen Muni Value Fund
+NYSE,NUVB,Nuvation Bio Inc
+NYSE,NUW,Nuveen Muni Value Fund
+NYSE,NVG,Nuveen Insured Divadv Fund
+NYSE,NVGS,Navigator Holdings
+NYSE,NVO,Novo Nordisk A/S
+NYSE,NVR,NVR Inc
+NYSE,NVRO,Nevro Corp
+NYSE,NVS,Novartis Ag
+NYSE,NVST,Envista Holdings Corp
+NYSE,NVT,Nvent Electric Plc
+NYSE,NVTA,Invitae Corp
+NYSE,NWG,Natwest Group Plc
+NYSE,NWHM,New Home Co. Llc
+NYSE,NWN,Northwest Natural Gas Company
+NYSE,NX,Quanex Building Products Corp
+NYSE,NXC,Nuveen California Tax-Free Income
+NYSE,NXJ,Nuveen New Jersey Divadv Fund
+NYSE,NXN,Nuveen Insured New York Tax-Free
+NYSE,NXP,Nuveen Tax Free Income Portfolio
+NYSE,NXQ,Nuveen Tax Free Income Portfolio II
+NYSE,NXR,Nuveen Tax Free Income Portfolio III
+NYSE,NXRT,Nexpoint Residential Trust Inc
+NYSE,NYC,New York City REIT Inc Cl A
+NYSE,NYCB,New York Community Bancorp
+NYSE,NYT,New York Times Company
+NYSE,NZF,Nuveen Divadv Fund 3
+NYSE,O,Realty Income Corp
+NYSE,OC,Owens Corning Inc
+NYSE,OCFT,Oneconnect Financial Technology Co. Ltd America
+NYSE,OCN,Ocwen Financial Corp
+NYSE,ODC,Oil-Dri Corp of America
+NYSE,OEC,Orion Engineered Carbons S.A R
+NYSE,OFC,Corporate Office Properties
+NYSE,OFG,OFG Bancorp
+NYSE,OGE,Oge Energy Corp
+NYSE,OGS,One Gas Inc
+NYSE,OHI,Omega Healthcare Investors
+NYSE,OI,Owens-Illinois
+NYSE,OIA,Invesco Muni Income Trust
+NYSE,OII,Oceaneering International
+NYSE,OIS,Oil States International
+NYSE,OKE,Oneok Inc
+NYSE,OLN,Olin Corp
+NYSE,OLP,One Liberty Properties
+NYSE,OMC,Omnicom Group Inc
+NYSE,OMF,Onemain Holdings Inc
+NYSE,OMI,Owens & Minor
+NYSE,ONE,Onesmart International Education Group Ltd A
+NYSE,ONTO,Onto Innovation Inc
+NYSE,OOMA,Ooma Inc
+NYSE,OPP,Rivernorth/Doubleline Strategic Opportunity Fund
+NYSE,OPY,Oppenheimer Holdings
+NYSE,OR,Osisko Gold Royalties Ltd
+NYSE,ORA,Ormat Technologies
+NYSE,ORAN,Orange ADR
+NYSE,ORC,Orchid Island Capital Inc
+NYSE,ORCC,Owl Rock Capital Corp
+NYSE,ORCL,Oracle Corp
+NYSE,ORI,Old Republic International Corp
+NYSE,ORN,Orion Group Holdings Inc
+NYSE,OSG,Overseas Shipholding Group Inc
+NYSE,OSH,Oak Street Health Inc
+NYSE,OSK,Oshkosh Truck Corp
+NYSE,OTIS,Otis Worldwide Corp
+NYSE,OUT,Outfront Media Inc
+NYSE,OVV,Ovintiv Inc
+NYSE,OXM,Oxford Industries
+NYSE,OXY,Occidental Petroleum Corp
+NYSE,PAC,Grupo Aeroportuario Del Pacifico
+NYSE,PACK,Ranpak Holdings Corp
+NYSE,PAG,Penske Automotive Group
+NYSE,PAGS,Pagseguro Digital Ltd Cl A
+NYSE,PAI,Pacific American Income Shares
+NYSE,PAM,Pampa Energia S.A.
+NYSE,PANW,Palo Alto Networks Inc
+NYSE,PAR,Par Technology Corp
+NYSE,PARR,Par Petroleum Corp
+NYSE,PAYC,Paycom Software Inc
+NYSE,PB,Prosperity Bancshares
+NYSE,PBA,Pembina Pipeline Cor
+NYSE,PBC,Prospect Capital Corp 6.875% Notes Due 20
+NYSE,PBF,PBF Energy Inc
+NYSE,PBFX,PBF Logistics LP
+NYSE,PBH,Prestige Brand Holdings
+NYSE,PBI,Pitney Bowes Inc
+NYSE,PBR,Petroleo Brasileiro S.A. Petrobras
+NYSE,PBT,Permian Basin Royalty Trust
+NYSE,PBY,Prospect Capital Corp 6.25% Notes Due 202
+NYSE,PCF,Putnam High Income Bond Fund
+NYSE,PCG,Pacific Gas & Electric Company
+NYSE,PCGU,PG&E Corp
+NYSE,PCI,Pimco Dynamic Credit Income Fun
+NYSE,PCK,Pimco California Muni II
+NYSE,PCM,Pimco Commercial Mortgage Securities
+NYSE,PCN,Pimco Corporate
+NYSE,PCQ,Pimco California Muni
+NYSE,PD,Pagerduty Inc
+NYSE,PDI,Pimco Dynamic Income Fund
+NYSE,PDM,Piedmont Office Realty Trust
+NYSE,PDS,Precision Drilling Corp
+NYSE,PDT,John Hancock Premium Dividend Fund
+NYSE,PEAK,Healthpeak Properties Inc
+NYSE,PEB,Pebblebrook Hotel Trust
+NYSE,PEG,Public Service Enterprise Group Inc
+NYSE,PEI,Pennsylvania Real Estate Investment
+NYSE,PEN,Penumbra Inc
+NYSE,PEO,Adams Natural Resources Fund Inc
+NYSE,PFD,Flaherty & Crumrine Preferred Inc
+NYSE,PFE,Pfizer Inc
+NYSE,PFGC,Performance Food Group Company
+NYSE,PFH,Prudential Financial Inc 4.125% Junior
+NYSE,PFL,Pimco Income Strategy Fund
+NYSE,PFN,Pimco Income Strategy Fund II
+NYSE,PFO,Flaherty & Crumrine Preferred Fund
+NYSE,PFS,Provident Financial Services
+NYSE,PFSI,Pennymac Financial Services IN
+NYSE,PG,Procter & Gamble Company
+NYSE,PGP,Pimco Global Stocksplus & Income
+NYSE,PGR,Progressive Corp
+NYSE,PGRE,Paramount Group Inc
+NYSE,PGTI,Pgt Inc
+NYSE,PGZ,Principal Real Estate Income F
+NYSE,PH,Parker-Hannifin Corp
+NYSE,PHD,Pioneer Floating Rate Fund
+NYSE,PHG,Koninklijke Philips Electronics
+NYSE,PHI,Philippine Long Distance Telephone
+NYSE,PHK,Pimco High Income Fund
+NYSE,PHM,Pultegroup
+NYSE,PHR,Phreesia Inc
+NYSE,PHT,Pioneer High Income Fund
+NYSE,PHX,Phx Minerals Inc
+NYSE,PII,Polaris Industries Inc
+NYSE,PIM,Putnam Master Intermediate Income
+NYSE,PINE,Alpine Income Property Trust Inc
+NYSE,PING,Ping Identity Holding Corp
+NYSE,PINS,Pinterest Inc
+NYSE,PIPR,Piper Jaffray Companies
+NYSE,PJT,Pjt Partners Inc Cl A
+NYSE,PK,Park Hotels & Resorts Inc
+NYSE,PKE,Park Electrochemical Corp
+NYSE,PKG,Packaging Corp of America
+NYSE,PKI,Perkinelmer
+NYSE,PKO,Pimco Income Opportunity Fund
+NYSE,PKX,Posco ADR
+NYSE,PLAN,Anaplan Inc
+NYSE,PLD,Prologis Inc
+NYSE,PLNT,Planet Fitness
+NYSE,PLOW,Douglas Dynamics
+NYSE,PLT,Plantronics
+NYSE,PLYM,Plymouth Industrial REIT Inc
+NYSE,PM,Philip Morris International Inc
+NYSE,PMF,Pimco Muni
+NYSE,PML,Pimco Muni II
+NYSE,PMM,Putnam Managed Muni Income Trust
+NYSE,PMO,Putnam Muni Opportunities Trust
+NYSE,PMT,Pennymac Mortgage Investment Trust
+NYSE,PMX,Pimco Muni Income Fund III
+NYSE,PNC,PNC Bank
+NYSE,PNF,Pimco New York Muni
+NYSE,PNI,Pimco New York Muni II
+NYSE,PNM,PNM Resources Inc
+NYSE,PNR,Pentair Ltd
+NYSE,PNW,Pinnacle West Capital Corp
+NYSE,POR,Portland General Electric Company
+NYSE,POST,Post Holdings Inc
+NYSE,PPG,PPG Industries
+NYSE,PPL,PPL Corp
+NYSE,PPR,VOYA Prime Rate Trust
+NYSE,PPT,Putnam Premier Income Trust
+NYSE,PPX,PPL Capital Funding Inc
+NYSE,PQG,Pq Group Holdings Inc
+NYSE,PRA,Pro-Assurance Corp
+NYSE,PRG,Prog Hldgs Inc
+NYSE,PRGO,Perrigo Company
+NYSE,PRI,Primerica Inc
+NYSE,PRLB,Proto Labs Inc
+NYSE,PRMW,Primo Water Corp
+NYSE,PRO,Pros Holdings
+NYSE,PROS,Prosight Global Inc
+NYSE,PRPB,CC Neuberger Principal Holdings II Cl A
+NYSE,PRS,Prudential Financial Inc 5.625% Junior
+NYSE,PRSP,Perspecta Inc
+NYSE,PRT,Permrock Royalty Trust Trust Units
+NYSE,PRTY,Party City Holdco Inc
+NYSE,PRU,Prudential Financial Inc
+NYSE,PSA,Public Storage
+NYSE,PSB,Business Parks
+NYSE,PSF,Cohen & Steers Preferred Fund
+NYSE,PSN,Parsons Corp
+NYSE,PSO,Pearson Plc
+NYSE,PSTG,Pure Storage Inc
+NYSE,PSTH,Pershing Square Tontine Holdings
+NYSE,PSTL,Postal Realty Trust Cl A
+NYSE,PSX,Phillips 66
+NYSE,PSXP,Phillips 66 Partners LP
+NYSE,PTR,Petrochina Company Ltd
+NYSE,PTY,Pimco Corporate Opportunity Fund
+NYSE,PUK,Prudential Public Ltd Company
+NYSE,PUMP,Propetro Holding Corp
+NYSE,PVG,Pretium Res Inc
+NYSE,PVH,Phillips-Van Heusen Corp
+NYSE,PVL,Permianville Royalty Trust
+NYSE,PWR,Quanta Services
+NYSE,PXD,Pioneer Natural Resources Company
+NYSE,PYN,Pimco New York Muni Income Fund III
+NYSE,PYS,Pplus Trust
+NYSE,PYT,Pplus Trust
+NYSE,PZC,Pimco California Muni Income Fund III
+NYSE,PZN,Pzena Investment Management Inc
+NYSE,QD,Qudian Inc ADR
+NYSE,QGEN,Qiagen N.V.
+NYSE,QS,Quantumscape Corp
+NYSE,QSR,Restaurant Brands International
+NYSE,QTS,Qts Realty Trust Inc
+NYSE,QTWO,Q2 Holdings Inc
+NYSE,QUAD,Quad Graphics Inc
+NYSE,QUOT,Quotient Technology Inc
+NYSE,QVCC,Qvc Inc 6.250% Senior Secured Notes Due 2068
+NYSE,QVCD,Qvc Inc 6.375% Senior Secured Notes Due 2067
+NYSE,R,Ryder System
+NYSE,RA,Brookfield Real Assets Income Fund Inc
+NYSE,RACE,Ferrari N.V.
+NYSE,RAD,Rite Aid Corp
+NYSE,RAMP,Liveramp Holdings Inc
+NYSE,RBA,Ritchie Bros. Auctioneers Inc
+NYSE,RBC,Regal-Beloit Corp
+NYSE,RC,Ready Capital Corp
+NYSE,RCA,Ready Capital Corp 7.00%
+NYSE,RCB,Ready Capital Corp 6.20% Senior Notes Due
+NYSE,RCI,Rogers Communication
+NYSE,RCL,Royal Caribbean Cruises Ltd
+NYSE,RCS,Rcm Strategic Global Government Fund
+NYSE,RCUS,Arcus Biosciences Inc
+NYSE,RDN,Radian Group Inc
+NYSE,RDY,Dr. Reddy's Laboratories Ltd
+NYSE,RE,Everest Re Group
+NYSE,RELX,Relx Plc
+NYSE,RENN,Renren Inc
+NYSE,RES,RPC Inc
+NYSE,REV,Revlon Inc
+NYSE,REVG,Rev Group Inc
+NYSE,REX,Rex American Resources Corp
+NYSE,REXR,Rexford Industrial Realty Inc
+NYSE,REZI,Resideo Technologies Inc
+NYSE,RF,Regions Financial Corp
+NYSE,RFI,Cohen & Steers Total Return Realty Fund
+NYSE,RFL,Rafael Holdings Inc
+NYSE,RFM,Rivernorth Flexible Municipal Income Fund Inc
+NYSE,RFP,Resolute Forest Products Inc
+NYSE,RGA,Reinsurance Group of America Inc
+NYSE,RGR,Sturm Ruger & Company
+NYSE,RGS,Regis Corp
+NYSE,RGT,Royce Global Value Trust Inc
+NYSE,RH,Restoration Hardware Holdings
+NYSE,RHI,Robert Half International Inc
+NYSE,RHP,Ryman Hospitality Properties REIT
+NYSE,RIG,Transocean Inc
+NYSE,RIO,Rio Tinto Plc
+NYSE,RIV,Rivernorth Opportunities Fund
+NYSE,RJF,Raymond James Financial
+NYSE,RKT,Rocket Companies Inc Cl A
+NYSE,RL,Ralph Lauren Corp
+NYSE,RLGY,Realogy Holdings Corp
+NYSE,RLI,Rli Corp
+NYSE,RLJ,Rlj Lodging Trust
+NYSE,RM,Regional Managment Corp
+NYSE,RMAX,Re/Max Holdings Inc
+NYSE,RMD,Resmed Inc
+NYSE,RMI,Rivernorth Opportunistic Municipal Income Fund
+NYSE,RMM,Rivernorth Managed Duration Municipal Income Fun
+NYSE,RMO,Romeo Power Inc
+NYSE,RMT,Royce Micro-Cap Trust
+NYSE,RNG,Ringcentral Inc
+NYSE,RNGR,Ranger Energy Services Inc Cl A
+NYSE,RNP,Cohen & Steers REIT and Preferred
+NYSE,RNR,Renaissancere Holdings Ltd
+NYSE,ROG,Rogers Corp
+NYSE,ROK,Rockwell Automation Inc
+NYSE,ROL,Rollins Inc
+NYSE,ROP,Roper Industries
+NYSE,RPAI,Retail Properties of America
+NYSE,RPM,RPM International Inc
+NYSE,RPT,Ramco-Gershenson Properties Trust
+NYSE,RQI,Cohen & Steers Quality Income Realty Fund Inc
+NYSE,RRC,Range Resources Corp
+NYSE,RRD,Donnelley R.R. & Sons Company
+NYSE,RS,Reliance Steel & Aluminum Company
+NYSE,RSF,Rivernorth Marketplace Lending Corp
+NYSE,RSG,Republic Services
+NYSE,RSI,Rush Street Interactive Inc
+NYSE,RTX,Raytheon Technologies Corp
+NYSE,RVI,Retail Value Inc
+NYSE,RVLV,Revolve Group Inc
+NYSE,RVT,Royce Value Trust
+NYSE,RWT,Redwood Trust
+NYSE,RXN,Rexnord Corp
+NYSE,RY,Royal Bank of Canada
+NYSE,RYAM,Rayonier Advanced Materials Inc
+NYSE,RYB,Ryb Education Inc Aps
+NYSE,RYI,Ryerson Holding Corp
+NYSE,RYN,Rayonier Inc REIT
+NYSE,RZA,Reinsurance Group of America
+NYSE,RZB,Reinsurance Group of America
+NYSE,SA,Seabridge Gold
+NYSE,SAF,Saratoga Investment Corp
+NYSE,SAFE,Safehold Inc
+NYSE,SAH,Sonic Automotive
+NYSE,SAIC,Science Applications International
+NYSE,SAIL,Sailpoint Technologies Holdings Inc
+NYSE,SAK,Saratoga Investment Corp 7.25% Notes Due 2025
+NYSE,SAM,Boston Beer Company
+NYSE,SAN,Banco Santander
+NYSE,SAND,Sandstorm Gold Ltd
+NYSE,SAP,SAP Ag
+NYSE,SAR,Saratoga Investment Corp
+NYSE,SAVE,Spirit Airlines Inc
+NYSE,SB,Safe Bulkers Inc
+NYSE,SBBA,Scorpio Tankers Inc 7.00% Senior Notes Due 2025
+NYSE,SBH,Sally Beauty Holdings
+NYSE,SBI,Western Asset Intermediate Fund Inc
+NYSE,SBOW,Silverbow Resources Inc
+NYSE,SBR,Sabine Royalty Trust
+NYSE,SBS,Cia DE Saneamento Basico Do Estado
+NYSE,SBSW,Sibanye Gold Ltd ADR
+NYSE,SC,Santander Consumer USA Holdings
+NYSE,SCCO,Southern Copper Corp
+NYSE,SCD,Lmp Capital and Income Fund Inc
+NYSE,SCHW,The Charles Schwab Corp
+NYSE,SCI,Service Corp International
+NYSE,SCL,Stepan Company
+NYSE,SCM,Stellus Capital Investment Cor
+NYSE,SCPE,SC Health Corp Cl A
+NYSE,SCS,Steelcase Inc
+NYSE,SCU,Sculptor Capital Management Inc
+NYSE,SCVX,Scvx Corp Cl A
+NYSE,SCX,L.S. Starrett Company
+NYSE,SD,Sandridge Energy Inc
+NYSE,SE,Sea Ltd ADR
+NYSE,SEAS,Seaworld Entertainment Inc Company
+NYSE,SEE,Sealed Air Corp
+NYSE,SEM,Select Medical Holdings Corp
+NYSE,SF,Stifel Financial Corp
+NYSE,SFE,Safeguard Scientifics
+NYSE,SFL,Ship Finance International
+NYSE,SFTW,Osprey Technology Acquisition Corp Cl A
+NYSE,SFUN,Fang Holdings Ltd
+NYSE,SGU,Star Gas Partners LP
+NYSE,SHAK,Shake Shack Inc
+NYSE,SHG,Shinhan Financial Group Co. Ltd
+NYSE,SHI,Sinopec Shangai Petrochemical Company Ltd
+NYSE,SHLX,Shell Midstream Partners LP
+NYSE,SHO,Sunstone Hotel Investors
+NYSE,SHOP,Shopify Inc
+NYSE,SHW,Sherwin-Williams Company
+NYSE,SI,Silvergate Capital Corp Cl A
+NYSE,SID,Companhia Siderurgica Nacional
+NYSE,SIG,Signet Jewelers Ltd
+NYSE,SII,Sprott Inc
+NYSE,SITC,Site Centers Corp
+NYSE,SITE,Siteone Landscape Supply
+NYSE,SIX,Six Flags Entertainment Corp
+NYSE,SJI,South Jersey Industries
+NYSE,SJIJ,South Jersey Industries Inc 5.625% Junior
+NYSE,SJM,J.M. Smucker Company
+NYSE,SJR,Shaw Communications Inc
+NYSE,SJT,San Juan Basin Royalty Trust
+NYSE,SJW,SJW Corp
+NYSE,SKLZ,Skillz Inc
+NYSE,SKM,Sk Telecom Corp
+NYSE,SKT,Tanger Factory Outlet Centers
+NYSE,SKX,Skechers U.S.A.
+NYSE,SKY,Skyline Corp
+NYSE,SLB,Schlumberger N.V.
+NYSE,SLCA,U.S. Silica Holdings Inc
+NYSE,SLF,Sun Life Financial Inc
+NYSE,SLG,SL Green Realty Corp
+NYSE,SLQT,Selectquote Inc
+NYSE,SM,Sm Energy Company
+NYSE,SMAR,Smartsheet Inc Cl A
+NYSE,SMFG,Sumitomo Mitsui Financial Group Inc
+NYSE,SMG,Scotts Miracle-Gro Company
+NYSE,SMHI,Seacor Marine Holdings Inc
+NYSE,SMLP,Summit Midstream Partners LP
+NYSE,SMM,Salient Midstream & MLP Fund
+NYSE,SMP,Standard Motor Products
+NYSE,SNA,Snap-On Inc
+NYSE,SNAP,Snap Inc
+NYSE,SNDR,Schneider National Inc
+NYSE,SNN,Smith & Nephew Snats
+NYSE,SNOW,Snowflake Inc Cl A
+NYSE,SNP,China Petroleum & Chemical Corp
+NYSE,SNR,New Senior Investment Group Inc
+NYSE,SNV,Synovus Financial Corp
+NYSE,SNX,Synnex Corp
+NYSE,SO,Southern Company
+NYSE,SOAC,Sustainable Opportunities Acquisition Cl A
+NYSE,SOGO,Sogou Inc
+NYSE,SOI,Solaris Oilfield Infrastructure Inc Cl A
+NYSE,SOJB,Southern Company
+NYSE,SOJC,Southern Company Series 2017B 5.25% Junior
+NYSE,SOJD,Southern Company Series 2020A 4.95% Junior
+NYSE,SOJE,Southern Company Series 2020C 4.20%
+NYSE,SOL,Renesola Ltd
+NYSE,SOLN,Southern Company
+NYSE,SON,Sonoco Products Company
+NYSE,SOR,Source Capital
+NYSE,SOS,Sos Ltd
+NYSE,SPB,Spectrum Brands Holdings Inc
+NYSE,SPCE,Virgin Galactic Holdings Inc
+NYSE,SPE,Special Opportunities Fund Inc
+NYSE,SPG,Simon Property Group
+NYSE,SPGI,S&P Global Inc
+NYSE,SPH,Suburban Propane Partners LP
+NYSE,SPLP,Steel Partners Hlds
+NYSE,SPOT,Spotify Technology S.A.
+NYSE,SPR,Spirit Aerosystems Holdings
+NYSE,SPXC,SPX Corp
+NYSE,SPXX,Nuveen Equity Premium and Growth Fund
+NYSE,SQ,Square
+NYSE,SQM,Sociedad Quimica Y Minera S.A.
+NYSE,SQNS,Sequans Communications S A
+NYSE,SR,Spire Inc
+NYSE,SRC,Spirit Realty Capital Inc
+NYSE,SRE,Sempra Energy
+NYSE,SREA,Sempra Energy 5.750% Junior
+NYSE,SRG,Seritage Growth Properties
+NYSE,SRI,Stoneridge Inc
+NYSE,SRL,Scully Royalty Ltd
+NYSE,SRLP,Sprague Resources LP
+NYSE,SRT,Startek Inc
+NYSE,SRV,The Cushing MLP Total Return Fund
+NYSE,SSD,Simpson Manufacturing Company
+NYSE,SSL,Sasol Ltd
+NYSE,SSTK,Shutterstock Inc
+NYSE,ST,Sensata Technologies Holding N.V.
+NYSE,STAG,Stag Industrial Inc
+NYSE,STAR,Istar Financial Inc
+NYSE,STC,Stewart Information Services Corp
+NYSE,STE,Steris Corp
+NYSE,STG,Sunlands Online Education Group ADR
+NYSE,STK,Columbia Seligman Premium Technology
+NYSE,STL,Sterling Bancorp
+NYSE,STLA,Stellantis N.V.
+NYSE,STM,Stmicroelectronics N.V.
+NYSE,STN,Stantec Inc
+NYSE,STNG,Scorpio Tankers Inc
+NYSE,STON,Stonemor Partners LP
+NYSE,STOR,Store Capital Corp
+NYSE,STT,State Street Corp
+NYSE,STWD,Starwood Property Trust
+NYSE,STZ,Constellation Brands Inc
+NYSE,SU,Suncor Energy Inc
+NYSE,SUI,Sun Communities
+NYSE,SUM,Summit Materials Inc
+NYSE,SUN,Sunoco LP
+NYSE,SUP,Superior Industries International
+NYSE,SUPV,Grupo Supervielle S.A.
+NYSE,SUZ,Suzano Papel E Celul
+NYSE,SWCH,Switch Inc
+NYSE,SWI,Solarwinds Corp
+NYSE,SWK,Stanley Black & Decker Inc
+NYSE,SWM,Schweitzer-Mauduit International
+NYSE,SWN,Southwestern Energy Company
+NYSE,SWT,Stanley Black & Decker Inc
+NYSE,SWX,Southwest Gas Corp
+NYSE,SWZ,Swiss Helvetia Fund
+NYSE,SXC,Suncoke Energy Inc
+NYSE,SXI,Standex International Corp
+NYSE,SXT,Sensient Technologies Corp
+NYSE,SYF,Synchrony Financial
+NYSE,SYK,Stryker Corp
+NYSE,SYX,Systemax Inc
+NYSE,SYY,Sysco Corp
+NYSE,SZC,The Cushing Renaissance Fund
+NYSE,T,AT&T Inc
+NYSE,TAC,Transalta Corp
+NYSE,TAK,Takeda Pharmaceutical Co. Ltd
+NYSE,TAL,Tal Education Group
+NYSE,TALO,Talos Energy Inc
+NYSE,TAP,Molson Coors Brewing Company
+NYSE,TARO,Taro Pharm Inds
+NYSE,TBB,AT&T Inc 5.350% Global Notes Due 2066
+NYSE,TBC,AT&T Inc 5.625% Global Notes Due 2067
+NYSE,TBI,Trueblue Inc
+NYSE,TCI,Transcontinental Realty Investors
+NYSE,TCS,The Container Store Group Inc
+NYSE,TD,Toronto Dominion Bank
+NYSE,TDA,Telephone and Data Systems Inc
+NYSE,TDC,Teradata Corp
+NYSE,TDE,Telephone and Data Systems
+NYSE,TDF,Templeton Dragon Fund
+NYSE,TDG,Transdigm Group Inc
+NYSE,TDI,Telephone and Data Systems
+NYSE,TDJ,Telephone and Data Systems Inc
+NYSE,TDOC,Teladoc Health Inc
+NYSE,TDS,Telephone and Data Systems
+NYSE,TDW,Tidewater Inc
+NYSE,TDY,Teledyne Technologies Inc
+NYSE,TEAF,Tortoise Essential Assets Income Term Fund
+NYSE,TECK,Teck Resources Ltd
+NYSE,TEF,Telefonica S.A.
+NYSE,TEI,Templeton Emerging Markets
+NYSE,TEL,Te Connectivity Ltd
+NYSE,TEN,Tenneco Automotive
+NYSE,TEO,Telecom Argentina Stet France Telecom S.A.
+NYSE,TEVA,Teva Pharmaceutical Industries Ltd
+NYSE,TEX,Terex Corp
+NYSE,TFC,Truist Financial Corp
+NYSE,TFII,Tfi International Inc
+NYSE,TFX,Teleflex Inc
+NYSE,TG,Tredegar Corp
+NYSE,TGH,Textainer Group Holdings
+NYSE,TGI,Triumph Group
+NYSE,TGNA,Tegna Inc
+NYSE,TGP,Teekay Lng Partners LP
+NYSE,TGS,Transportadora DE Gas Sa Ord B
+NYSE,TGT,Target Corp
+NYSE,THC,Tenet Healthcare Corp
+NYSE,THG,The Hanover Insurance Group
+NYSE,THO,Thor Industries
+NYSE,THQ,Tekla Healthcare Opportunities
+NYSE,THR,Thermon Group Holdings Inc
+NYSE,THS,Treehouse Foods
+NYSE,THW,Tekla World Healthcare Fund
+NYSE,TIMB,Tim S.A. ADR
+NYSE,TISI,Team Inc
+NYSE,TJX,TJX Companies
+NYSE,TK,Teekay Shipping Corp
+NYSE,TKC,Turkcell Iletisim Hizmetleri As
+NYSE,TKR,Timken Company
+NYSE,TLK,P.T. Telekomunikasi Indonesia Tbk
+NYSE,TLYS,Tilly's Inc
+NYSE,TM,Toyota Motor Corp Ltd Ord
+NYSE,TME,Tencent Music Entertainment ADR
+NYSE,TMHC,Taylor Morrison Home Corp
+NYSE,TMO,Thermo Fisher Scientific Inc
+NYSE,TMST,Timken Steel Corp
+NYSE,TMX,Terminix Global Hldgs Inc
+NYSE,TNC,Tennant Company
+NYSE,TNET,Trinet Group Inc
+NYSE,TNK,Teekay Tankers Ltd
+NYSE,TNL,Travel + Leisure Co.
+NYSE,TNP,Tsakos Energy Navigation Ltd
+NYSE,TOL,Toll Brothers Inc
+NYSE,TOT,Totalfinaelf S.A.
+NYSE,TPB,Turning Point Brands
+NYSE,TPC,Tutor Perini Corp
+NYSE,TPH,Tri Pointe Homes Inc
+NYSE,TPL,Texas Pacific Land Trust
+NYSE,TPR,Tapestry Inc
+NYSE,TPVG,Triplepoint Venture Growth Bdc
+NYSE,TPX,Tempur-Pedic International Inc
+NYSE,TPZ,Tortoise Power and Energy
+NYSE,TR,Tootsie Roll Industries
+NYSE,TRC,Tejon Ranch Company
+NYSE,TREB,Trebia Acquisition Corp Cl A
+NYSE,TREC,Trecora Resources
+NYSE,TREX,Trex Company
+NYSE,TRGP,Targa Resources
+NYSE,TRI,Thomson Reuters Corp
+NYSE,TRN,Trinity Industries
+NYSE,TRNO,Terreno Realty Corp
+NYSE,TROX,Tronox Inc
+NYSE,TRP,Tc Energy Corp
+NYSE,TRQ,Turquoise Hill Resources Ltd
+NYSE,TRTN,Triton International Ltd
+NYSE,TRTX,Tpg Re Finance Trust Inc
+NYSE,TRU,Transunion
+NYSE,TRV,The Travelers Companies Inc
+NYSE,TS,Tenaris S.A.
+NYSE,TSE,Trinseo S.A.
+NYSE,TSI,Tcw Strategic
+NYSE,TSLX,Tpg Specialty Lending Inc
+NYSE,TSM,Taiwan Semiconductor Manufacturing
+NYSE,TSN,Tyson Foods
+NYSE,TSQ,Townsquare Media Llc
+NYSE,TT,Trane Technologies Plc
+NYSE,TTC,Toro Company
+NYSE,TTI,Tetra Technologies
+NYSE,TTM,Tata Motors Ltd
+NYSE,TTP,Tortoise Pipeline & Energy Fund
+NYSE,TU,Telus Corp
+NYSE,TUFN,Tufin Software Technologies Ltd
+NYSE,TUP,Tupperware Corp
+NYSE,TV,Grupo Televisa S.A.
+NYSE,TVC,Tennessee Valley Authority
+NYSE,TVE,Tennessee Valley Authority
+NYSE,TWI,Titan International
+NYSE,TWLO,Twilio
+NYSE,TWN,Taiwan Fund
+NYSE,TWO,Two Harbors Invt Corp
+NYSE,TWTR,Twitter Inc
+NYSE,TX,Ternium S.A.
+NYSE,TXT,Textron Inc
+NYSE,TY,Tri Continental Corp
+NYSE,TY.P,Tri Contl Corp [Ty/P]
+NYSE,TYG,Tortoise Energy Infrastructure Corp
+NYSE,TYL,Tyler Technologies
+NYSE,U,Unity Software Inc
+NYSE,UA,Under Armour Inc Cl C
+NYSE,UAA,Under Armour
+NYSE,UAN,Cvr Partners LP
+NYSE,UBA,Urstadt Biddle Properties Inc
+NYSE,UBER,Uber Technologies Inc
+NYSE,UBP,Urstadt Biddle Properties Inc
+NYSE,UBS,UBS Group Ag
+NYSE,UDR,United Dominion Realty Trust
+NYSE,UE,Urban Edge Properties
+NYSE,UFI,Unifi Inc
+NYSE,UFS,Domtar Corp
+NYSE,UGI,Ugi Corp
+NYSE,UGP,Ultrapar Participacoes S.A.
+NYSE,UHS,Universal Health Services
+NYSE,UHT,Universal Health Realty Income Trust
+NYSE,UI,Ubiquiti Networks
+NYSE,UIS,Unisys Corp
+NYSE,UL,Unilever Plc
+NYSE,UMC,United Microelectronics Corp
+NYSE,UMH,Umh Properties
+NYSE,UNF,Unifirst Corp
+NYSE,UNFI,United Nat Foods
+NYSE,UNH,Unitedhealth Group Inc
+NYSE,UNM,Unumprovident Corp
+NYSE,UNMA,Unum Group 6.250% Junior
+NYSE,UNP,Union Pacific Corp
+NYSE,UNVR,Univar Inc
+NYSE,UPS,United Parcel Service
+NYSE,URI,United Rentals
+NYSE,USA,Liberty All-Star Equity Fund
+NYSE,USAC,USA Compression Partners LP
+NYSE,USB,U.S. Bancorp
+NYSE,USDP,USD Partners LP
+NYSE,USFD,US Foods Holding
+NYSE,USM,United States Cellular Corp
+NYSE,USNA,Usana Health Sciences Inc
+NYSE,USPH,U.S. Physical Therapy
+NYSE,USX,U.S. Xpress Enterprises Inc Cl A
+NYSE,UTF,Cohen & Steers Infrastructure Fund
+NYSE,UTI,Universal Technical Institute Inc
+NYSE,UTL,Unitil Corp
+NYSE,UTZ,Utz Brands Inc
+NYSE,UVE,Universal Insurance Holdings Inc
+NYSE,UVV,Universal Corp
+NYSE,UWMC,Uwm Hldg Corp
+NYSE,UZA,United States Cellular Corp
+NYSE,UZB,United States Cellular Corp
+NYSE,UZC,United States Cellular Corp
+NYSE,UZD,United States Cellular Corp 6.250% Senior
+NYSE,V,Visa Inc
+NYSE,VAC,Marriot Vacations Worldwide Cor
+NYSE,VALE,Vale S.A.
+NYSE,VAPO,Vapotherm Inc
+NYSE,VBF,Invesco Van Kampen Bond Fund
+NYSE,VCIF,Vertical Capital Income Fund Common Shares of BE
+NYSE,VCRA,Vocera Communications Inc
+NYSE,VCV,Invesco California Value Muni Income Trust
+NYSE,VEC,Vectrus Inc
+NYSE,VEDL,Vedanta Ltd
+NYSE,VEEV,Veeva Systems Inc
+NYSE,VEL,Velocity Financial Inc
+NYSE,VER,Vereit Inc
+NYSE,VET,Vermilion Energy Inc
+NYSE,VFC,V.F. Corp
+NYSE,VGI,Virtus Global Multi-Sector Inc
+NYSE,VGM,Invesco Trust For Investment Grade Municipals
+NYSE,VGR,Vector Group Ltd
+NYSE,VHC,Virnetx Holding Corp
+NYSE,VHI,Valhi Inc
+NYSE,VIAO,Via Optronics Ag ADR
+NYSE,VICI,Vici Properties Inc
+NYSE,VIPS,Vipshop Holdings Ltd
+NYSE,VIST,Vista Oil & Gas S.A.B. DE C.V.
+NYSE,VIV,Telecomunicacoes DE Sao Paulo ADR
+NYSE,VKQ,Invesco Muni Trust
+NYSE,VLO,Valero Energy Corp
+NYSE,VLRS,Controladora Vuela Compaia DE
+NYSE,VLT,Invesco High
+NYSE,VMC,Vulcan Materials Company
+NYSE,VMI,Valmont Industries
+NYSE,VMO,Invesco Muni Opportunity Trust
+NYSE,VMW,Vmware Inc
+NYSE,VNCE,Vince Holding Corp
+NYSE,VNE,Veoneer Inc
+NYSE,VNO,Vornado Realty Trust
+NYSE,VNTR,Venator Materials Plc
+NYSE,VOC,Voc Energy Trust
+NYSE,VOYA,VOYA Financial Inc
+NYSE,VPG,Vishay Precision Group
+NYSE,VPV,Invesco Pennsylvania Muni
+NYSE,VRS,Verso Corp
+NYSE,VRT,Vertiv Holdings Llc.
+NYSE,VRTV,Veritiv Corp
+NYSE,VSH,Vishay Intertechnology
+NYSE,VST,Vistra Energy Corp
+NYSE,VSTO,Vista Outdoor Inc
+NYSE,VTA,Invesco Dynamic Credit Fund
+NYSE,VTN,Invesco Trust New York Muni
+NYSE,VTOL,Bristow Group Inc
+NYSE,VTR,Ventas Inc
+NYSE,VVI,Viad Corp
+NYSE,VVNT,Vivint Smart Home Inc
+NYSE,VVR,Invesco Senior Income Trust
+NYSE,VVV,Valvoline Inc
+NYSE,VZ,Verizon Communications Inc
+NYSE,W,Wayfair Inc
+NYSE,WAB,Wabtec Corp
+NYSE,WAL,Western Alliance Bancorp
+NYSE,WALA,Western Alliance Bancorp
+NYSE,WAT,Waters Corp
+NYSE,WBK,Westpac Banking Corp
+NYSE,WBS,Webster Financial Corp
+NYSE,WBT,Welbilt Inc
+NYSE,WCC,Wesco International
+NYSE,WCN,Waste Connections Inc
+NYSE,WD,Walker & Dunlop
+NYSE,WDR,Waddell & Reed Financial
+NYSE,WEA,Western Asset Bond Fund
+NYSE,WEC,Wisconsin Energy Corp
+NYSE,WEI,Weidai Ltd ADR
+NYSE,WELL,Welltower Inc
+NYSE,WES,Western Midstream Partners LP
+NYSE,WEX,Wex Inc
+NYSE,WF,Woori Finance Holdings Co. Ltd
+NYSE,WFC,Wells Fargo & Company
+NYSE,WFG,West Fraser Timber L
+NYSE,WGO,Winnebago Industries
+NYSE,WH,Wyndham Hotels & Resorts Inc
+NYSE,WHD,Cactus Inc Cl A
+NYSE,WHG,Westwood Holdings Group Inc
+NYSE,WHR,Whirlpool Corp
+NYSE,WIA,U.S. Treasury Inflation Prot Secs Fd
+NYSE,WIT,Wipro Ltd
+NYSE,WIW,U.S Treasury Inflation Prot Secs Fd 2
+NYSE,WK,Workiva Llc
+NYSE,WLK,Westlake Chemical Corp
+NYSE,WLKP,Westlake Chemical Partners LP
+NYSE,WLL,Whiting Petroleum Corp
+NYSE,WM,Waste Management
+NYSE,WMB,Williams Companies
+NYSE,WMC,Western Asset Mortgage Capital
+NYSE,WMK,Weis Markets
+NYSE,WMS,Advanced Drainage Systems Inc
+NYSE,WMT,Wal-Mart Stores
+NYSE,WNC,Wabash National Corp
+NYSE,WNS,Wns Ltd
+NYSE,WOR,Worthington Industries
+NYSE,WORK,Slack Technologies Inc
+NYSE,WOW,Wideopenwest Inc
+NYSE,WPC,W.P. Carey & Co. Llc
+NYSE,WPF,Foley Trasimene Acquisition Cl A
+NYSE,WPG,Washington Prime Group Inc
+NYSE,WPM,Wheaton Precious Metals
+NYSE,WPP,Wpp Plc ADR
+NYSE,WRB,W.R. Berkley Corp
+NYSE,WRE,Washington Real Estate Investment
+NYSE,WRI,Weingarten Realty Investors
+NYSE,WRK,Westrock Company
+NYSE,WSM,Williams-Sonoma
+NYSE,WSO,Watsco Inc
+NYSE,WSR,Whitestone REIT
+NYSE,WST,West Pharmaceutical Services
+NYSE,WTI,W&T Offshore
+NYSE,WTM,White Mountains Insurance Group
+NYSE,WTRG,Essential Utilities Inc
+NYSE,WTRU,Aqua America Inc 6.00% Tangible Equity Units
+NYSE,WTS,Watts Water Technologies
+NYSE,WTTR,Select Energy Services Inc
+NYSE,WU,Western Union Company
+NYSE,WWE,World Wrestling Entertainment
+NYSE,WWW,Wolverine World Wide
+NYSE,WY,Weyerhaeuser Company
+NYSE,X,United States Steel Corp
+NYSE,XEC,Cimarex Energy Company
+NYSE,XFLT,Xai Octagon Floating Alt Income Term Trust Compa
+NYSE,XHR,Xenia Hotels & Resorts Inc
+NYSE,XIN,Xinyuan Real Estate Co. Ltd
+NYSE,XL,XL Fleet Corp
+NYSE,XOM,Exxon Mobil Corp
+NYSE,XPEV,Xpeng Inc ADR
+NYSE,XPO,Xpo Logistics Inc
+NYSE,XRX,Xerox Corp
+NYSE,XYF,X Financial
+NYSE,XYL,Xylem Inc
+NYSE,Y,Alleghany Corp
+NYSE,YAC,Yucaipa Acquisition Corp Cl A
+NYSE,YELP,Yelp Inc
+NYSE,YETI,Yeti Holdings Inc
+NYSE,YEXT,Yext Inc
+NYSE,YPF,Ypf Sociedad Anonima
+NYSE,YRD,Yirendai Ltd
+NYSE,YUM,Yum! Brands
+NYSE,YUMC,Yum China Holdings Inc
+NYSE,ZBH,Zimmer Biomet Holdings
+NYSE,ZEN,Zendesk Inc
+NYSE,ZNH,China Southern Airlines Company
+NYSE,ZTO,Zto Express Cayman Inc
+NYSE,ZTR,Virtus Global Divd & Income Fund
+NYSE,ZTS,Zoetis Inc Cl A
+NYSE,ZUO,Zuora Inc
+NYSE,ZYME,Zymeworks Inc
