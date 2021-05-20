@@ -163,6 +163,7 @@ server <- function(input, output, session) {
                 tickers = input$ticker,
                 first.date = first_date,
                 last.date = last_date,
+                cache.folder = cache_folder_stocks,
                 thresh.bad.data = 0.1)[[2]]
         })
         
@@ -187,7 +188,7 @@ server <- function(input, output, session) {
                 first.date = first_date,
                 last.date = last_date,
                 thresh.bad.data = 0.1, 
-                cache.folder = 'data/bgs-cache')[[2]]
+                cache.folder = cache_folder_indices)[[2]]
         })
         
         return(tib_prices)
