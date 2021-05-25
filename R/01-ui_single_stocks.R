@@ -30,10 +30,15 @@ ui_single_stocks <- function(){
                    tabPanel(title = 'Price Plot',
                             htmlOutput('company_name'),
                             tags$hr(),
-                            plotOutput("price_plot")
+                            withSpinner(plotOutput("price_plot"))
                    ),
-                   tabPanel(title = 'Performance',
-                            tableOutput('perf_table1')
+                   tabPanel(title = 'Performance Table',
+                            withSpinner(tableOutput('perf_table1'),
+                                        type = 4)
+                   ),
+                   tabPanel(title = 'Return by Horizon',
+                            withSpinner(plotOutput('ret_plot'),
+                                        type = 4)
                    ),
                    tabPanel(title = 'Download Data',
                             downloadBttn(

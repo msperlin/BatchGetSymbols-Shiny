@@ -17,6 +17,7 @@ library(dplyr)
 library(purrr)
 library(scales)
 library(PerformanceAnalytics)
+library(shinycssloaders)
 
 # load data
 #source('global.R', local = TRUE)
@@ -27,9 +28,9 @@ ui <- dashboardPage(skin = 'blue',
     ## Sidebar content
     dashboardSidebar(
         sidebarMenu(
-            menuItem("Single Stocks", tabName = "single_stocks", icon = icon("dashboard")),
+            menuItem("Single Stock/Index", tabName = "single_stocks", icon = icon("dashboard")),
             menuItem("Multiple Stocks", tabName = "multiple_stocks", icon = icon("th")),
-            menuItem("Indices", tabName = "indices", icon = icon("chart-line")),
+            #menuItem("Indices", tabName = "indices", icon = icon("chart-line")),
             menuItem("About", tabName = "about", icon = icon("address-card"))
         )
     ),
@@ -42,7 +43,7 @@ ui <- dashboardPage(skin = 'blue',
             ui_multiple_stocks(),
             
             # Indices stocks tab ----
-            ui_index_tab(),
+            #ui_index_tab(),
             
             # about pannel ----
             ui_about()
@@ -57,6 +58,14 @@ ui <- dashboardPage(skin = 'blue',
 
 # Define server logic required to draw a histogram
 server <- function(input, output, session) {
+    
+    output$ret_plot <- renderPlot({
+        df_in <- get_single_price()
+        
+        p <- do_perf_plot(df_in)
+        p
+        
+    })
     
     output$dl_single_csv <- downloadHandler(
         filename = function() {

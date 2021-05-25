@@ -20,10 +20,11 @@ ui_multiple_stocks <- function(){
             tabBox(width = 9,
                    tabPanel(title = 'Price Plot',
                             tags$hr(),
-                            plotOutput("multiple_price_plot")
+                            withSpinner(plotOutput("multiple_price_plot"))
                    ),
                    tabPanel(title = 'Performance',
-                            tableOutput('perf_table2')
+                            withSpinner(tableOutput('perf_table2'), 
+                                        type = 4)
                    ),
                    tabPanel(title = 'Download Data',
                             downloadBttn(

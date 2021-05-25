@@ -19,10 +19,11 @@ ui_index_tab <- function(){
             tabBox(width = 8,
                    tabPanel(title = 'Price Plot',
                             tags$hr(),
-                            plotOutput("index_price_plot")
+                            withSpinner(plotOutput("index_price_plot"))
                    ),
                    tabPanel(title = 'Performance',
-                            tableOutput('perf_table3')
+                            withSpinner(tableOutput('perf_table3'), 
+                                        type = 4)
                    ),
                    tabPanel(title = 'Download Data',
                             downloadBttn(

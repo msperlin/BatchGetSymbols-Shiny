@@ -12,8 +12,8 @@ df_collections <- readr::read_csv('data/collections.csv',
 
 available_collections <- sort(unique(df_collections$collection))
 
-stock_indices <- readr::read_csv('data/stock_indices.csv',
-                                  col_types = readr::cols())
+# stock_indices <- readr::read_csv('data/stock_indices.csv',
+#                                   col_types = readr::cols())
 
 n_available_stocks <- dplyr::n_distinct(df_collections$ticker)
 

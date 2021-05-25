@@ -286,6 +286,7 @@ B3/Bovespa,CTNM4.SA,CTNM4.SA
 B3/Bovespa,CTSA3.SA,CTSA3.SA
 B3/Bovespa,CTSA4.SA,CTSA4.SA
 B3/Bovespa,CTSH34.SA,CTSH34.SA
+B3/Bovespa,CURY3.SA,CURY3.SA
 B3/Bovespa,CVCB3.SA,CVCB3.SA
 B3/Bovespa,CVSH34.SA,CVSH34.SA
 B3/Bovespa,CYRE3.SA,CYRE3.SA
@@ -690,6 +691,7 @@ B3/Bovespa,PARD3.SA,PARD3.SA
 B3/Bovespa,PATI3.SA,PATI3.SA
 B3/Bovespa,PATI4.SA,PATI4.SA
 B3/Bovespa,PCAR3.SA,PCAR3.SA
+B3/Bovespa,PDTC3.SA,PDTC3.SA
 B3/Bovespa,PEAB3.SA,PEAB3.SA
 B3/Bovespa,PEAB4.SA,PEAB4.SA
 B3/Bovespa,PEPB34.SA,PEPB34.SA
@@ -704,6 +706,7 @@ B3/Bovespa,PHGN34.SA,PHGN34.SA
 B3/Bovespa,PHMO34.SA,PHMO34.SA
 B3/Bovespa,PINE4.SA,PINE4.SA
 B3/Bovespa,PLAS3.SA,PLAS3.SA
+B3/Bovespa,PLPL3.SA,PLPL3.SA
 B3/Bovespa,PMAM3.SA,PMAM3.SA
 B3/Bovespa,PNCS34.SA,PNCS34.SA
 B3/Bovespa,PNVL3.SA,PNVL3.SA
@@ -784,6 +787,7 @@ B3/Bovespa,SAPP34.SA,SAPP34.SA
 B3/Bovespa,SAPR3.SA,SAPR3.SA
 B3/Bovespa,SAPR4.SA,SAPR4.SA
 B3/Bovespa,SAPR11.SA,SAPR11.SA
+B3/Bovespa,SBFG3.SA,SBFG3.SA
 B3/Bovespa,SBNY34.SA,SBNY34.SA
 B3/Bovespa,SBSP3.SA,SBSP3.SA
 B3/Bovespa,SBUB34.SA,SBUB34.SA
@@ -794,6 +798,7 @@ B3/Bovespa,SGPS3.SA,SGPS3.SA
 B3/Bovespa,SHOW3.SA,SHOW3.SA
 B3/Bovespa,SHUL3.SA,SHUL3.SA
 B3/Bovespa,SHUL4.SA,SHUL4.SA
+B3/Bovespa,SIMH3.SA,SIMH3.SA
 B3/Bovespa,SIMN34.SA,SIMN34.SA
 B3/Bovespa,SLBC34.SA,SLBC34.SA
 B3/Bovespa,SLBG34.SA,SLBG34.SA
@@ -847,6 +852,7 @@ B3/Bovespa,TEXA34.SA,TEXA34.SA
 B3/Bovespa,TGMA3.SA,TGMA3.SA
 B3/Bovespa,TGTB34.SA,TGTB34.SA
 B3/Bovespa,THGI34.SA,THGI34.SA
+B3/Bovespa,TIMS3.SA,TIMS3.SA
 B3/Bovespa,TJXC34.SA,TJXC34.SA
 B3/Bovespa,TKNO3.SA,TKNO3.SA
 B3/Bovespa,TKNO4.SA,TKNO4.SA
@@ -1097,6 +1103,7 @@ NYSE,AROC,Archrock Inc
 NYSE,ARR,Armour Residential R
 NYSE,ARW,Arrow Electronics
 NYSE,ASA,ASA Gold and Precious Metals
+NYSE,ASAN,Asana Inc Cl A
 NYSE,ASB,Associated Banc-Corp
 NYSE,ASC,Ardmore Shipping Corp
 NYSE,ASG,Liberty All-Star Growth Fund
@@ -1260,13 +1267,13 @@ NYSE,BOX,Box Inc
 NYSE,BP,BP Plc
 NYSE,BPMP,BP Midstream Partners LP
 NYSE,BPT,BP Prudhoe Bay Royalty Trust
+NYSE,BQ,Boqii Holding Limited ADR
 NYSE,BR,Broadridge Financial Solutions Llc
 NYSE,BRBR,Bellring Brands Inc Cl A
 NYSE,BRC,Brady Corp
 NYSE,BRFS,Brf-Brasil Foods S.A.
 NYSE,BRMK,Broadmark Realty Capital Inc
 NYSE,BRO,Brown & Brown
-NYSE,BRT,BRT Realty Trust
 NYSE,BRX,Brixmor Property Group Inc
 NYSE,BSA,Brightsphere Investment Group Plc
 NYSE,BSAC,Banco Santander Chile ADR
@@ -1740,6 +1747,7 @@ NYSE,EXR,Extra Space Storage Inc
 NYSE,EXTN,Exterran Corp
 NYSE,F,Ford Motor Company
 NYSE,FAF,First American Corp
+NYSE,FAII,Fortress Value Acquisition Corp II Cl A
 NYSE,FAM,First Trust/Aberdeen Global Opportunity
 NYSE,FBC,Flagstar Bancorp
 NYSE,FBHS,Fortune Brands Home & Security
@@ -1752,7 +1760,6 @@ NYSE,FCPT,Four Corners Property Trust IN
 NYSE,FCRW,First Eagle Alternative Capital Gbc Inc
 NYSE,FCRZ,First Eagle Alternative Capital Bdc Inc
 NYSE,FCT,Senior Floating Rate II
-NYSE,FCX,Freeport-Mcmoran Inc
 NYSE,FDEU,First Trust Dynamic Europe Equi
 NYSE,FDP,Fresh Del Monte Produce
 NYSE,FDS,Factset Research Systems Inc
@@ -1972,7 +1979,6 @@ NYSE,HGLB,Highland Global Allocation Fund
 NYSE,HGV,Hilton Grand Vacations Inc
 NYSE,HHC,Howard Hughes Corp
 NYSE,HI,Hillenbrand Inc
-NYSE,HIE,Miller/Howard High Income Eqty
 NYSE,HIG,Hartford Financial Services Group
 NYSE,HII,Huntington Ingalls Industries
 NYSE,HIL,Hill International Inc
@@ -2229,7 +2235,6 @@ NYSE,LEG,Leggett & Platt Inc
 NYSE,LEJU,Leju Holdings Ltd
 NYSE,LEN,Lennar Corp
 NYSE,LEO,Dreyfus Strategic Municipals
-NYSE,LEVI,Levi Strauss & Co. Cl A
 NYSE,LFC,China Life Insurance Company Ltd
 NYSE,LFT,Lument Finance Trust Inc
 NYSE,LGI,Lazard Global Total Return and
@@ -2321,6 +2326,7 @@ NYSE,MGF,MFS Government Markets Income Trust
 NYSE,MGM,MGM Resorts International
 NYSE,MGP,MGM Growth Properties Llc
 NYSE,MGR,Affiliated Managers Group Inc
+NYSE,MGRB,Affiliated Managers Group Inc 4.750% Junior Sub
 NYSE,MGU,Macquarie Global Infrastructure Total Return Fun
 NYSE,MGY,Magnolia Oil & Gas Corp
 NYSE,MHD,Blackrock Muniholdings Fund
@@ -2488,7 +2494,6 @@ NYSE,NMS,Nuveen Minnesota Municipal Inco
 NYSE,NMT,Nuveen Massachusetts Premium Fund
 NYSE,NMZ,Nuveen Muni High Income Opportunity
 NYSE,NNA,Navios Maritime Acquisition Corp
-NYSE,NNI,Nelnet Inc
 NYSE,NNN,National Retail Properties
 NYSE,NNY,Nuveen New York Muni Value Fund
 NYSE,NOA,North American Construction Group Ltd.
@@ -2681,6 +2686,7 @@ NYSE,PLD,Prologis Inc
 NYSE,PLNT,Planet Fitness
 NYSE,PLOW,Douglas Dynamics
 NYSE,PLT,Plantronics
+NYSE,PLTR,Palantir Technologies Inc Cl A
 NYSE,PLYM,Plymouth Industrial REIT Inc
 NYSE,PM,Philip Morris International Inc
 NYSE,PMF,Pimco Muni
@@ -3203,7 +3209,6 @@ NYSE,VHI,Valhi Inc
 NYSE,VIAO,Via Optronics Ag ADR
 NYSE,VICI,Vici Properties Inc
 NYSE,VIPS,Vipshop Holdings Ltd
-NYSE,VIST,Vista Oil & Gas S.A.B. DE C.V.
 NYSE,VIV,Telecomunicacoes DE Sao Paulo ADR
 NYSE,VKQ,Invesco Muni Trust
 NYSE,VLO,Valero Energy Corp
@@ -3317,6 +3322,7 @@ NYSE,XYF,X Financial
 NYSE,XYL,Xylem Inc
 NYSE,Y,Alleghany Corp
 NYSE,YAC,Yucaipa Acquisition Corp Cl A
+NYSE,YALA,Yalla Group Limited ADR
 NYSE,YELP,Yelp Inc
 NYSE,YETI,Yeti Holdings Inc
 NYSE,YEXT,Yext Inc
@@ -3332,3 +3338,39 @@ NYSE,ZTR,Virtus Global Divd & Income Fund
 NYSE,ZTS,Zoetis Inc Cl A
 NYSE,ZUO,Zuora Inc
 NYSE,ZYME,Zymeworks Inc
+Market Indices,^GSPC,S&P 500
+Market Indices,^DJI,Dow Jones Industrial Average
+Market Indices,^IXIC,NASDAQ Composite
+Market Indices,^NYA,NYSE COMPOSITE (DJ)
+Market Indices,^XAX,NYSE AMEX COMPOSITE INDEX
+Market Indices,^BUK100P,Cboe UK 100
+Market Indices,^RUT,Russell 2000
+Market Indices,^VIX,Vix
+Market Indices,^FTSE,FTSE 100
+Market Indices,^GDAXI,DAX PERFORMANCE-INDEX
+Market Indices,^FCHI,CAC 40
+Market Indices,^STOXX50E,ESTX 50 PR.EUR
+Market Indices,^N100,EURONEXT 100
+Market Indices,^BFX,BEL 20
+Market Indices,IMOEX.ME,MOEX Russia Index
+Market Indices,^N225,Nikkei 225
+Market Indices,^HSI,HANG SENG INDEX
+Market Indices,000001.SS,SSE Composite Index
+Market Indices,399001.SZ,Shenzhen Component
+Market Indices,^STI,STI Index
+Market Indices,^AXJO,S&P/ASX 200
+Market Indices,^AORD,ALL ORDINARIES
+Market Indices,^BSESN,S&P BSE SENSEX
+Market Indices,^JKSE,Jakarta Composite Index
+Market Indices,^KLSE,FTSE Bursa Malaysia KLCI
+Market Indices,^NZ50,S&P/NZX 50 INDEX GROSS
+Market Indices,^KS11,KOSPI Composite Index
+Market Indices,^TWII,TSEC weighted index
+Market Indices,^GSPTSE,S&P/TSX Composite index
+Market Indices,^BVSP,IBOVESPA
+Market Indices,^MXX,IPC MEXICO
+Market Indices,^IPSA,S&P/CLX IPSA
+Market Indices,^MERV,MERVAL
+Market Indices,^TA125.TA,TA-125
+Market Indices,^CASE30,EGX 30 Price Return Index
+Market Indices,^JN0U.JO,Top 40 USD Net TRI Index
