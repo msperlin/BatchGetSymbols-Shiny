@@ -1,12 +1,3 @@
-#
-# This is a Shiny web application. You can run the application by clicking
-# the 'Run App' button above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
-
 library(shiny)
 library(ggplot2)
 library(BatchGetSymbols)
@@ -20,10 +11,11 @@ library(PerformanceAnalytics)
 library(shinycssloaders)
 
 # load data
-#source('global.R', local = TRUE)
+# all global data is set in 'R/global.R'
 
 # Define UI for application that draws a histogram
 ui <- dashboardPage(skin = 'blue',
+                    
     dashboardHeader(title = "BatchGetSymbols"),
     ## Sidebar content
     dashboardSidebar(
@@ -35,6 +27,11 @@ ui <- dashboardPage(skin = 'blue',
         )
     ),
     dashboardBody(
+        tags$head(
+            includeHTML("ganalytics/ganalytics.html"), # GAnalytics
+            tags$link(rel = "stylesheet",  # my CSS
+                      type = "text/css", 
+                      href = 'my_css.css')),
         tabItems(
             # Single stocks tab ----
             ui_single_stocks(),
@@ -296,12 +293,8 @@ server <- function(input, output, session) {
             return(print(ggplot()))
         } else {
             output$text <- renderText(str_glue('Data Ok, got {nrow(df_prices)} rows'))
-            p <- ggplot(df_prices, aes(x = ref.date, y = price.adjusted)) + 
-                geom_line() + 
-                labs(title = str_glue('Plot for {isolate(input$ticker)}'),
-                     x = '',
-                     y = 'Ajusted Price') + 
-                theme_minimal()
+            
+            p <- do_single_stock_plot(df_prices, input)
             
             print(p)
         }
@@ -376,17 +369,8 @@ server <- function(input, output, session) {
                     calc_cumret, 
                     df_prices = df_prices)
             )
-            
-            p <- ggplot(df_prices_2, aes(x = ref.date, y = cum_ret,
-                                         color = ticker)) + 
-                geom_line() + 
-                labs(title = str_glue(
-                    'Prices of {n_distinct(df_prices_2$ticker)} stocks'),
-                    x = '',
-                    y = 'Cumulative Return') + 
-                theme_minimal() +
-                scale_y_continuous(labels = scales::percent)
-            
+           
+            p <- do_multiple_stock_plot(df_prices_2)
             print(p)
         }
         

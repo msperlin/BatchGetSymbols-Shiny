@@ -1,3 +1,47 @@
+get_subtitle <- function(df_prices) {
+  first_date <- min(df_prices$ref.date)
+  last_date <- max(df_prices$ref.date)
+  
+  subtitle_out <- str_glue('Data from {first_date} to {last_date}')
+  
+  return(subtitle_out)
+}
+
+do_multiple_stock_plot <- function(df_prices, input) {
+  
+  first_date <- min(df_prices$ref.date)
+  last_date <- max(df_prices$ref.date)
+  
+  p <- ggplot(df_prices, aes(x = ref.date, 
+                             y = cum_ret,
+                             color = ticker)) + 
+    geom_line() + 
+    labs(title = str_glue('Prices of {n_distinct(df_prices$ticker)} stocks'),
+         subtitle = get_subtitle(df_prices),
+         x = '',
+         y = 'Cumulative Return',
+         caption = my_caption
+    ) + 
+    theme_minimal() +
+    scale_y_continuous(labels = scales::percent)
+}
+
+do_single_stock_plot <- function(df_prices, input) {
+  
+  first_date <- min(df_prices$ref.date)
+  last_date <- max(df_prices$ref.date)
+  
+  p <- ggplot(df_prices, aes(x = ref.date, y = price.adjusted)) + 
+    geom_line() + 
+    labs(title = str_glue('Plot for {isolate(input$ticker)}'),
+         subtitle = get_subtitle(df_prices),
+         x = '',
+         y = 'Adjusted Price',
+         caption = my_caption) + 
+    theme_minimal()
+  
+  return(p)
+}
 
 do_perf_plot <- function(df_in) {
   
@@ -25,7 +69,7 @@ do_perf_plot <- function(df_in) {
          subtitle = str_glue('Plot shows the distribution of annually equivalent returns by different horizon'),
          x = 'Return per year',
          y = 'Investment Horizon (months)',
-         caption = str_glue('Plot from <www.msperlin.com/shiny/bgs> | Data from Yahoo Finance')) + 
+         caption = my_caption) + 
     xlim(c(quantile(df_ret$ret_year, 0.025), 
            quantile(df_ret$ret_year, 0.975))) + 
     scale_x_continuous(labels = percent)
