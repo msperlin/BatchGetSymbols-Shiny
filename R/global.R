@@ -17,4 +17,4 @@ available_collections <- sort(unique(df_collections$collection))
 
 n_available_stocks <- dplyr::n_distinct(df_collections$ticker)
 
-my_caption <- str_glue('Data from Yahoo Finance | <www.msperlin.com/shiny/bgs>')
+my_caption <- 'Data from Yahoo Finance | <www.msperlin.com/shiny/bgs>'
