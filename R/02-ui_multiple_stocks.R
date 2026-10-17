@@ -11,8 +11,10 @@ ui_multiple_stocks <- function(){
             box(width = 3,
                 dateRangeInput('date_range_multiple', 
                                label = 'Select Time Period',
-                               start = Sys.Date() - years_back*365,
-                               end = Sys.Date())
+                               start = max(static_first_date, static_last_date - years_back*365),
+                               end = static_last_date,
+                               min = static_first_date,
+                               max = static_last_date)
             )
           ),
           

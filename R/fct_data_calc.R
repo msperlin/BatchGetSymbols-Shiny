@@ -3,12 +3,12 @@ calc_performance <- function(df_in) {
   tab <- df_in %>%
     group_by(ticker) %>%
     summarise(
-      n_years = (max(ref.date) -
-                   min(ref.date))[[1]]/365,
-      total_ret = last(price.adjusted)/
-        first(price.adjusted) - 1,
+      n_years = (max(ref_date) -
+                   min(ref_date))[[1]]/365,
+      total_ret = last(price_adjusted)/
+        first(price_adjusted) - 1,
       ret_per_year = (1 + total_ret)^(1/n_years) - 1,
-      max_drawdown = maxDrawdown(ret.adjusted.prices)
+      max_drawdown = maxDrawdown(ret_adjusted_prices)
     ) %>%
     arrange(desc(total_ret)) %>%
     mutate(total_ret = percent(total_ret, accuracy = 0.01),
@@ -25,12 +25,12 @@ calc_performance <- function(df_in) {
 
 calc_cumret <- function(df_prices, ticker_in) {
   df_prices_temp <- df_prices %>%
-    select(ref.date, ticker, ret.adjusted.prices) %>%
+    select(ref_date, ticker, ret_adjusted_prices) %>%
     filter(ticker == ticker_in) %>%
     na.omit()
   
-  df_prices_temp$ret.adjusted.prices[1] <- 0 
-  df_prices_temp$cum_ret <- cumprod(1+df_prices_temp$ret.adjusted.prices)
+  df_prices_temp$ret_adjusted_prices[1] <- 0 
+  df_prices_temp$cum_ret <- cumprod(1+df_prices_temp$ret_adjusted_prices)
   
   return(df_prices_temp)
 }

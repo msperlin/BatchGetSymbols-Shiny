@@ -1,4 +1,4 @@
-library(BatchGetSymbols)
+library(yfR)
 library(tidyverse)
 library(furrr)
 

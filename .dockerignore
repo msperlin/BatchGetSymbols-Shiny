@@ -1,0 +1,14 @@
+.git
+.gitignore
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+renv/library
+renv/staging
+renv/local
+data/bgs-cache
+cache-indices
+*.log
+Dockerfile
+.dockerignore

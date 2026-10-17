@@ -1,6 +1,5 @@
 library(shiny)
 library(ggplot2)
-library(BatchGetSymbols)
 library(stringr)
 library(shinyWidgets)
 library(shinydashboard)
@@ -154,50 +153,34 @@ server <- function(input, output, session) {
     
     
     get_single_price <- reactive({
-        tib_prices <- tibble()
         
-        if (is.null(input$date_range)) {
-            first_date <- Sys.Date() - 5*365
-            last_date <- Sys.Date()
-        } else {
-            first_date = as.Date(input$date_range[1])
-            last_date = as.Date(input$date_range[2])
+        req(input$ticker)
+        
+        df_prices <- static_prices %>%
+            filter(ticker == input$ticker)
+        
+        if (!is.null(input$date_range)) {
+            df_prices <- df_prices %>%
+                filter(ref_date >= as.Date(input$date_range[1]),
+                       ref_date <= as.Date(input$date_range[2]))
         }
         
-        try({
-            tib_prices <- BatchGetSymbols(
-                tickers = input$ticker,
-                first.date = first_date,
-                last.date = last_date,
-                cache.folder = cache_folder_stocks,
-                thresh.bad.data = 0.1)[[2]]
-        })
-        
-        return(tib_prices)
+        return(df_prices)
     })
     
     get_index_price <- reactive({
-        tib_prices <- tibble()
-        #browser()
+        req(input$index_to_pick)
         
-        if (is.null(input$date_range)) {
-            first_date <- Sys.Date() - 5*365
-            last_date <- Sys.Date()
-        } else {
-            first_date = as.Date(input$date_range_index[1])
-            last_date = as.Date(input$date_range_index[2])
+        df_prices <- static_prices %>%
+            filter(ticker %in% input$index_to_pick)
+        
+        if (!is.null(input$date_range_index)) {
+            df_prices <- df_prices %>%
+                filter(ref_date >= as.Date(input$date_range_index[1]),
+                       ref_date <= as.Date(input$date_range_index[2]))
         }
         
-        try({
-            tib_prices <- BatchGetSymbols(
-                tickers = input$index_to_pick,
-                first.date = first_date,
-                last.date = last_date,
-                thresh.bad.data = 0.1, 
-                cache.folder = cache_folder_indices)[[2]]
-        })
-        
-        return(tib_prices)
+        return(df_prices)
     })
     
     get_available_tickers <- reactive({
@@ -330,17 +313,18 @@ server <- function(input, output, session) {
     })
     
     get_multiple_prices <- reactive({
-        tib_prices <- tibble()
+        req(input$multiple_tickers)
         
-        try({
-            tib_prices <- BatchGetSymbols(
-                tickers = input$multiple_tickers,
-                first.date = input$date_range_multiple[1],
-                last.date = input$date_range_multiple[2],
-                thresh.bad.data = 0.1)[[2]]
-        })
+        df_prices <- static_prices %>%
+            filter(ticker %in% input$multiple_tickers)
         
-        return(tib_prices)
+        if (!is.null(input$date_range_multiple)) {
+            df_prices <- df_prices %>%
+                filter(ref_date >= as.Date(input$date_range_multiple[1]),
+                       ref_date <= as.Date(input$date_range_multiple[2]))
+        }
+        
+        return(df_prices)
     })
     
     output$multiple_price_plot <- renderPlot({
@@ -405,7 +389,7 @@ server <- function(input, output, session) {
                     df_prices = df_prices)
             )
             
-            p <- ggplot(df_prices_2, aes(x = ref.date, 
+            p <- ggplot(df_prices_2, aes(x = ref_date, 
                                          y = cum_ret,
                                          color = ticker)) + 
                 geom_line() + 

@@ -1,19 +1,24 @@
 # OPTIONS
 years_back <- 5
-cache_folder_indices <- file.path(tempdir(), 'bgs_cache')
-cache_folder_stocks <- file.path(tempdir(), 'bgs_cache')
 
 options(digits = 4,
         accuracy = 0.01)
 
-# load static data
+# load static (pre-downloaded) price data -- no network access at runtime.
+# rebuild it with: Rscript scripts/build_static_data.R
+static_prices <- readRDS('data/static_prices.rds')
+
+static_first_date <- min(static_prices$ref_date)
+static_last_date  <- max(static_prices$ref_date)
+
+# load the ticker catalog, keeping only tickers we have prices for
 df_collections <- readr::read_csv('data/collections.csv',
                                   col_types = readr::cols())
 
-available_collections <- sort(unique(df_collections$collection))
+df_collections <- dplyr::filter(df_collections,
+                                ticker %in% static_prices$ticker)
 
-# stock_indices <- readr::read_csv('data/stock_indices.csv',
-#                                   col_types = readr::cols())
+available_collections <- sort(unique(df_collections$collection))
 
 n_available_stocks <- dplyr::n_distinct(df_collections$ticker)
 

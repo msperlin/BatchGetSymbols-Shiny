@@ -1,6 +1,6 @@
 get_subtitle <- function(df_prices) {
-  first_date <- min(df_prices$ref.date)
-  last_date <- max(df_prices$ref.date)
+  first_date <- min(df_prices$ref_date)
+  last_date <- max(df_prices$ref_date)
   
   subtitle_out <- str_glue('Data from {first_date} to {last_date}')
   
@@ -9,10 +9,10 @@ get_subtitle <- function(df_prices) {
 
 do_multiple_stock_plot <- function(df_prices, input) {
   
-  first_date <- min(df_prices$ref.date)
-  last_date <- max(df_prices$ref.date)
+  first_date <- min(df_prices$ref_date)
+  last_date <- max(df_prices$ref_date)
   
-  p <- ggplot(df_prices, aes(x = ref.date, 
+  p <- ggplot(df_prices, aes(x = ref_date, 
                              y = cum_ret,
                              color = ticker)) + 
     geom_line() + 
@@ -28,10 +28,10 @@ do_multiple_stock_plot <- function(df_prices, input) {
 
 do_single_stock_plot <- function(df_prices, input) {
   
-  first_date <- min(df_prices$ref.date)
-  last_date <- max(df_prices$ref.date)
+  first_date <- min(df_prices$ref_date)
+  last_date <- max(df_prices$ref_date)
   
-  p <- ggplot(df_prices, aes(x = ref.date, y = price.adjusted)) + 
+  p <- ggplot(df_prices, aes(x = ref_date, y = price_adjusted)) + 
     geom_line() + 
     labs(title = str_glue('Plot for {isolate(input$ticker)}'),
          subtitle = get_subtitle(df_prices),
@@ -91,20 +91,20 @@ calc_horizon_ret <- function(df_in, k_month) {
   min_observations <- 5
   
   cli::cli_alert_info('Calculating return by horizon for k = {k_month} months')
-  date_vec <- seq(first(df_in$ref.date),
-                  last(df_in$ref.date),
+  date_vec <- seq(first(df_in$ref_date),
+                  last(df_in$ref_date),
                   by = k_days)
   
   if (length(date_vec) < min_observations) return(tibble())
   
-  idx_closest_dates <- sapply(date_vec, get_closest_date, ref_dates = df_in$ref.date)
+  idx_closest_dates <- sapply(date_vec, get_closest_date, ref_dates = df_in$ref_date)
   idx_buy <- idx_closest_dates
   idx_sell <- lead(idx_closest_dates)
   
-  buy_price <- df_in$price.adjusted[idx_buy]
-  sell_price <- lead(df_in$price.adjusted[idx_sell])
+  buy_price <- df_in$price_adjusted[idx_buy]
+  sell_price <- lead(df_in$price_adjusted[idx_sell])
   days_diff <- na.omit(
-    as.numeric(df_in$ref.date[idx_sell] - df_in$ref.date[idx_buy])
+    as.numeric(df_in$ref_date[idx_sell] - df_in$ref_date[idx_buy])
   )
   
   ret <- na.omit(sell_price/buy_price - 1)
@@ -122,7 +122,7 @@ calc_horizon_ret <- function(df_in, k_month) {
 }
 # 
 # graphics.off()
-# df_in <- BatchGetSymbols::BatchGetSymbols(tickers = 'ITSA3.SA', first.date = '2000-01-01', thresh.bad.data = 0.1)[[2]]
+# df_in <- yfR::yf_get(tickers = 'ITSA3.SA', first_date = '2000-01-01', thresh_bad_data = 0.1)
 # p <- do_perf_plot(df_in)
 # 
 # 
